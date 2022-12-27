@@ -1,0 +1,77 @@
+<HT>		<FM>		<BM>		<TK>	
+
+STR 8       5
+INT	9	    15
+DEX	13	    5
+CON	6	    11
+
+ArmorPart: Gloves, Boots, Helmet, Pants, Breast 
+ArmorSetHT : ?,?,?,?,?
+ArmorSetFM : ?,?,?,?,?
+ArmorSetBM : ?,?,?,?,?
+ArmorSetTK : ?,?,?,?,?
+MortalQuest: 40-116, 116-??=, ???, ???
+
+LVL 30(29)	85(89)		 120(89)	160(138)
+
+STR - 28	76		 76		115	
+CON - 38	110		 110		169
+
+LVL 35(31)	90(92)		 125(92)	170(141)
+
+STR - 30	78		 78		118
+CON - 41	114		 114		173
+
+LVL 40(33)	95(95)		 130(95)	180(145)	
+
+STR - 31	81		 81		121
+CON - 43	117		 117		177
+
+LVL 45(36)	100(98)		 135(98)	190(148)
+
+STR - 34	83		 83		123
+CON - 47	121		 121		181
+
+LVL 50(44)	105(101)	 140(101)	200(151)
+
+STR - 40	86		 86		126
+CON - 56	125		 125		185
+
+=============================================================
+
+LVL 151(157) Heavens Bow  	LVL 256(261) Guardian Bow
+
+STR	162			0
+DEX	240			0
+
+=============================================================
+
+LVL 82 - Dragon PUPPY, 102 - Bear, 117 - Smilodon, 160- Parade Horse
+
+=============================================================
+
+Stat Point Priority: SetReq > Str > Con > Dex > Int (could be zero)
+Level 1-30(150SP):	Level 30-62(160SP):	Level 62-116(270SP):
+a)STR +90(98)		a)STR +41(139)		a)STR +36(175)
+b)CON +60(66)		b)CON +119(185)		b)DEX +227(240)
+			  =SetReq		   =WeapReq		at lvl 116
+
+HT Survival: Optimal Skill learnings
+Mastery Priority: Survival > WeaponMastery > Capture > Trade(could be zero)
+
+a - If in armia and lvl =! >13  -> Path ForeLearner -> Learn Trade 2       (Another Soul - 39 SP)
+b - If in armia and lvl =! >35  -> Path ForeLearner -> Learn Survival 3    (Two Weapon Fighting - 66 SP)
+c - If in armia and lvl =! >83  -> Path ForeLearner -> Learn Survival 6, 4 (Transfer Armor Class - 87 SP + Enchant Frost 51)
+d-  If in armia and lvl =! >95  -> Path ForeLearner -> Learn Capture 2     (Dodge - 42 SP)
+e-  If in armia and lvl =! >113 -> Path ForeLearner -> Learn Capture 3     (Hunter's Vision - 51 SP)
+f-  If 'SurvivalcurMax', 'WeaponMasterycurMax' and Capture = 123 -> Path ForeLearner -> Learn Capture 6 (Flanking Chance -90SP)
+g-  All the other skills can be learned at a later level. Next priority All Survival +8 Skill, *Skills
+
+Todo: 
+- Add FM, TK, BM, Magic/Melee 
+- Finish HT Stat Distribution, Few more points to con and rest in STR imo, discuss again?
+- Think about most efficient route after f)
+- Get English Set Names, 
+- Get specific Packets and write an efficient system for Stat, Mastery, and Skill distribution + Make it possible to select    between builds MG/DMG or even Skill related via command, gui, d3d
+
+- AND FUCKING TRANSLATE THIS INTO A DECENT FORMAT. 

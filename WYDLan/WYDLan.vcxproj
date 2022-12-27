@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{098f33d9-fbfe-4502-afac-4438533e499d}</ProjectGuid>
+    <RootNamespace>WYDLan</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+    <EnableASAN>false</EnableASAN>
+    <EnableFuzzer>false</EnableFuzzer>
+    <PreferredToolArchitecture>x86</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+    <EnableASAN>false</EnableASAN>
+    <EnableFuzzer>false</EnableFuzzer>
+    <PreferredToolArchitecture>x86</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+    <EnableASAN>false</EnableASAN>
+    <EnableFuzzer>false</EnableFuzzer>
+    <PreferredToolArchitecture>x86</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+    <EnableASAN>false</EnableASAN>
+    <EnableFuzzer>false</EnableFuzzer>
+    <PreferredToolArchitecture>x86</PreferredToolArchitecture>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LibraryPath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src\Wyd_Rupture;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src;C:\Users\User\Documents\Visual Studio 2022\D3DX9\ImGuiHook [Global] WorkingWYD\ImGuiHook [Global]\Directories\Microsoft DirectX SDK\Lib\x86;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Output;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath)</ExternalIncludePath>
+    <PublicIncludeDirectories>
+    </PublicIncludeDirectories>
+    <AllProjectIncludesArePublic>true</AllProjectIncludesArePublic>
+    <EnableManagedIncrementalBuild>true</EnableManagedIncrementalBuild>
+    <ManagedAssembly>false</ManagedAssembly>
+    <LinkIncremental>false</LinkIncremental>
+    <AllProjectBMIsArePublic>false</AllProjectBMIsArePublic>
+    <IncludePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Externals\imgui;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LibraryPath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src\Wyd_Rupture;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src;C:\Users\User\Documents\Visual Studio 2022\D3DX9\ImGuiHook [Global] WorkingWYD\ImGuiHook [Global]\Directories\Microsoft DirectX SDK\Lib\x86;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Output;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath)</ExternalIncludePath>
+    <LinkIncremental>false</LinkIncremental>
+    <PublicIncludeDirectories>
+    </PublicIncludeDirectories>
+    <AllProjectIncludesArePublic>true</AllProjectIncludesArePublic>
+    <EnableManagedIncrementalBuild>true</EnableManagedIncrementalBuild>
+    <ManagedAssembly>false</ManagedAssembly>
+    <AllProjectBMIsArePublic>false</AllProjectBMIsArePublic>
+    <IncludePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Externals\imgui;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LibraryPath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src\Wyd_Rupture;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src;C:\Users\User\Documents\Visual Studio 2022\D3DX9\ImGuiHook [Global] WorkingWYD\ImGuiHook [Global]\Directories\Microsoft DirectX SDK\Lib\x86;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Output;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath)</ExternalIncludePath>
+    <PublicIncludeDirectories>
+    </PublicIncludeDirectories>
+    <AllProjectIncludesArePublic>true</AllProjectIncludesArePublic>
+    <EnableManagedIncrementalBuild>true</EnableManagedIncrementalBuild>
+    <ManagedAssembly>false</ManagedAssembly>
+    <LinkIncremental>false</LinkIncremental>
+    <AllProjectBMIsArePublic>false</AllProjectBMIsArePublic>
+    <IncludePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Externals\imgui;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LibraryPath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src\Wyd_Rupture;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\src;C:\Users\User\Documents\Visual Studio 2022\D3DX9\ImGuiHook [Global] WorkingWYD\ImGuiHook [Global]\Directories\Microsoft DirectX SDK\Lib\x86;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Output;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath)</ExternalIncludePath>
+    <LinkIncremental>false</LinkIncremental>
+    <PublicIncludeDirectories>
+    </PublicIncludeDirectories>
+    <AllProjectIncludesArePublic>true</AllProjectIncludesArePublic>
+    <EnableManagedIncrementalBuild>true</EnableManagedIncrementalBuild>
+    <ManagedAssembly>false</ManagedAssembly>
+    <AllProjectBMIsArePublic>false</AllProjectBMIsArePublic>
+    <IncludePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\;C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\User\Desktop\WYDLan-nightly\WYDLan-nightly\WYDLan\UI\GUI\ImWindow\ImWindow\Externals\imgui;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <MultiProcessorCompilation>false</MultiProcessorCompilation>
+      <UseStandardPreprocessor>true</UseStandardPreprocessor>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <IncrementalLinkDatabaseFile>&lt;unterschiedliche Optionen&gt;</IncrementalLinkDatabaseFile>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
+      <ForceFileOutput>Enabled</ForceFileOutput>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <MultiProcessorCompilation>false</MultiProcessorCompilation>
+      <UseStandardPreprocessor>true</UseStandardPreprocessor>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <IncrementalLinkDatabaseFile>&lt;unterschiedliche Optionen&gt;</IncrementalLinkDatabaseFile>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
+      <ForceFileOutput>Enabled</ForceFileOutput>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <MultiProcessorCompilation>false</MultiProcessorCompilation>
+      <UseStandardPreprocessor>true</UseStandardPreprocessor>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <IncrementalLinkDatabaseFile>&lt;unterschiedliche Optionen&gt;</IncrementalLinkDatabaseFile>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
+      <ForceFileOutput>Enabled</ForceFileOutput>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <MultiProcessorCompilation>false</MultiProcessorCompilation>
+      <UseStandardPreprocessor>true</UseStandardPreprocessor>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <IncrementalLinkDatabaseFile>&lt;unterschiedliche Optionen&gt;</IncrementalLinkDatabaseFile>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
+      <ForceFileOutput>Enabled</ForceFileOutput>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="AStar.h" />
+    <ClInclude Include="Bot.h" />
+    <ClInclude Include="color.hpp" />
+    <ClInclude Include="UI\ConsoleMenu\Button.h" />
+    <ClInclude Include="UI\ConsoleMenu\Color.h" />
+    <ClInclude Include="UI\ConsoleMenu\Menu.h" />
+    <ClInclude Include="UI\ConsoleMenu\ProgressBar.h" />
+    <ClInclude Include="detours.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="Inventory.h" />
+    <ClInclude Include="logging.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="signal.hpp" />
+    <ClInclude Include="sigscan.h" />
+    <ClInclude Include="src\Wyd_Rupture\wyd_Rupture.h" />
+    <ClInclude Include="struct.h" />
+    <ClInclude Include="UI\D3DMenu\D3D9Menu\Directories\MinHook\Include\MinHook.h" />
+    <ClInclude Include="UI\GUI\EasyWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imconfig.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_internal.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImwConfig.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwPlatformWindowDX11.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwWindowManagerDX11.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\Win32MessageHelper.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwPlatformWindowEasyWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwWindowManagerEasyWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwContainer.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwMenu.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwPlatformWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwStatusBar.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwToolBar.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindow.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindowManager.h" />
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\sample.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AStar.cpp" />
+    <ClCompile Include="Bot.cpp" />
+    <ClCompile Include="Command.cpp" />
+    <ClCompile Include="UI\ConsoleMenu\Button.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="UI\ConsoleMenu\Menu.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="UI\ConsoleMenu\ProgressBar.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="GameState.cpp" />
+    <ClCompile Include="Inventory.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="src\Wyd_Rupture\wyd_Rupture.cpp" />
+    <ClCompile Include="struct.cpp" />
+    <ClCompile Include="UI\GUI\EasyWindow.cpp" />
+    <ClCompile Include="UI\GUI\EasyWindowWin32.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_demo.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_draw.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_tables.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_widgets.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwPlatformWindowDX11.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwWindowManagerDX11.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\main.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\Win32MessageHelper.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwPlatformWindowEasyWindow.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwWindowManagerEasyWindow.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwContainer.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwMenu.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwPlatformWindow.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwStatusBar.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwToolBar.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindow.cpp" />
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindowManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="detours.lib" />
+    <Library Include="src\Wyd_Rupture\Wyd_Rupture.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Efficient_Stat_Distribution.txt" />
+    <Text Include="..\itemlist_EN.txt" />
+    <Text Include="packetLog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\Wyd_Rupture\Wyd_Rupture.node" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WYDLan.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

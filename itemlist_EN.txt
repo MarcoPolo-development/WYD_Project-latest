@@ -1,0 +1,6500 @@
+Item 0 : 
+Item 1 : Transknight
+Item 2 : 
+Item 3 : 
+Item 4 : 
+Item 5 : 
+Item 6 : TransKnight
+Item 7 : TransKnight
+Item 8 : TransKnight
+Item 9 : TransKnight
+Item 10 : 
+Item 11 : Foema
+Item 12 : 
+Item 13 : 
+Item 14 : 
+Item 15 : 
+Item 16 : Foema
+Item 17 : Foema
+Item 18 : Foema
+Item 19 : Foema
+Item 20 : 
+Item 21 : Beast_Master
+Item 22 : Wolf_Master
+Item 23 : Bear_Master
+Item 24 : Astaroth
+Item 25 : Titan
+Item 26 : Beast_Master
+Item 27 : Beast_Master
+Item 28 : Beast_Master
+Item 29 : Beast_Master
+Item 30 : 
+Item 31 : Hunter
+Item 32 : Evilator
+Item 33 : 
+Item 34 : 
+Item 35 : 
+Item 36 : Hunter
+Item 37 : Hunter
+Item 38 : Hunter
+Item 39 : Hunter
+Item 40 : 
+Item 41 : Transknight
+Item 42 : Foema
+Item 43 : Beast_Master
+Item 44 : Hunter
+Item 45 : 
+Item 46 : 
+Item 47 : 
+Item 48 : 
+Item 49 : 
+Item 50 : 
+Item 51 : Ruty
+Item 52 : Town_Watcher
+Item 53 : Tera
+Item 54 : Compounder
+Item 55 : Ailine
+Item 56 : Akada
+Item 57 : Premium_Trader_Nell
+Item 58 : Smith
+Item 59 : Merchant
+Item 60 : Guard
+Item 61 : Elder_Foema
+Item 62 : Elder(helmet)
+Item 63 : Arch_Master
+Item 64 : Trader_Arnold
+Item 65 : Shiner's_face(Type_A)
+Item 66 : Shiner's_face(Type_B)
+Item 67 : Shiner's_face(Type_C)
+Item 68 : Tiny
+Item 69 : 
+Item 70 : Scorpion
+Item 71 : Murmy
+Item 72 : DeathWorm
+Item 73 : Anubis
+Item 74 : Anubis
+Item 75 : Anubis_Guard
+Item 76 : 
+Item 77 : 
+Item 78 : 
+Item 79 : 
+Item 80 : 
+Item 81 : 
+Item 82 : 
+Item 83 : 
+Item 84 : 
+Item 85 : 
+Item 86 : 
+Item 87 : 
+Item 88 : 
+Item 89 : 
+Item 90 : 
+Item 91 : 
+Item 92 : 
+Item 93 : 
+Item 94 : 
+Item 95 : 
+Item 96 : 
+Item 97 : 
+Item 98 : 
+Item 99 : 
+Item 100 : Steel_Helmet
+Item 101 : Steel-Armor
+Item 102 : Steel_Pants
+Item 103 : Steel_Gloves
+Item 104 : Steel_Boots
+Item 105 : Shell_Robe(helmet)
+Item 106 : Shell_Robe(Tunic)
+Item 107 : Shell_Robe(Skirt)
+Item 108 : Shell_Robe(Gloves)
+Item 109 : Shell_Robe(Boots)
+Item 110 : Casting_Robe(helmet)
+Item 111 : Casting_Robe(Tunic)
+Item 112 : Casting_Robe(Pants)
+Item 113 : Casting_Robe(Gloves)
+Item 114 : Casting_Robe(Boots)
+Item 115 : Artisan's_Helmet
+Item 116 : Artisan's_Breastplate
+Item 117 : Artisan's_Pants
+Item 118 : Artisan's_Gloves
+Item 119 : Artisan's_Boots
+Item 120 : Midas_Cap
+Item 121 : Midas_Coat
+Item 122 : Midas_Pants
+Item 123 : Midas_Gloves
+Item 124 : Midas_Boots
+Item 125 : Guard_leader_Helmet
+Item 126 : Guard_leader_Breastplate
+Item 127 : Guard_leader_Pants
+Item 128 : Guard_leader_Gloves
+Item 129 : Guard_leader_Boots
+Item 130 : Guard_leader_Helmet
+Item 131 : Guard_leader_Breastplate
+Item 132 : Arch_Helmet
+Item 133 : Arch_Breastplate
+Item 134 : Arch_Pants
+Item 135 : Arch_Gloves
+Item 136 : Arch_Boots
+Item 137 : Arnold_Helmet
+Item 138 : Arnold_Pants
+Item 139 : Ruby_Helmet
+Item 140 : Ruby_Breastplate
+Item 141 : Ruby_Pants
+Item 142 : Ruby_Gloves
+Item 143 : Ruby_Boots
+Item 144 : Watcher_Helmet
+Item 145 : Watcher_Breastplate
+Item 146 : Watcher_Pants
+Item 147 : Watcher_Gloves
+Item 148 : Watcher_Boots
+Item 149 : Tera_Helmet
+Item 150 : Tera_Breastplate
+Item 151 : Tera_Pants
+Item 152 : Tera_Gloves
+Item 153 : Tera_Boots
+Item 154 : Blue_king_Helmet
+Item 155 : Blue_king_Breastplate
+Item 156 : Blue_king_Pants
+Item 157 : Blue_king_Gloves
+Item 158 : Blue_king_Boots
+Item 159 : Orange_King_Helmet
+Item 160 : Orange_King_Breastplate
+Item 161 : Orange_King_Pants
+Item 162 : Orange_King_Gloves
+Item 163 : Orange_King_Boots
+Item 164 : Blue_Guard_Helmet
+Item 165 : Blue_Guard_Breastplate
+Item 166 : Blue_Guard_Pants
+Item 167 : Blue_Guard_Gloves
+Item 168 : Blue_GuardBoots
+Item 169 : Orange_Guard_Helmet
+Item 170 : Orange_Guard_Breastplate
+Item 171 : Orange_Guard_Pants
+Item 172 : Orange_Guard_Gloves
+Item 173 : Orange_Guard_Boots
+Item 174 : Black_Knight
+Item 175 : Legend_Black_Knight
+Item 176 : Shiner's_Body
+Item 177 : Korean_Clothes_Body
+Item 178 : Cannon
+Item 179 : 
+Item 180 : 
+Item 181 : Berserker_Face
+Item 182 : Berserker_Helmet
+Item 183 : Berserker_Armor
+Item 184 : Berserker_Leggings
+Item 185 : Berserker_Gauntlet
+Item 186 : Berserker_Boots
+Item 187 : 
+Item 188 : 
+Item 189 : 
+Item 190 : 
+Item 191 : 
+Item 192 : 
+Item 193 : 
+Item 194 : 
+Item 195 : 
+Item 196 : 
+Item 197 : 
+Item 198 : 
+Item 199 : Dragon
+Item 200 : Dragon
+Item 201 : Emerald_Dragon
+Item 202 : Gremlin
+Item 203 : Crill
+Item 204 : Crill_Chief
+Item 205 : Whale
+Item 206 : Eagle
+Item 207 : Orc_Knight
+Item 208 : Orc_Knight
+Item 209 : Orc_Archer
+Item 210 : B_Orc_Knight
+Item 211 : B_Orc_Archer
+Item 212 : Axe_Troll
+Item 213 : Hammar_Troll
+Item 214 : B_Axe_Troll
+Item 215 : B_Hammar_Troll
+Item 216 : Wild_Boar
+Item 217 : Angel
+Item 218 : Hydra
+Item 219 : Tower_of_Tore
+Item 220 : Moonhealth
+Item 221 : Boa
+Item 222 : Gremlin_King
+Item 223 : Pigeon
+Item 224 : Gold_Dragon
+Item 225 : War_Boar
+Item 226 : Wolf
+Item 227 : Bear
+Item 228 : Ghoul
+Item 229 : Ghoul_Chief
+Item 230 : Carbunkle
+Item 231 : Carbunkle_Hire
+Item 232 : Orc_Shaman
+Item 233 : Cyclops
+Item 234 : Bloody_Cyclops
+Item 235 : Minotaurs
+Item 236 : Dread_Taurus
+Item 237 : Taurs_King
+Item 238 : Argos
+Item 239 : Devil
+Item 240 : Lizard1
+Item 241 : Lizard2
+Item 242 : Archer_Cyclops
+Item 243 : Mage_Cyclops
+Item 244 : Trample_Tiger
+Item 245 : Sturning_Gorilla
+Item 246 : Astaroth
+Item 247 : Froggy_Head
+Item 248 : Froggy_Head
+Item 249 : Froggy_Head
+Item 250 : Froggy_Head
+Item 251 : Froggy_Boots
+Item 252 : Odd_Froggy_Head
+Item 253 : Odd_Froggy_Head
+Item 254 : Odd_Froggy_Head
+Item 255 : Odd_Froggy_Head
+Item 256 : Odd_Froggy_Head
+Item 257 : Zakum_Archer
+Item 258 : Zakum_Archer
+Item 259 : Zakum_Guard
+Item 260 : Skeleton_Face
+Item 261 : Skeleton_Head
+Item 262 : Skeleton_Trunk
+Item 263 : Skeleton_Pants
+Item 264 : Skeleton_Pants
+Item 265 : Skeleton_Boots
+Item 266 : Skeleton_Chief_Helmet
+Item 267 : Skeleton_Chief_Trunk
+Item 268 : Skeleton_Chief_Pants
+Item 269 : Skeleton_Chief_Gloves
+Item 270 : Skeleton_Chief_Boots
+Item 271 : Skeleton_Bonze_Face
+Item 272 : Skeleton_Bonze_Helmet
+Item 273 : Skeleton_Bonze_Trunk
+Item 274 : Skeleton_Bonze_Pants
+Item 275 : Skeleton_Bonze_Gloves
+Item 276 : Skeleton_Bonze_Boots
+Item 277 : Skeleton_Archer_Face
+Item 278 : Skeleton_Archer_Helmet
+Item 279 : Skeleton_Archer_Trunk
+Item 280 : Skeleton_Archer_Pants
+Item 281 : Skeleton_Archer_Gloves
+Item 282 : Skeleton_Archer_Boots
+Item 283 : Dark_Knight
+Item 284 : Dark_Elf
+Item 285 : Dark_Elf_Archer_Trunk
+Item 286 : Dark_Elf_Bonze_Trunk
+Item 287 : Legend_Dark_Elf
+Item 288 : Legend_Elf_Archer_Trunk
+Item 289 : Legend_Elf_Bonze_Trunk
+Item 290 : Legend_Black_Cape
+Item 291 : Dungeon_Bear
+Item 292 : Bat
+Item 293 : Bone_Dragon
+Item 294 : Devil
+Item 295 : Devil_Boss
+Item 296 : Zombie_Troll
+Item 297 : Golem
+Item 298 : Golem_Chief
+Item 299 : Wolf
+Item 300 : Dragon_Puppy
+Item 301 : Goat
+Item 302 : Titan
+Item 303 : Blue_King
+Item 304 : Orange_King
+Item 305 : Orange_Guard
+Item 306 : Undead_Troll
+Item 307 : Black_Dragon
+Item 308 : 
+Item 309 : Water_Golem
+Item 310 : Fire_Gargoyle
+Item 311 : Frenzy_Demon_Lord
+Item 312 : New_Troll1
+Item 313 : New_Troll1
+Item 314 : New_Troll1
+Item 315 : Pig
+Item 316 : Tamed_Boar
+Item 317 : Tamed_Wolf
+Item 318 : Dragon_Puppy
+Item 319 : Tamed_Bear
+Item 320 : Smilodon
+Item 321 : Bareback_Horse
+Item 322 : Steed
+Item 323 : Swift_Horse
+Item 324 : Harnessed_Horse
+Item 325 : Parade_Horse
+Item 326 : Bareback_Horse
+Item 327 : Steed
+Item 328 : Swift_Horse
+Item 329 : Harnessed_Horse
+Item 330 : Parade_Horse
+Item 331 : Fenrir
+Item 332 : Dragon
+Item 333 : Fauness
+Item 334 : Fire_Tiger
+Item 335 : Red_Dragon
+Item 336 : Unicorn
+Item 337 : Pegasus
+Item 338 : Unisus
+Item 339 : Griffin
+Item 340 : Hippogriff
+Item 341 : Bloody_Criffe
+Item 342 : Shire_Horse
+Item 343 : Thoroughbred_Horse
+Item 344 : Clydesdale_Horse
+Item 345 : Gullfaxi_Horse
+Item 346 : Helriohdon
+Item 347 : BerialSuhoja_Face
+Item 348 : tteok
+Item 349 : Swift_Horse
+Item 350 : Swift_Horse
+Item 351 : Trant
+Item 352 : Hell_Spider
+Item 353 : Tarantula
+Item 354 : Man_Trap
+Item 355 : Purple_Worm
+Item 356 : Santa_Carbunkle
+Item 357 : Guard_Tower
+Item 358 : Vine
+Item 359 : Bush
+Item 360 : Mighty_Talos
+Item 361 : Batorero
+Item 362 : Kephra
+Item 363 : Kephra_Guard
+Item 364 : Hell_Lich
+Item 365 : Arc_Lich
+Item 366 : Puner_Simer
+Item 367 : Puner_Cycler
+Item 368 : Ape
+Item 369 : Amon_Soldier
+Item 370 : Amon_Warrior
+Item 371 : Amon_Chief
+Item 372 : Snowfield_chief
+Item 373 : Snowfield_Wolf
+Item 374 : Ancient_Ant
+Item 375 : Ancient_Ape
+Item 376 : Kalints_Cat_Man_Face
+Item 377 : Kalints_Cat_Man_Helmet
+Item 378 : Kalints_Cat_Man_Body
+Item 379 : Kalints_Cat_Man_Leggings
+Item 380 : Kalints_Cat_Man_Gauntlets
+Item 381 : Kalints_Cat_Man_Boots
+Item 382 : Kalints_Cat_Women's_Face
+Item 383 : Kalints_Cat_Women's_Helmet
+Item 384 : Kalints_Cat_Women's_Body
+Item 385 : Kalints_Cat_Women's_Lenggings
+Item 386 : Kalints_Cat_Women's_Gauntlet
+Item 387 : Kalints_Cat_Women's_Boots
+Item 388 : Frozen_Troll
+Item 389 : Kaizer_Wolf
+Item 390 : Cursed_Templer
+Item 391 : Cursed_Sorcerer
+Item 392 : Cursed_Shaman
+Item 393 : Cursed_Ranger
+Item 394 : Valkiry
+Item 395 : Dark_Queen_Beriel
+Item 396 : Succubus
+Item 397 : Balrog
+Item 398 : Barrack
+Item 399 : Legend_Berial
+Item 400 : Healing_Potion(S)
+Item 401 : Healing_Potion(M)
+Item 402 : Healing_Potion(ML)
+Item 403 : Healing_Potion(L)
+Item 404 : Healing_Potion(XL)
+Item 405 : Mana_Potion(S)
+Item 406 : Mana_Potion(M)
+Item 407 : Mana_Potion(ML)
+Item 408 : Mana_Potion(L)
+Item 409 : Mana_Potion(XL)
+Item 410 : Recall_Scroll
+Item 411 : Recall_Scroll(10)
+Item 412 : Oriharukon_Powder
+Item 413 : Laktorerium_Powder
+Item 414 : Fairy_Dust
+Item 415 : Recovery_Herb
+Item 416 : Kappa
+Item 417 : Adelas
+Item 418 : sharin_Of_Kein
+Item 419 : Oriharukon_Scrap
+Item 420 : Laktorerium_Scrap
+Item 421 : Crystal_1
+Item 422 : Crystal_2
+Item 423 : Crystal_3
+Item 424 : Crystal_4
+Item 425 : Crystal_5
+Item 426 : Crystal_6
+Item 427 : Crystal_7
+Item 428 : Healing_Potion5_Boxes(M)
+Item 429 : Healing_Potion10_Boxes(M)
+Item 430 : Healing_Potion5_Boxes(L)
+Item 431 : Healing_Potion5_Boxes(L)
+Item 432 : Mana_Potion5_Boxes(M)
+Item 433 : Mana_Potion10_Boxes(M)
+Item 434 : Mana_Potion5_Boxes(L)
+Item 435 : Mana_Potion5_Boxes(L)
+Item 436 : Hired_Soldier_Contract(Knight)
+Item 437 : Hired_Soldier_Contract(Archer)
+Item 438 : Hired_Soldier_Contract(Mage)
+Item 439 : Hired_Soldier_Contract(Knight)
+Item 440 : Hired_Soldier_Contract(Archer)
+Item 441 : Hired_Soldier_Contract(Mage)
+Item 442 : 
+Item 443 : 
+Item 444 : 
+Item 445 : 
+Item 446 : Guild_Board_Scroll
+Item 447 : Divine_Circle_Piece
+Item 448 : Pure_Divine_Circle
+Item 449 : Pure_Divine_Circle
+Item 450 : Pure_Divine_Circle
+Item 451 : First_Gate_Key
+Item 452 : Second_Gate_Key
+Item 453 : Final_Gate_Key
+Item 454 : Gold_Coin_1
+Item 455 : Gold_Coin_1
+Item 456 : Gold_Coin_1
+Item 457 : South_Gate
+Item 458 : First_Gate_Key
+Item 459 : Second_Gate_Key
+Item 460 : 
+Item 461 : Final_Gate_Key
+Item 462 : Orc_Castle_South_Gate
+Item 463 : Orc_Castle_East_Gate
+Item 464 : Orc_Castle_Final_S_Gate
+Item 465 : Orc_Castle_South_Gate_Key
+Item 466 : Orc_Castle_East_Gate_Key
+Item 467 : Orc_Castle_Final_S.G_Key
+Item 468 : Orc_Castle_Final_E_Gate
+Item 469 : Orc_Castle_Final_E.G_Key
+Item 470 : Magical_Pill
+Item 471 : Guild_Battle_Gate
+Item 472 : Steel_Window
+Item 473 : Christmas_Gift_Box
+Item 474 : Test_Gift_Box
+Item 475 : Treasure_Box
+Item 476 : Santa_Treasure_Box
+Item 477 : Mission_1_Treasure_Box
+Item 478 : Mission_2_Treasure_Box
+Item 479 : Mission_3_Treasure_Box
+Item 480 : Treasure_Box
+Item 481 : Eye_Wax
+Item 482 : Treasure_Box
+Item 483 : Treasure_Box
+Item 484 : Treasure_Box
+Item 485 : Treasure_Box
+Item 486 : Rareness_Treasure_Box
+Item 487 : Treasure_Box
+Item 488 : Treasure_Box
+Item 489 : Treasure_Box
+Item 490 : Battle_Royal_Badge(N)
+Item 491 : Battle_Royal_Badge(M)
+Item 492 : Battle_Royal_Badge(H)
+Item 493 : 
+Item 494 : 
+Item 495 : 
+Item 496 : Bread_5
+Item 497 : Sausage_5
+Item 498 : Meat_5
+Item 499 : Condition_Recovery_Item
+Item 500 : Condition_Recovery_Item
+Item 501 : Power_Ring
+Item 502 : Mana's_Ring
+Item 503 : Physical_Strength_Ring
+Item 504 : Life's_Ring
+Item 505 : Dexterity_Ring
+Item 506 : Magical_Ring
+Item 507 : Power_Bracelet
+Item 508 : Medal_Of_Guild
+Item 509 : Medal_Of_Guild_Master
+Item 510 : Mana's_Bracelet
+Item 511 : Physical_Strength_Bracelet
+Item 512 : Life's_Bracelet
+Item 513 : Dexterity_Bracelet
+Item 514 : Magical_Bracelet
+Item 515 : Bracelet
+Item 516 : Mana's_Pendent
+Item 517 : Physical_Strength_Pendent
+Item 518 : Life's_Pendent
+Item 519 : Dexterity_Pendent
+Item 520 : Magical_Pendent
+Item 521 : Power_Pendent
+Item 522 : Medal_Of_Kingdom
+Item 523 : White_Lover_Ring
+Item 524 : Orc_Emblem
+Item 525 : Eye_Wax
+Item 526 : Medal_Of_Guild_Chief1
+Item 527 : Medal_Of_Guild_Chief2
+Item 528 : Medal_Of_Guild_Chief3
+Item 529 : Medal_Of_Guild_Chief1
+Item 530 : Medal_Of_Guild_Chief2
+Item 531 : Medal_Of_Guild_Chief3
+Item 532 : Medal_Of_Guild1
+Item 533 : Medal_Of_Guild2
+Item 534 : Medal_Of_Guild3
+Item 535 : Medal_Of_Kingdom1
+Item 536 : Medal_Of_Kingdom2
+Item 537 : Medal_Of_Kingdom3
+Item 538 : Medal_Of_Citizen
+Item 539 : 
+Item 540 : Spirit_Stone
+Item 541 : Spirit_Stone
+Item 542 : Moon_Stone
+Item 543 : Cape_Of_CruSader
+Item 544 : Cape_Of_Shiner
+Item 545 : Hekalotia_Cape
+Item 546 : Akeronia_Cape
+Item 547 : Kill_Mark
+Item 548 : Cape_Of_Wanderer
+Item 549 : Cape_Of_Adventurer
+Item 550 : Monster_White_Cape
+Item 551 : Silver_Amulet
+Item 552 : Silver_Amulet
+Item 553 : Silver_Amulet
+Item 554 : Silver_Amulet
+Item 555 : Gold_Amulet
+Item 556 : Gold_Amulet
+Item 557 : Gold_Amulet
+Item 558 : Gold_Amulet
+Item 559 : Mystic_Amulet
+Item 560 : Mystic_Amulet
+Item 561 : Mystic_Amulet
+Item 562 : Crystal_Amulet
+Item 563 : Crystal_Amulet
+Item 564 : Crystal_Amulet
+Item 565 : Crystal_Amulet
+Item 566 : Crystal_Amulet
+Item 567 : Arcane_Amulet
+Item 568 : Arcane_Amulet
+Item 569 : Arcane_Amulet
+Item 570 : Arcane_Amulet
+Item 571 : 
+Item 572 : Campion's_Cape
+Item 573 : Campion's_Cape
+Item 574 : Campion's_Cape
+Item 575 : Spinell_Ore
+Item 576 : Beryl_Ore
+Item 577 : Tektite_Ore
+Item 578 : Adamantite_Ore
+Item 579 : Final_Defensive_Weapon_Legend_Ore
+Item 580 : 
+Item 581 : 
+Item 582 : 
+Item 583 : 
+Item 584 : 
+Item 585 : 
+Item 586 : 
+Item 587 : 
+Item 588 : 
+Item 589 : 
+Item 590 : 
+Item 591 : Mana's_earing
+Item 592 : Physical_Strength_earing
+Item 593 : Dexterity_earing
+Item 594 : Magical_earing
+Item 595 : Power_earing
+Item 596 : 
+Item 597 : 
+Item 598 : 
+Item 599 : Fragrant_Pouch
+Item 600 : Dumplings
+Item 601 : Fire_Orb
+Item 602 : Ice_Orb
+Item 603 : Thunder_Orb
+Item 604 : Holy_Orb
+Item 605 : Magical_Pill
+Item 606 : Magical_Pill
+Item 607 : Magical_Pill
+Item 608 : Eye_Of_Arger
+Item 609 : Eye_Of_Exier
+Item 610 : Eye_of_Lamu
+Item 611 : Holy_Eye
+Item 612 : Fire_Protecter
+Item 613 : Ice_Protecter
+Item 614 : Thunder_Protecter
+Item 615 : Holy_Protecter
+Item 616 : Wisdom_Pearl
+Item 617 : Jusitce_Pearl
+Item 618 : Victory_Pearl
+Item 619 : Glory_Pearl
+Item 620 : Boundless_Pearl
+Item 621 : Wisdom_Pearl
+Item 622 : Wisdom_Pearl
+Item 623 : 
+Item 624 : 
+Item 625 : 
+Item 626 : 
+Item 627 : 
+Item 628 : 
+Item 629 : 
+Item 630 : 
+Item 631 : Spirit_Stone
+Item 632 : Spirit_Stone
+Item 633 : Spirit_Stone
+Item 634 : not_used
+Item 635 : not_used
+Item 636 : not_used
+Item 637 : not_used
+Item 638 : 
+Item 639 : 
+Item 640 : Mana's_Necklace
+Item 641 : Physical_Strength_Necklace
+Item 642 : Magical_Necklace
+Item 643 : Power_Necklace
+Item 644 : 
+Item 645 : 
+Item 646 : Secret_Medicine_Of_Courage
+Item 647 : Wonder_Drug_Of_Courage
+Item 648 : 
+Item 649 : not_used
+Item 650 : not_used
+Item 651 : Ruby_Of_Carbunkle
+Item 652 : Ruby_Of_Carbunkle
+Item 653 : Ruby_Of_Carbunkle
+Item 654 : Necro_Stone
+Item 655 : Necro_Stone
+Item 656 : Necro_Stone
+Item 657 : Ruby_Of_Friendship
+Item 658 : Gem_Of_Siren
+Item 659 : Gem_Of_Siren
+Item 660 : Gem_Of_Siren
+Item 661 : Justic_Ankh
+Item 662 : Eternity_Ankh
+Item 663 : Glory_Ankh
+Item 664 : 
+Item 665 : 
+Item 666 : 
+Item 667 : Conjure_Cannon
+Item 668 : Thorn_Wall
+Item 669 : Resurrect
+Item 670 : Concentration
+Item 671 : Spectral_Force
+Item 672 : 
+Item 673 : Hell_Gate's_Marker
+Item 674 : Kephra's_Toenail
+Item 675 : Dark_Shadow's_Heart
+Item 676 : Dark_Queen_Beriel's_Hair
+Item 677 : Dark_Queen_Beriel's_Heart
+Item 678 : Berial_Soul
+Item 679 : Divine_Protection
+Item 680 : Healing_Potion_5_Box(M)
+Item 681 : Healing_Potion_10_Box(M)
+Item 682 : Healing_Potion(M)
+Item 683 : Healing_Potion_5_Box(L)
+Item 684 : HP_Potion_Box(XL)
+Item 685 : HP_Potion_Box(XXL)
+Item 686 : Mana_Potion_5_Box
+Item 687 : Mana_Potion_10_Box
+Item 688 : Mana_Potion(M)
+Item 689 : Mana_Potion_5_Box
+Item 690 : MP_Potion_Box(XL)
+Item 691 : MP_Potion_Box(XXL)
+Item 692 : Full_Divine_Circle_Piece
+Item 693 : Pure_Full_Divine_Circle
+Item 694 : Pure_Full_Divine_Circle
+Item 695 : Pure_Full_Divine_Circle
+Item 696 : Gold_Coin_Bundle
+Item 697 : Sapphire
+Item 698 : Gold_Coin_Bundle(L)
+Item 699 : Warp_Scroll
+Item 700 : Gem_Of_Lodestar
+Item 701 : Carbunkle_Wand
+Item 702 : Cyclops_Axe
+Item 703 : Argos_Axe_Reservation
+Item 704 : Argos_Discus
+Item 705 : Halforc_Of_Axe
+Item 706 : Orc_Warrior_Weapon
+Item 707 : Hunter_Troll_Weapon
+Item 708 : Carbunkle_Hire_Weapon
+Item 709 : Cyclops_Weapon
+Item 710 : Drad_Taurus_Weapon
+Item 711 : Taurus_King
+Item 712 : Town_Watcher_Cane
+Item 713 : Fallen_Troll_Cane
+Item 714 : Orc_Doctor_Cane
+Item 715 : Argos_Axe
+Item 716 : Cruel_Cyclops_Axe
+Item 717 : Pollarm_Of_Taurus
+Item 718 : Zakum_Hammar
+Item 719 : Zakum_Axe
+Item 720 : Zakum_Bow
+Item 721 : Frog_Short_Sword
+Item 722 : Frog_Long_Sword
+Item 723 : Skeleton_Sword1
+Item 724 : Skeleton_Sword2
+Item 725 : Skeleton_Shield
+Item 726 : Skeleton_Sickle
+Item 727 : Skeleton_Spear
+Item 728 : Dark_Knight_Axe
+Item 729 : Elf_Bow
+Item 730 : Bone_Axe
+Item 731 : Blue_Gem_Staff
+Item 732 : Eye_Of_Carbunkle
+Item 733 : Gungnir
+Item 734 : Cape_Of_CruSader
+Item 735 : Cape_Of_Shiner
+Item 736 : Hekalotia_Cape
+Item 737 : Akeronia_Cape
+Item 738 : Monster_Black_Cape
+Item 739 : Jigder_Argos_Hammer
+Item 740 : Dark_Elf_Knight_Sword
+Item 741 : Dark_Elf_Abjurer_Cane
+Item 742 : Dark_Elf_Abjurer_Shield
+Item 743 : Undead_Troll_Chief_Spear
+Item 744 : Demo_Gogon_Claw
+Item 745 : Frenzy_Demon_Lord_Spear
+Item 746 : Cannon
+Item 747 : Atila's_Crown
+Item 748 : Trant_Weapon
+Item 749 : Taron_Archer_Bow
+Item 750 : Christmas_Event
+Item 751 : Dragon_Emblem
+Item 752 : Phoenix_Emblem_LV1
+Item 753 : Imp
+Item 754 : Phoenix_Emblem_LV2
+Item 755 : Phoenix_Emblem_LV3
+Item 756 : Phoenix_Emblem_LV4
+Item 757 : Two_Castle_Gate
+Item 758 : First_Gate
+Item 759 : Second_Gate
+Item 760 : Third_Gate
+Item 761 : Fourth_Gate
+Item 762 : Neptune
+Item 763 : Uranus
+Item 764 : Venus
+Item 765 : Mars
+Item 766 : Saturn
+Item 767 : Mercury
+Item 768 : Jupiter
+Item 769 : Naiads
+Item 770 : Mandragora's_Leaf
+Item 771 : Naiads'_Heart
+Item 772 : Darkness_Jewelry
+Item 773 : Castle_Gate
+Item 774 : Master_Switch_Stone
+Item 775 : Slave_Switch_Stone
+Item 776 : Warp_Scroll_10
+Item 777 : Water_Scroll(Mystic)LV1
+Item 778 : Water_Scroll(Mystic)LV2
+Item 779 : Water_Scroll(Mystic)LV3
+Item 780 : Water_Scroll(Mystic)LV4
+Item 781 : Water_Scroll(Mystic)LV5
+Item 782 : Water_Scroll(Mystic)LV6
+Item 783 : Water_Scroll(Mystic)LV7
+Item 784 : Water_Scroll(Mystic)LV8
+Item 785 : Nesses's_Summon_Letter(Mystic)
+Item 786 : HP_Double_Item(Monster)
+Item 787 : Kappa_Potion
+Item 788 : Continent_Map_Piece
+Item 789 : Continent_Map_Piece
+Item 790 : Continent_Map_Piece
+Item 791 : Continent_Map_Piece
+Item 792 : Continent_Map_Piece
+Item 793 : Continent_Map_Piece
+Item 794 : NONAME
+Item 795 : NONAME
+Item 796 : NONAME
+Item 797 : NONAME
+Item 798 : NONAME
+Item 799 : NONAME
+Item 800 : Castle_Gate
+Item 801 : Club
+Item 802 : Hand_Axe
+Item 803 : Spike_Club
+Item 804 : Mace
+Item 805 : Cracker
+Item 806 : Double_Axe
+Item 807 : Gothic_Mace
+Item 808 : Mithril_Hammer
+Item 809 : Dragon_Hammer
+Item 810 : Slayer_Hammer
+Item 811 : Thron_Of_Axe
+Item 812 : 
+Item 813 : 
+Item 814 : 
+Item 815 : 
+Item 816 : Small_Bow
+Item 817 : Wooden_Bow
+Item 818 : Large_Bow
+Item 819 : Battle_Bow
+Item 820 : Daiging_Bow
+Item 821 : Speed_Of_Light_Bow
+Item 822 : Mithril_Bow
+Item 823 : Hydra_Bow
+Item 824 : Elven_Bow
+Item 825 : Heaven's_Bow
+Item 826 : Thron_Of_Isis
+Item 827 : 
+Item 828 : 
+Item 829 : 
+Item 830 : 
+Item 831 : Bagnow
+Item 832 : Knuckle_Cutter
+Item 833 : Claw
+Item 834 : Sharp_Claw
+Item 835 : Kamairah_Knife
+Item 836 : Darkness_Claw
+Item 837 : Hidden_Spear
+Item 838 : Assassin_Knife
+Item 839 : Behemoth_Tusk
+Item 840 : Talon_Of_Dragon
+Item 841 : Thron_Of_Kairas
+Item 842 : 
+Item 843 : 
+Item 844 : 
+Item 845 : 
+Item 846 : Short_Spear
+Item 847 : Glaive
+Item 848 : Winged_Spear
+Item 849 : Lance
+Item 850 : Fauchard
+Item 851 : Trident
+Item 852 : Panaka
+Item 853 : Brionac
+Item 854 : Gungnir
+Item 855 : Victory's_Spear
+Item 856 : Thron_Of_Garve
+Item 857 : 
+Item 858 : 
+Item 859 : 
+Item 860 : 
+Item 861 : Dagger
+Item 862 : Short_Sword
+Item 863 : Stiletto
+Item 864 : Rapier
+Item 865 : Scimitar
+Item 866 : Cross_Sword
+Item 867 : Gladius
+Item 868 : Soul_Blade
+Item 869 : Gram
+Item 870 : Bhopal_Sword
+Item 871 : Thron_Of_Shard
+Item 872 : 
+Item 873 : 
+Item 874 : 
+Item 875 : 
+Item 876 : Dart
+Item 877 : Throwing_Axe
+Item 878 : Snake_Prikle
+Item 879 : Cutting_Boomerang
+Item 880 : Tomahawk
+Item 881 : Chakram
+Item 882 : Shamire
+Item 883 : Astaroth_Knife
+Item 884 : Lightning_Spear
+Item 885 : Holy_Cross
+Item 886 : Thron_Of_Deimos
+Item 887 : 
+Item 888 : 
+Item 889 : 
+Item 890 : 
+Item 891 : Wooden_Cane
+Item 892 : War_Rod
+Item 893 : Cutter_Staff
+Item 894 : Gem_Staff
+Item 895 : Silent_Staff
+Item 896 : Falcon_Rod
+Item 897 : Saint's_Cane
+Item 898 : Wing_Rod
+Item 899 : Eye_Of_Carbunkle
+Item 900 : Kerykeion
+Item 901 : Blue_Gem_Staff
+Item 902 : Amber_Gem_Staff
+Item 903 : Thron_Of_Zen_Staff
+Item 904 : Thron_Of_Rune_Staff
+Item 905 : 
+Item 906 : Long_Sword
+Item 907 : Bastard_Sword
+Item 908 : Broade_Sword
+Item 909 : Double_Blade
+Item 910 : Prominence_Edge
+Item 911 : Kaladbolg
+Item 912 : Thron_Of_Breaker
+Item 913 : 
+Item 914 : 
+Item 915 : 
+Item 916 : Doom_Axe
+Item 917 : Cuttluss
+Item 918 : Magic_Cane
+Item 919 : Mortal_Rod
+Item 920 : Hunting_Spear
+Item 921 : Three_Tine_Claw
+Item 922 : Javelin
+Item 923 : Ash_Bow
+Item 924 : 
+Item 925 : 
+Item 926 : 
+Item 927 : 
+Item 928 : 
+Item 929 : 
+Item 930 : 
+Item 931 : Hammer
+Item 932 : War_Hammer
+Item 933 : Battle_Axe
+Item 934 : Great_Axe
+Item 935 : Psychic_Hammer
+Item 936 : Mjollnir
+Item 937 : Thron_Of_Hell_Hammer
+Item 938 : Rock_Hammer
+Item 939 : Froggy_Sword
+Item 940 : Orc_Staff
+Item 941 : Side_Of_Mage
+Item 942 : Crecent_Of_Argos
+Item 943 : Skull_Bow
+Item 944 : Pollarm_Of_Taurus
+Item 945 : Froggy_Blade
+Item 946 : Orc_Knight_Axe
+Item 947 : Troll_Hammer
+Item 948 : Half_Orc_Axe
+Item 949 : Troll_Axe
+Item 950 : Orc_Arrow
+Item 951 : Stiletto
+Item 952 : Raypier
+Item 953 : Scimitar
+Item 954 : Cross_Sword
+Item 955 : Gladius
+Item 956 : Long_Sword
+Item 957 : Bastard_Sword
+Item 958 : Broade_Sword
+Item 959 : Double_Blade
+Item 960 : Prominence_Edge
+Item 961 : Spike_Club
+Item 962 : Mace
+Item 963 : Cracker
+Item 964 : Double_Axe
+Item 965 : Gothic_Mace
+Item 966 : Hammer
+Item 967 : War_Hammer
+Item 968 : Battel_Axe
+Item 969 : Great_Axe
+Item 970 : Psychic_Hammer
+Item 971 : Large_Bow
+Item 972 : Battle_Bow
+Item 973 : Daising_Bow
+Item 974 : Speed_Of_Light_Bow
+Item 975 : Mithril_Bow
+Item 976 : Cutter_Staff
+Item 977 : Gem_Staff
+Item 978 : Silent_Staff
+Item 979 : Falcon_Rod
+Item 980 : Saint's_Cane
+Item 981 : Claw
+Item 982 : Sharp_Claw
+Item 983 : Chimaera_Knife
+Item 984 : Darkness_Claw
+Item 985 : Hidden_Spear
+Item 986 : Winged_Spear
+Item 987 : Lance
+Item 988 : Pochard
+Item 989 : Trident
+Item 990 : Panaka
+Item 991 : Snake_Prickle
+Item 992 : Cutting_Boomerang
+Item 993 : Tomahawk
+Item 994 : Chakram
+Item 995 : Shamire
+Item 996 : Santa_Carbunkle_Wand
+Item 997 : Heaven_Of_Shard
+Item 998 : Heaven_Of_Isis
+Item 999 : Heaven_Of_Garve
+Item 1000 : Heaven_Of_Staff
+Item 1001 : 
+Item 1002 : 
+Item 1003 : 
+Item 1004 : 
+Item 1005 : Unique_Axe
+Item 1006 : Unique_Bow
+Item 1007 : Unique_Claw
+Item 1008 : Unique_Spear
+Item 1009 : Unique_Shard
+Item 1010 : Unique_Cross
+Item 1011 : Unique_Rune_Rod
+Item 1012 : Unique_Zen_Rod
+Item 1013 : Unique_Beaker
+Item 1014 : Unique_Hammer
+Item 1015 : Unique_Shield
+Item 1016 : Anubis_Staff
+Item 1017 : Carnaval_Event_wand
+Item 1018 : 
+Item 1019 : 
+Item 1020 : 
+Item 1021 : 
+Item 1022 : 
+Item 1023 : 
+Item 1024 : 
+Item 1025 : 
+Item 1026 : 
+Item 1027 : 
+Item 1028 : 
+Item 1029 : 
+Item 1030 : 
+Item 1031 : 
+Item 1032 : 
+Item 1033 : 
+Item 1034 : 
+Item 1035 : 
+Item 1036 : 
+Item 1037 : 
+Item 1038 : 
+Item 1039 : 
+Item 1040 : 
+Item 1041 : 
+Item 1042 : 
+Item 1043 : 
+Item 1044 : 
+Item 1045 : 
+Item 1046 : 
+Item 1047 : 
+Item 1048 : 
+Item 1049 : 
+Item 1050 : 
+Item 1051 : 
+Item 1052 : 
+Item 1053 : 
+Item 1054 : 
+Item 1055 : 
+Item 1056 : 
+Item 1057 : 
+Item 1058 : 
+Item 1059 : 
+Item 1060 : 
+Item 1061 : 
+Item 1062 : 
+Item 1063 : 
+Item 1064 : 
+Item 1065 : 
+Item 1066 : 
+Item 1067 : 
+Item 1068 : 
+Item 1069 : 
+Item 1070 : 
+Item 1071 : 
+Item 1072 : 
+Item 1073 : 
+Item 1074 : 
+Item 1075 : 
+Item 1076 : 
+Item 1077 : 
+Item 1078 : 
+Item 1079 : 
+Item 1080 : 
+Item 1081 : 
+Item 1082 : 
+Item 1083 : 
+Item 1084 : 
+Item 1085 : 
+Item 1086 : 
+Item 1087 : 
+Item 1088 : 
+Item 1089 : 
+Item 1090 : 
+Item 1091 : 
+Item 1092 : 
+Item 1093 : 
+Item 1094 : 
+Item 1095 : 
+Item 1096 : 
+Item 1097 : 
+Item 1098 : 
+Item 1099 : 
+Item 1100 : 
+Item 1101 : Leather_Helmet(Normal)
+Item 1102 : Leather_Helmet(Mystic)
+Item 1103 : Leather_Helmet(Arcane)
+Item 1104 : Hard_Leather_Helmet(Normal)
+Item 1105 : Hard_Leather_Helmet(Mystic)
+Item 1106 : Hard_Leather_Helmet(Arcane)
+Item 1107 : Sturdy_Leather_Helmet(Normal)
+Item 1108 : Sturdy_Leather_Helmet(Mystic)
+Item 1109 : Sturdy_Leather_Helmet(Arcane)
+Item 1110 : Chain_Helmet(Normal)
+Item 1111 : Chain_Helmet(Mystic)
+Item 1112 : Chain_Helmet(Arcane)
+Item 1113 : Leather_Breastplate(Normal)
+Item 1114 : Leather_Breastplate(Mystic)
+Item 1115 : Leather_Breastplate(Arcane)
+Item 1116 : Hard_Leather_Breastplate(Normal)
+Item 1117 : Hard_Leather_Breastplate(Mystic)
+Item 1118 : Hard_Leather_Breastplate(Arcane)
+Item 1119 : Sturdy_Leather_Breastplate(Normal)
+Item 1120 : Sturdy_Leather_Breastplate(Mystic)
+Item 1121 : Sturdy_Leather_Breastplate(Arcane)
+Item 1122 : Chain_Breastplate(Normal)
+Item 1123 : Chain_Breastplate(Mystic)
+Item 1124 : Chain_Breastplate(Arcane)
+Item 1125 : Leather_Pants(Normal)
+Item 1126 : Leather_Pants(Mystic)
+Item 1127 : Leather_Pants(Arcane)
+Item 1128 : Hard_Leather_Pants(Normal)
+Item 1129 : Hard_Leather_Pants(Mystic)
+Item 1130 : Hard_Leather_Pants(Arcane)
+Item 1131 : Sturdy_Leather_Pants(Normal)
+Item 1132 : Sturdy_Leather_Pants(Mystic)
+Item 1133 : Sturdy_Leather_Pants(Arcane)
+Item 1134 : Chain_Pants(Normal)
+Item 1135 : Chain_Pants(Mystic)
+Item 1136 : Chain_Pants(Arcane)
+Item 1137 : Leather_Gloves(Normal)
+Item 1138 : Leather_Gloves(Mystic)
+Item 1139 : Leather_Gloves(Arcane)
+Item 1140 : Hard_Leather_Gloves(Normal)
+Item 1141 : Hard_Leather_Gloves(Mystic)
+Item 1142 : Hard_Leather_Gloves(Arcane)
+Item 1143 : Sturdy_Leather_Gloves(Normal)
+Item 1144 : Sturdy_Leather_Gloves(Mystic)
+Item 1145 : Sturdy_Leather_Gloves(Arcane)
+Item 1146 : Chain_Gloves(Normal)
+Item 1147 : Chain_Gloves(Mystic)
+Item 1148 : Chain_Gloves(Arcane)
+Item 1149 : Leather_Boots(Normal)
+Item 1150 : Leather_Boots(Mystic)
+Item 1151 : Leather_Boots(Arcane)
+Item 1152 : Hard_Leather_Boots(Normal)
+Item 1153 : Hard_Leather_Boots(Mystic)
+Item 1154 : Hard_Leather_Boots(Arcane)
+Item 1155 : Sturdy_Leather_Boots(Normal)
+Item 1156 : Sturdy_Leather_Boots(Mystic)
+Item 1157 : Sturdy_Leather_Boots(Arcane)
+Item 1158 : Chain_Boots(Normal)
+Item 1159 : Chain_Boots(Mystic)
+Item 1160 : Chain_Boots(Arcane)
+Item 1161 : Plate_Helmet(Normal)
+Item 1162 : Plate_Helmet(Mystic)
+Item 1163 : Plate_Helmet(Arcane)
+Item 1164 : Plate_Breastplate(Normal)
+Item 1165 : Plate_Breastplate(Mystic)
+Item 1166 : Plate_Breastplate(Arcane)
+Item 1167 : Plate_Pants(Normal)
+Item 1168 : Plate_Pants(Mystic)
+Item 1169 : Plate_Pants(Arcane)
+Item 1170 : Plate_Gloves(Normal)
+Item 1171 : Plate_Gloves(Mystic)
+Item 1172 : Plate_Gloves(Arcane)
+Item 1173 : Plate_Boots(Normal)
+Item 1174 : Plate_Boots(Mystic)
+Item 1175 : Plate_Boots(Arcane)
+Item 1176 : Golden_Plate_Helmet(Normal)
+Item 1177 : Golden_Plate_Helmet(Mystic)
+Item 1178 : Golden_Plate_Helmet(Arcane)
+Item 1179 : Golden_Plate_Breastplate(Normal)
+Item 1180 : Golden_Plate_Breastplate(Mystic)
+Item 1181 : Golden_Plate_Breastplate(Arcane)
+Item 1182 : Golden_Plate_Pants(Normal)
+Item 1183 : Golden_Plate_Pants_(Mystic)
+Item 1184 : Golden_Plate_Pants(Arcane)
+Item 1185 : Golden_Plate_Gloves(Normal)
+Item 1186 : Golden_Plate_Gloves(Mystic)
+Item 1187 : Golden_Plate_Gloves(Arcane)
+Item 1188 : Golden_Plate_Boots(Normal)
+Item 1189 : Golden_Plate_Boots(Mystic)
+Item 1190 : Golden_Plate_Boots(Arcane)
+Item 1191 : Dwarfen_Plate_Helmet(Normal)
+Item 1192 : Dwarfen_Plate_Helmet(Mystic)
+Item 1193 : Dwarfen_Plate_Helmet(Arcane)
+Item 1194 : Dwarfen_Plate_Breastplate(Normal)
+Item 1195 : Dwarfen_Plate_Breastplate(Mystic)
+Item 1196 : Dwarfen_Plate_Breastplate(Arcane)
+Item 1197 : Dwarfen_Plate_Pants(Normal)
+Item 1198 : Dwarfen_Plate_Pants(Mystic)
+Item 1199 : Dwarfen_Plate_Pants(Arcane)
+Item 1200 : Dwarfen_Plate_Gloves(Normal)
+Item 1201 : Dwarfen_Plate_Gloves(Mystic)
+Item 1202 : Dwarfen_Plate_Gloves(Arcane)
+Item 1203 : Dwarfen_Plate_Boots(Normal)
+Item 1204 : Dwarfen_Plate_Boots(Mystic)
+Item 1205 : Dwarfen_Plate_Boots(Arcane)
+Item 1206 : Golden_Embossed_Helmet(Normal)
+Item 1207 : Golden_Embossed_Helmet(Mystic)
+Item 1208 : Golden_Embossed_Helmet(Arcane)
+Item 1209 : Golden_Embossed_Breastplate(Normal)
+Item 1210 : Golden_Embossed_Breastplate(Mystic)
+Item 1211 : Golden_Embossed_Breastplate(Arcane)
+Item 1212 : Golden_Embossed_Pants(Normal)
+Item 1213 : Golden_Embossed_Pants(Mystic)
+Item 1214 : Golden_Embossed_Pants(Arcane)
+Item 1215 : Golden_Embossed_Gloves(Normal)
+Item 1216 : Golden_Embossed_Gloves(Mysticl)
+Item 1217 : Golden_Embossed_Gloves(Arcane)
+Item 1218 : Golden_Embossed_Boots(Normal)
+Item 1219 : Golden_Embossed_Boots(Mystic)
+Item 1220 : Golden_Embossed_Boots(Arcane)
+Item 1221 : Initiate_Breastplate
+Item 1222 : Initiate_Pants
+Item 1223 : Initiate_Gloves
+Item 1224 : Initiate_Boots
+Item 1225 : Slayer_Helmet
+Item 1226 : Slayer_Breastplate
+Item 1227 : Slayer_Pants
+Item 1228 : Slayer_Gloves
+Item 1229 : Slayer_Boots
+Item 1230 : Pheonix_Breastplate
+Item 1231 : Pheonix_Pants
+Item 1232 : Pheonix_Gloves
+Item 1233 : Pheonix_Boots
+Item 1234 : Closed_Pheonix_Breastplate
+Item 1235 : Closed_Pheonix_Pants
+Item 1236 : Closed_Pheonix_Gloves
+Item 1237 : Closed_Pheonix_Boots
+Item 1238 : Tivas_Breastplate
+Item 1239 : Tivas_Pants
+Item 1240 : Tivas_Gloves
+Item 1241 : Tivas_Boots
+Item 1242 : RedDragon_Pheonix_Breastplate
+Item 1243 : RedDragon_Pheonix_Pants
+Item 1244 : RedDragon_Pheonix_Gloves
+Item 1245 : RedDragon_Pheonix_Boots
+Item 1246 : BlueDragon_Pheonix_Breastplate
+Item 1247 : BlueDragon_Pheonix_Pants
+Item 1248 : BlueDragon_Pheonix_Gloves
+Item 1249 : BlueDragon_Pheonix_Boots
+Item 1250 : 
+Item 1251 : Stole_Hood(Normal)
+Item 1252 : Stole_Hood(Mystic)
+Item 1253 : Stole_Hood(Arcane)
+Item 1254 : Silk_Cloth_Hood(Normal)
+Item 1255 : Silk_Cloth_Hood(Mystic)
+Item 1256 : Silk_Cloth_Hood(Arcane)
+Item 1257 : Vampire_Robe_Helmet(Normal)
+Item 1258 : Vampire_Robe_Helmet(Mystic)
+Item 1259 : Vampire_Robe_Helmet(Arcane)
+Item 1260 : Shadow_Robe_Helmet(Normal)
+Item 1261 : Shadow_Robe_Helmet(Mystic)
+Item 1262 : Shadow_Robe_Helmet(Arcane)
+Item 1263 : Stole_Tunic(Normal)
+Item 1264 : Stole_Tunic(Mystic)
+Item 1265 : Stole_Tunic(Arcane)
+Item 1266 : Silk_Cloth_Tunic(Normal)
+Item 1267 : Silk_Cloth_Tunic(Mystic)
+Item 1268 : Silk_Cloth_Tunic(Arcane)
+Item 1269 : Vampire_Robe_Tunic(Normal)
+Item 1270 : Vampire_Robe_Tunic(Mystic)
+Item 1271 : Vampire_Robe_Tunic(Arcane)
+Item 1272 : Shadow_Robe_Tunic(Normal)
+Item 1273 : Shadow_Robe_Tunic(Mystic)
+Item 1274 : Shadow_Robe_Tunic(Arcane)
+Item 1275 : Stole_Skirt(Normal)
+Item 1276 : Stole_Skirt(Mystic)
+Item 1277 : Stole_Skirt(Arcane)
+Item 1278 : Silk_Cloth_Skirt(Normal)
+Item 1279 : Silk_Cloth_Skirt(Mystic)
+Item 1280 : Silk_Cloth_Skirt(Arcane)
+Item 1281 : Vampire_Rove_Skirt(Normal)
+Item 1282 : Vampire_Rove_Skirt(Mystic)
+Item 1283 : Vampire_Rove_Skirt(Arcane)
+Item 1284 : Shadow_Robe_Skirt(Normal)
+Item 1285 : Shadow_Robe_Skirt(Mystic)
+Item 1286 : Shadow_Robe_Skirt(Arcane)
+Item 1287 : Stole_Gloves(Normal)
+Item 1288 : Stole_Gloves(Mystic)
+Item 1289 : Stole_Gloves(Arcane)
+Item 1290 : Silk_Cloth_Gloves(Normal)
+Item 1291 : Silk_Cloth_Gloves(Mystic)
+Item 1292 : Silk_Cloth_Gloves(Arcane)
+Item 1293 : Vampire_rove_Gloves(Normal)
+Item 1294 : Vampire_rove_Gloves(Mystic)
+Item 1295 : Vampire_rove_Gloves(Arcane)
+Item 1296 : Shadow_Robe_Gloves(Normal)
+Item 1297 : Shadow_Robe_Gloves(Mystic)
+Item 1298 : Shadow_Robe_Gloves(Arcane)
+Item 1299 : Stole_Boots(Normal)
+Item 1300 : Stole_Boots(Mystic)
+Item 1301 : Stole_Boots(Arcane)
+Item 1302 : Silk_Cloth_Boots(Normal)
+Item 1303 : Silk_Cloth_Boots(Mysticl)
+Item 1304 : Silk_Cloth_Boots(Arcane)
+Item 1305 : Vampire_Robe_Boots(Normal)
+Item 1306 : Vampire_Robe_Boots(Mystic)
+Item 1307 : Vampire_Robe_Boots(Arcane)
+Item 1308 : Shadow_Robe_Boots(Normal)
+Item 1309 : Shadow_Robe_Boots(Mystic)
+Item 1310 : Shadow_Robe_Boots(Arcane)
+Item 1311 : Shell_Robe_Helmet(Normal)
+Item 1312 : Shell_Robe_Helmet(Mystic)
+Item 1313 : Shell_Robe_Helmet(Arcane)
+Item 1314 : Shell_Robe_tunic(Normal)
+Item 1315 : Shell_Robe_Tunic(Mysticl)
+Item 1316 : Shell_Robe_Tunic(Arcane)
+Item 1317 : Shell_Robe_Skirt(Normal)
+Item 1318 : Shell_Robe_Skirt(Mystic)
+Item 1319 : Shell_Robe_Skirt(Arcane)
+Item 1320 : Shell_Robe_Gloves(Normal)
+Item 1321 : Shell_Robe_Gloves(Mystic)
+Item 1322 : Shell_Robe_Gloves(Arcane)
+Item 1323 : Shell_Robe_Boots(Normal)
+Item 1324 : Shell_Robe_Boots(Mystic)
+Item 1325 : Shell_Robe_Boots(Arcane)
+Item 1326 : Casting_Robe_Helmet(Normal)
+Item 1327 : Casting_Robe_Helmet(Mystic)
+Item 1328 : Casting_Robe_Helmet(Arcane)
+Item 1329 : Casting_Robe_Tunic(Normal)
+Item 1330 : Casting_Robe_Tunic(Mystic)
+Item 1331 : Casting_Robe_Tunic(Arcane)
+Item 1332 : Casting_Robe_Pants(Normal)
+Item 1333 : Casting_Robe_Pants(Mystic)
+Item 1334 : Casting_Robe_Pants(Arcane)
+Item 1335 : Casting_Robe_Gloves(Normal)
+Item 1336 : Casting_Robe_Gloves(Mystic)
+Item 1337 : Casting_Robe_Gloves(Arcane)
+Item 1338 : Casting_Robe_Boots(Normal)
+Item 1339 : Casting_Robe_Boots(Mystic)
+Item 1340 : Casting_Robe_Boots(Arcane)
+Item 1341 : Mithril_Robe_Helmet(Normal)
+Item 1342 : Mithril_Robe_Helmet(Mystic)
+Item 1343 : Mithril_Robe_Helmet(Arcane)
+Item 1344 : Mithril_Robe_Tunic(Normal)
+Item 1345 : Mithril_Robe_Tunic(Mystic)
+Item 1346 : Mithril_Robe_Tunic(Arcane)
+Item 1347 : Mithril_Robe_Pants(Normal)
+Item 1348 : Mithril_Robe_Pants(Mystic)
+Item 1349 : Mithril_Robe_Pants(Arcane)
+Item 1350 : Mithril_Robe_Gloves(Normal)
+Item 1351 : Mithril_Robe_Gloves(Mystic)
+Item 1352 : Mithril_Robe_Gloves(Arcane)
+Item 1353 : Mithril_Robe_Boots(Normal)
+Item 1354 : Mithril_Robe_Boots(Mystic)
+Item 1355 : Mithril_Robe_Boots(Arcane)
+Item 1356 : Guardian_Scale_Tunic
+Item 1357 : Guardian_Scale_Pants
+Item 1358 : Guardian_Scale_Gloves
+Item 1359 : Guardian_Scale_Boots
+Item 1360 : Templess_Helmet
+Item 1361 : Templess_Tunic
+Item 1362 : Templess_Pants
+Item 1363 : Templess_Gloves
+Item 1364 : Templess_Boots
+Item 1365 : Naiad_Tunic
+Item 1366 : Naiad_Pants
+Item 1367 : Naiad_Gloves
+Item 1368 : Naiad_Boots
+Item 1369 : Closed_Naiad_Tunic
+Item 1370 : Closed_Naiad_Pants
+Item 1371 : Closed_Naiad_Gloves
+Item 1372 : Closed_Naiad_Boots
+Item 1373 : Njord_Tunic
+Item 1374 : Njord_Pants
+Item 1375 : Njord_Gloves
+Item 1376 : Njord_Boots
+Item 1377 : RedDragon_Naiad_Breastplate
+Item 1378 : RedDragon_Naiad_Pants
+Item 1379 : RedDragon_Naiad_Gloves
+Item 1380 : RedDragon_Naiad_Boots
+Item 1381 : BlueDragon_Naiad_Breastplate
+Item 1382 : BlueDragon_Naiad_Pants
+Item 1383 : BlueDragon_Naiad_Gloves
+Item 1384 : BlueDragon_Naiad_Boots
+Item 1385 : 
+Item 1386 : 
+Item 1387 : 
+Item 1388 : 
+Item 1389 : 
+Item 1390 : 
+Item 1391 : 
+Item 1392 : 
+Item 1393 : 
+Item 1394 : 
+Item 1395 : 
+Item 1396 : 
+Item 1397 : 
+Item 1398 : 
+Item 1399 : 
+Item 1400 : 
+Item 1401 : Light_Pelt_Helmet(Normal)
+Item 1402 : Light_Pelt_Helmet(Mystic)
+Item 1403 : Light_Pelt_Helmet(Arcane)
+Item 1404 : Light_Pelt_Breastplate(Normal)
+Item 1405 : Light_Pelt_Breastplate(Mystic)
+Item 1406 : Light_Pelt_Breastplate(Arcane)
+Item 1407 : Light_Pelt_Pants(Normal)
+Item 1408 : Light_Pelt_Pants(Mystic)
+Item 1409 : Light_Pelt_Pants(Arcane)
+Item 1410 : Light_Pelt_Gloves(Normal)
+Item 1411 : Light_Pelt_Gloves(Mystic)
+Item 1412 : Light_Pelt_Gloves(Arcane)
+Item 1413 : Light_Pelt_Boots(Normal)
+Item 1414 : Light_Pelt_Boots(Mystic)
+Item 1415 : Light_Pelt_Boots(Arcane)
+Item 1416 : Wolf_Spirit_Pelt_Helmet(Normal)
+Item 1417 : Wolf_Spirit_Pelt_Helmet(Mystic)
+Item 1418 : Wolf_Spirit_Pelt_Helmet(Arcane)
+Item 1419 : Wolf_Spirit_Pelt_Breastplate(Normal)
+Item 1420 : Wolf_Spirit_Pelt_Breastplate(Mystic)
+Item 1421 : Wolf_Spirit_Pelt_Breastplate(Arcane)
+Item 1422 : Wolf_Spirit_Pelt_Pants(Normal)
+Item 1423 : Wolf_Spirit_Pelt_Pants(Mystic)
+Item 1424 : Wolf_Spirit_Pelt_Pants(Arcane)
+Item 1425 : Wolf_Spirit_Pelt_Gloves(Normal)
+Item 1426 : Wolf_Spirit_Pelt_Gloves(Mystic)
+Item 1427 : Wolf_Spirit_Pelt_Gloves(Arcane)
+Item 1428 : Wolf_Spirit_Pelt_Boots(Normal)
+Item 1429 : Wolf_Spirit_Pelt_Boots(Mystic)
+Item 1430 : Wolf_Spirit_Pelt_Boots(Arcane)
+Item 1431 : Leo_Spirit_Pelt_Helmet(Normal)
+Item 1432 : Leo_Spirit_Pelt_Helmet(Mystic)
+Item 1433 : Leo_Spirit_Pelt_Helmet(Arcane)
+Item 1434 : Leo_Spirit_Pelt_Breastplate(Normal)
+Item 1435 : Leo_Spirit_Pelt_Breastplate(Mystic)
+Item 1436 : Leo_Spirit_Pelt_Breastplate(Arcane)
+Item 1437 : Leo_Spirit_Pelt_Pants(Normal)
+Item 1438 : Leo_Spirit_Pelt_Pants(Mystic)
+Item 1439 : Leo_Spirit_Pelt_Pants(Arcane)
+Item 1440 : Leo_Spirit_Pelt_Gloves(Normal)
+Item 1441 : Leo_Spirit_Pelt_Gloves(Mystic)
+Item 1442 : Leo_Spirit_Pelt_Gloves(Arcane)
+Item 1443 : Leo_Spirit_Pelt_Boots(Normal)
+Item 1444 : Leo_Spirit_Pelt_Boots(Mystic)
+Item 1445 : Leo_Spirit_Pelt_Boots(Arcane)
+Item 1446 : Eagle_Spirit_Pelt_Helmet(Normal)
+Item 1447 : Eagle_Spirit_Pelt_Helmet(Mystic)
+Item 1448 : Eagle_Spirit_Pelt_Helmet(Arcane)
+Item 1449 : Eagle_Spirit_Pelt_Breastplate(Normal)
+Item 1450 : Eagle_Spirit_Pelt_Breastplate(Mystic)
+Item 1451 : Eagle_Spirit_Pelt_Breastplate(Arcane)
+Item 1452 : Eagle_Spirit_Pelt_Pants(Normal)
+Item 1453 : Eagle_Spirit_Pelt_Pants(Mystic)
+Item 1454 : Eagle_Spirit_Pelt_Pants(Arcane)
+Item 1455 : Eagle_Spirit_Pelt_Gloves(Normal)
+Item 1456 : Eagle_Spirit_Pelt_Gloves(Mystic)
+Item 1457 : Eagle_Spirit_Pelt_Gloves(Arcane)
+Item 1458 : Eagle_Spirit_Pelt_Boots(Normal)
+Item 1459 : Eagle_Spirit_Pelt_Boots(Mystic)
+Item 1460 : Eagle_Spirit_Pelt_Boots(Arcane)
+Item 1461 : Bone_Spirit_Helmet(Normal)
+Item 1462 : Bone_Spirit_Helmet(Mystic)
+Item 1463 : Bone_Spirit_Helmet(Arcane)
+Item 1464 : Bone_Spirit_Breastplate(Normal)
+Item 1465 : Bone_Spirit_Breastplate(Mystic)
+Item 1466 : Bone_Spirit_Breastplate(Arcane)
+Item 1467 : Bone_Spirit_Pants(Normal)
+Item 1468 : Bone_Spirit_Pants(Mystic)
+Item 1469 : Bone_Spirit_Pants(Arcane)
+Item 1470 : Bone_Spirit_Gloves(Normal)
+Item 1471 : Bone_Spirit_Gloves(Mystic)
+Item 1472 : Bone_Spirit_Gloves(Arcane)
+Item 1473 : Bone_Spirit_Boots(Normal)
+Item 1474 : Bone_Spirit_Boots(Mystic)
+Item 1475 : Bone_Spirit_Boots(Arcane)
+Item 1476 : Iron_Helmet(Normal)
+Item 1477 : Iron_Helmet(Mystic)
+Item 1478 : Iron_Helmet(Arcane)
+Item 1479 : Iron_Breastplate(Normal)
+Item 1480 : Iron_Breastplate(Mystic)
+Item 1481 : Iron_Breastplate(Arcane)
+Item 1482 : Iron_Pants(Normal)
+Item 1483 : Iron_Pants(Mystic)
+Item 1484 : Iron_Pants(Arcane)
+Item 1485 : Iron_Gloves(Normal)
+Item 1486 : Iron_Gloves(Mystic)
+Item 1487 : Iron_Glvoes(Arcane)
+Item 1488 : Iron_Boots(Normal)
+Item 1489 : Iron_Boots(Mystic)
+Item 1490 : Iron_Boots(Arcane)
+Item 1491 : Meta_Elemental_Helmet(Normal)
+Item 1492 : Meta_Elemental_Helmet(Mystic)
+Item 1493 : Meta_Elemental_Helmet(Arcane)
+Item 1494 : Meta_Elemental_Breastplate(Normal)
+Item 1495 : Meta_Elemental_Breastplate(Mystic)
+Item 1496 : Meta_Elemental_Breastplate(Arcane)
+Item 1497 : Meta_Elemental_Pants(Normal)
+Item 1498 : Meta_Elemental_Pants(Mystic)
+Item 1499 : Meta_Elemental_Pants(Arcane)
+Item 1500 : Meta_Elemental_Gloves(Normal)
+Item 1501 : Meta_Elemental_Gloves(Mystic)
+Item 1502 : Meta_Elemental_Gloves(Arcane)
+Item 1503 : Meta_Elemental_Boots(Normal)
+Item 1504 : Meta_Elemental_Boots(Mystic)
+Item 1505 : Meta_Elemental_Boots(Arcane)
+Item 1506 : Distraction_Breastplate
+Item 1507 : Distraction_Pants
+Item 1508 : Distraction_Gloves
+Item 1509 : Distraction_Boots
+Item 1510 : Raven_Helmet
+Item 1511 : Raven_Breastplate
+Item 1512 : Raven_Pants
+Item 1513 : Raven_Gloves
+Item 1514 : Raven_Boots
+Item 1515 : Oread_Breastplate
+Item 1516 : Oread_Pants
+Item 1517 : Oread_Gloves
+Item 1518 : Oread_Boots
+Item 1519 : Closed_Oread_Breastplate
+Item 1520 : Closed_Oread_Pants
+Item 1521 : Closed_Oread_Gloves
+Item 1522 : Closed_Oread_Boots
+Item 1523 : Vidar_Breastplate
+Item 1524 : Vidar_Pants
+Item 1525 : Vidar_Gloves
+Item 1526 : Vidar_Boots
+Item 1527 : RedDragon_Oread_Breastplate
+Item 1528 : RedDragon_Oread_Pants
+Item 1529 : RedDragon_Oread_Gloves
+Item 1530 : RedDragon_Oread_Boots
+Item 1531 : BlueDragon_Oread_Breastplate
+Item 1532 : BlueDragon_Oread_Pants
+Item 1533 : BlueDragon_Oread_Gloves
+Item 1534 : BlueDragon_Oread_Boots
+Item 1535 : 
+Item 1536 : 
+Item 1537 : 
+Item 1538 : 
+Item 1539 : 
+Item 1540 : 
+Item 1541 : 
+Item 1542 : 
+Item 1543 : 
+Item 1544 : 
+Item 1545 : 
+Item 1546 : 
+Item 1547 : 
+Item 1548 : 
+Item 1549 : 
+Item 1550 : 
+Item 1551 : Pated_Cap(Normal)
+Item 1552 : Pated_Cap(Mystic)
+Item 1553 : Pated_Cap(Arcane)
+Item 1554 : Pated_Jacket(Normal)
+Item 1555 : Pated_Jacket(Mystic)
+Item 1556 : Pated_Jacket(Arcane)
+Item 1557 : Pated_Pants(Normal)
+Item 1558 : Pated_Pants(Mystic)
+Item 1559 : Pated_Pants(Arcane)
+Item 1560 : Pated_Brace(Normal)
+Item 1561 : Pated_Brace(Mystic)
+Item 1562 : Pated_Brace(Arcane)
+Item 1563 : Pated_Boots(Normal)
+Item 1564 : Pated_Boots(Mystic)
+Item 1565 : Pated_Boots(Arcane)
+Item 1566 : Splint_Cap(Normal)
+Item 1567 : Splint_Cap(Mystic)
+Item 1568 : Splint_Cap(Arcane)
+Item 1569 : Splint_Breast(Normal)
+Item 1570 : Splint_Breast(Mystic)
+Item 1571 : Splint_Breast(Arcane)
+Item 1572 : Splint_Pants(Normal)
+Item 1573 : Splint_Pants(Mystic)
+Item 1574 : Splint_Pants(Arcane)
+Item 1575 : Splint_Brace(Normal)
+Item 1576 : Splint_Brace(Mystic)
+Item 1577 : Splint_Brace(Arcane)
+Item 1578 : Splint_Boots(Normal)
+Item 1579 : Splint_Boots(Mystic)
+Item 1580 : Splint_Boots(Arcane)
+Item 1581 : Bandage_Cap(Normal)
+Item 1582 : Bandage_Cap(Mystic)
+Item 1583 : Bandage_Cap(Arcane)
+Item 1584 : Bandage_Breast(Normal)
+Item 1585 : Bandage_Breast(Mystic)
+Item 1586 : Bandage_Breast(Arcane)
+Item 1587 : Bandage_Pants(Normal)
+Item 1588 : Bandage_Pants(Mystic)
+Item 1589 : Bandage_Pants(Arcane)
+Item 1590 : Bandage_Brace(Normal)
+Item 1591 : Bandage_Brace(Mysticl)
+Item 1592 : Bandage_Brace(Arcane)
+Item 1593 : Bandage_Boots(Normal)
+Item 1594 : Bandage_Boots(Mystic)
+Item 1595 : Bandage_Boots(Arcane)
+Item 1596 : Brigandine_Cap(Normal)
+Item 1597 : Brigandine_Cap(Mystic)
+Item 1598 : Brigandine_Cap(Arcane)
+Item 1599 : Brigandine_Breast(Normal)
+Item 1600 : Brigandine_Breast(Mystic)
+Item 1601 : Brigandine_Breast(Arcane)
+Item 1602 : Brigandine_Pants(Normal)
+Item 1603 : Brigandine_Pants(Mystic)
+Item 1604 : Brigandine_Pants(Arcane)
+Item 1605 : Brigandine_Brace(Normal)
+Item 1606 : Brigandine_Brace(Mystic)
+Item 1607 : Brigandine_Brace(Arcane)
+Item 1608 : Brigandine_Boots(Normal)
+Item 1609 : Brigandine_Boots(Mystic)
+Item 1610 : Brigandine_Boots(Arcane)
+Item 1611 : Field_Combat_Cap(Normal)
+Item 1612 : Field_Combat_Cap(Mystic)
+Item 1613 : Field_Combat_Cap(Arcane)
+Item 1614 : Field_Combat_Breast(Normal)
+Item 1615 : Field_Combat_Breast(Mystic)
+Item 1616 : Field_Combat_Breast(Arcane)
+Item 1617 : Field_Combat_Pants(Normal)
+Item 1618 : Field_Combat_Pants(Mystic)
+Item 1619 : Field_Combat_Pants(Arcane)
+Item 1620 : Field_Combat_Brace(Normal)
+Item 1621 : Field_Combat_Brace(Mystic)
+Item 1622 : Field_Combat_Brace(Arcane)
+Item 1623 : Field_Combat_Boots(Normal)
+Item 1624 : Field_Combat_Boots(Mystic)
+Item 1625 : Field_Combat_Boots(Arcane)
+Item 1626 : Nature_Cap(Normal)
+Item 1627 : Nature_Cap(Mystic)
+Item 1628 : Nature_Cap(Arcane)
+Item 1629 : Nature_Breast(Normal)
+Item 1630 : Nature_Breast(Mystic)
+Item 1631 : Nature_Breast(Arcane)
+Item 1632 : Nature_Pants(Normal)
+Item 1633 : Nature_Pants(Mystic)
+Item 1634 : Nature_Pants(Arcane)
+Item 1635 : Nature_Brace(Normal)
+Item 1636 : Nature_Brace(Mystic)
+Item 1637 : Nature_Brace(Arcane)
+Item 1638 : Nature_Boots(Normal)
+Item 1639 : Nature_Boots(Mystic)
+Item 1640 : Nature_Boots(Arcane)
+Item 1641 : Gold_Curve_Web_Cap(Normal)
+Item 1642 : Gold_Curve_Web_Cap(Mystic)
+Item 1643 : Gold_Curve_Web_Cap(Arcane)
+Item 1644 : Gold_Curve_Web_Breast(Normal)
+Item 1645 : Gold_Curve_Web_Breast(Mystic)
+Item 1646 : Gold_Curve_Web_Breast(Arcane)
+Item 1647 : Gold_Curve_Web_Pants(Normal)
+Item 1648 : Gold_Curve_Web_Pants(Mystic)
+Item 1649 : Gold_Curve_Web_Pants(Arcane)
+Item 1650 : Gold_Curve_Web_Brace(Normal)
+Item 1651 : Gold_Curve_Web_Brace(Mystic)
+Item 1652 : Gold_Curve_Web_Brace(Arcane)
+Item 1653 : Gold_Curve_Web_Boots(Normal)
+Item 1654 : Gold_Curve_Web_Boots(Mystic)
+Item 1655 : Gold_Curve_Web_Boots(Arcane)
+Item 1656 : Rake_Breast
+Item 1657 : Rake_Pants
+Item 1658 : Rake_Brace
+Item 1659 : Rake_Boots
+Item 1660 : Region_Cap
+Item 1661 : Region_Breast
+Item 1662 : Region_Pants
+Item 1663 : Region_Brace
+Item 1664 : Region_Boots
+Item 1665 : Ariel_Breast
+Item 1666 : Ariel_Pants
+Item 1667 : Ariel_Brace
+Item 1668 : Ariel_Boots
+Item 1669 : Closed_Ariel_Breast
+Item 1670 : Closed_Ariel_Pants
+Item 1671 : Closed_Ariel_Brace
+Item 1672 : Closed_Ariel_Boots
+Item 1673 : Loki_Breast
+Item 1674 : Loki_Pants
+Item 1675 : Loki_Brace
+Item 1676 : Loki_Boots
+Item 1677 : RedDragon_Ariel_Breastplate
+Item 1678 : RedDragon_Ariel_Pants
+Item 1679 : RedDragon_Ariel_Gloves
+Item 1680 : RedDragon_Ariel_Boots
+Item 1681 : BlueDragon_Ariel_Breastplate
+Item 1682 : BlueDragon_Ariel_Pants
+Item 1683 : BlueDragon_Ariel_Gloves
+Item 1684 : BlueDragon_Ariel_Boots
+Item 1685 : 
+Item 1686 : 
+Item 1687 : 
+Item 1688 : 
+Item 1689 : 
+Item 1690 : 
+Item 1691 : 
+Item 1692 : 
+Item 1693 : 
+Item 1694 : 
+Item 1695 : 
+Item 1696 : 
+Item 1697 : 
+Item 1698 : 
+Item 1699 : 
+Item 1700 : 
+Item 1701 : Wood_Shield
+Item 1702 : Buckler
+Item 1703 : Aspiece
+Item 1704 : Kite_Shield
+Item 1705 : Large_Shield
+Item 1706 : Knight_Shield
+Item 1707 : Bronze_Shield
+Item 1708 : Tower_Shield
+Item 1709 : Aegis
+Item 1710 : Rune_Shield
+Item 1711 : Thron_Of_Hoplon
+Item 1712 : Guardian_Shield
+Item 1713 : Baldr_Of_Shield
+Item 1714 : Closed_Baldr_Of_Shield
+Item 1715 : RedDragon_Of_Shield
+Item 1716 : BlueDragon_Of_Shield
+Item 1717 : Dragonic_Shield
+Item 1718 : Heavenly_Shield
+Item 1719 : 
+Item 1720 : Cape_Of_Darkness
+Item 1721 : Snowball
+Item 1722 : Twig
+Item 1723 : Straw
+Item 1724 : Hat
+Item 1725 : Carrot
+Item 1726 : Grewpain
+Item 1727 : Christmas_Tree
+Item 1728 : Firecracker
+Item 1729 : Money_Envelop(Taiwan)
+Item 1730 : Money_Envelop(China)
+Item 1731 : Challenge(Arcane)
+Item 1732 : Voucher_Courage
+Item 1733 : Rune_Slate
+Item 1734 : Rune_Slate
+Item 1735 : Rune_Slate
+Item 1736 : Rune_Slate
+Item 1737 : Entrance_Ticket
+Item 1738 : Lover's_Seat
+Item 1739 : Love_Chocolate
+Item 1740 : Unicon's_Spirit
+Item 1741 : Phoenix's_Spirit
+Item 1742 : Eternal_Stone
+Item 1743 : 
+Item 1744 : Kocuna
+Item 1745 : Veean
+Item 1746 : Keced
+Item 1747 : Gebra
+Item 1748 : Tipalet
+Item 1749 : Nechark
+Item 1750 : Yesord
+Item 1751 : Marcute
+Item 1752 : Orc_Lord_Trooper_Ore
+Item 1753 : Skeleton_Warrior_Ore
+Item 1754 : Bone_Dragon_Ore
+Item 1755 : Demon_Lord_Ore
+Item 1756 : Man_Trap_Ore
+Item 1757 : Fire_Gargoyle_Ore
+Item 1758 : Rujeper_Brocken_Ore
+Item 1759 : Frenzy_Demon_Ore
+Item 1760 : Sefirot(Transknight)
+Item 1761 : Sefirot(Foema)
+Item 1762 : Sefirot(Beastmaster)
+Item 1763 : Sefirot(Hunter)
+Item 1764 : Competent_Potion
+Item 1765 : Mental_Potion
+Item 1766 : Cape_Of_Champion
+Item 1767 : Cape_Of_Champion
+Item 1768 : Cape_Of_Champion
+Item 1769 : Cape_Of_Champion
+Item 1770 : Cape_Of_Champion
+Item 1771 : Cape_Of_Champion
+Item 1772 : Cube_Invitation_Card(Normal)
+Item 1773 : Apple
+Item 1774 : Wise_Man's_Stone
+Item 1775 : 11_Refine_Item
+Item 1776 : 12_Refine_Item
+Item 1777 : Kefra_Scroll(Normal)
+Item 1778 : Kefra_Scroll(Mistic)
+Item 1779 : Kefra_Scroll(Arcane)
+Item 1780 : Anubis_Scroll
+Item 1781 : Anubis_Stone_One
+Item 1782 : Anubis_Stone_Two
+Item 1783 : Anubis_Stone_Three
+Item 1784 : Anubis_Stone_Four
+Item 1785 : 
+Item 1786 : 
+Item 1787 : 
+Item 1788 : 
+Item 1789 : 
+Item 1790 : 
+Item 1791 : 
+Item 1792 : 
+Item 1793 : 
+Item 1794 : 
+Item 1795 : 
+Item 1796 : 
+Item 1797 : 
+Item 1798 : 
+Item 1799 : 
+Item 1800 : 
+Item 1801 : Leather_Helmet(Arcane)
+Item 1802 : Hard_Leather_Helmet(Arcane)
+Item 1803 : Sturdy_Skin_Helmet(Arcane)
+Item 1804 : Chain_Helmet(Arcane)
+Item 1805 : Leather_Breastplate(Arcane)
+Item 1806 : Hard_Leather_Breastplate(Arcane)
+Item 1807 : Sturdy_Leather(Arcane)
+Item 1808 : Chain_Breastplate(Arcane)
+Item 1809 : Leather_Pants(Arcane)
+Item 1810 : Hard_Leather_Pants(Arcane)
+Item 1811 : Sturdy_Leather_Pants(Arcane)
+Item 1812 : Chain_Pants(Arcane)
+Item 1813 : Leather_Gloves(Arcane)
+Item 1814 : Hard_Leather_Gloves(Arcane)
+Item 1815 : Sturdy_Leather_Gloves(Arcane)
+Item 1816 : Chain_Gloves(Arcane)
+Item 1817 : Leather_Boots(Arcane)
+Item 1818 : Hard_Leather_Boots(Arcane)
+Item 1819 : Sturdy_Leather_Boots(Arcane)
+Item 1820 : Chain_Boots(Arcane)
+Item 1821 : Stole_Hood(Arcane)
+Item 1822 : Silk_Cloth_Hood(Arcane)
+Item 1823 : Vampire_Robe_Helmet(Arcane)
+Item 1824 : Shadow_Robe_Helmet(Arcane)
+Item 1825 : Stole_Tunic(Arcane)
+Item 1826 : Silk_Cloth_Tunic(Arcane)
+Item 1827 : Vampire_Robe_Tunic(Arcane)
+Item 1828 : Shadow_Robe_Tunic(Arcane)
+Item 1829 : Stole_Skirt(Arcane)
+Item 1830 : Silk_Cloth_Skirt(Arcane)
+Item 1831 : Vampire_Robe_Skirt(Arcane)
+Item 1832 : Shadow_Robe_Skirt(Arcane)
+Item 1833 : Stole_Gloves(Arcane)
+Item 1834 : Silk_Cloth_Gloves(Arcane)
+Item 1835 : Vampire_Robe_Gloves(Arcane)
+Item 1836 : Shadow_Robe_Gloves(Arcane)
+Item 1837 : Stole_Boots(Arcane)
+Item 1838 : Silk_Cloth_Boots(Arcane)
+Item 1839 : Vampire_Robe_Boots(Arcane)
+Item 1840 : Shadow_Robe_Boots(Arcane)
+Item 1841 : Sturdy_Leather_Helmet(Normal)
+Item 1842 : Chain_Helmet(Arcane)
+Item 1843 : Sturdy_Leather_Breastplate(Normal)
+Item 1844 : Chain_Breastplate(Arcane)
+Item 1845 : Sturdy_Leather_Pants(Normal)
+Item 1846 : Chain_Helmet(Arcane)
+Item 1847 : Sturdy_Leather_Gloves(Normal)
+Item 1848 : Chain_Helmet(Arcane)
+Item 1849 : Sturdy_Leather_Boots(Normal)
+Item 1850 : Chain_Boots(Arcane)
+Item 1851 : Vampire_Robe_Helmet(Normal)
+Item 1852 : Shadow_Robe_Helmet(Normal)
+Item 1853 : Vampire_Robe_Tunic(Normal)
+Item 1854 : Shadow_Robe_Tunic(Normal)
+Item 1855 : Vampire_Robe_Skirt(Normal)
+Item 1856 : Shadow_Robe_Skirt(Normal)
+Item 1857 : Vampire_Robe_Gloves(Normal)
+Item 1858 : Shadow_Robe_Gloves(Normal)
+Item 1859 : Vampire_Robe_Boots(Normal)
+Item 1860 : Shadow_Robe_Boots(Normal)
+Item 1861 : Plate_Helmet(Arcane)
+Item 1862 : Plate_Breastplate(Arcane)
+Item 1863 : Plate_Pants(Arcane)
+Item 1864 : Plate_Gloves(Arcane)
+Item 1865 : Plate_Boots(Arcane)
+Item 1866 : Plate_Helmet(Mystic)
+Item 1867 : Plate_Breastplate(Mystic)
+Item 1868 : Plate_Pants(Mystic)
+Item 1869 : Plate_Gloves(Mystic)
+Item 1870 : Plate_Boots(Mystic)
+Item 1871 : Golden_Plate_Helmet(Arcane)
+Item 1872 : Golden_Plate_Breastplate(Arcane)
+Item 1873 : Golden_Plate_Pants(Arcane)
+Item 1874 : Golden_Plate_Gloves(Arcane)
+Item 1875 : Golden_Plate_Boots(Arcane)
+Item 1876 : Golden_Plate_Helmet(Mystic)
+Item 1877 : Golden_Plate_Breastplate(Mystic)
+Item 1878 : Golden_Plate_Pants(Mystic)
+Item 1879 : Golden_Plate_Gloves(Mystic)
+Item 1880 : Golden_Plate_Boots(Mystic)
+Item 1881 : Shell_Robe_Helmet(Arcane)
+Item 1882 : Shell_Robe_Tunic(Arcane)
+Item 1883 : Shell_Robe_Skirt(Arcane)
+Item 1884 : Shell_Robe_Gloves(Arcane)
+Item 1885 : Shell_Robe_Boots(Arcane)
+Item 1886 : Shell_Robe_Helmet(Mystic)
+Item 1887 : Shell_Robe_Tunic(Mystic)
+Item 1888 : Shell_Robe_Skirt(Mystic)
+Item 1889 : Shell_Robe_Gloves(Mystic)
+Item 1890 : Shell_Robe_Boots(Mystic)
+Item 1891 : Casting_Robe_Helmet(Arcane)
+Item 1892 : Casting_Robe_Tunic(Arcane)
+Item 1893 : Casting_Robe_Pants(Arcane)
+Item 1894 : Casting_Robe_Gloves(Arcane)
+Item 1895 : Casting_Robe_Boots(Arcane)
+Item 1896 : Casting_Robe_Helmet(Mystic)
+Item 1897 : Casting_Robe_Tunic(Mystic)
+Item 1898 : Casting_Robe_Pants(Mystic)
+Item 1899 : Casting_Robe_Gloves(Mystic)
+Item 1900 : Casting_Robe_Boots(Mystic)
+Item 1901 : Closed_Baldr_Of_Axe
+Item 1902 : Closed_Baldr_Of_Bow
+Item 1903 : Closed_Baldr_Of_Claw
+Item 1904 : Closed_Baldr_Of_Spear
+Item 1905 : Closed_Baldr_Of_Shard
+Item 1906 : Closed_Baldr_Of_Cross
+Item 1907 : Closed_Baldr_Of_Rune_Rod
+Item 1908 : Closed_Baldr_Of_Zen_Rod
+Item 1909 : Closed_Baldr_Of_Breaker
+Item 1910 : Closed_Baldr_Of_Hammer
+Item 1911 : 
+Item 1912 : 
+Item 1913 : Javelin1
+Item 1914 : Javelin2
+Item 1915 : Watcher_Shield
+Item 1916 : Remain_Shield
+Item 1917 : 
+Item 1918 : 
+Item 1919 : 
+Item 1920 : 
+Item 1921 : Iron_Taron_Weapon
+Item 1922 : Taron_Weapon
+Item 1923 : Mighty_Talross_Weapon
+Item 1924 : Batman_Weapon
+Item 1925 : Lich_Side
+Item 1926 : Lich_Staff
+Item 1927 : Berserker_One_Hand_Axe
+Item 1928 : Berserker_One_Hand_Shield
+Item 1929 : Valkyrie's_Sword
+Item 1930 : Templer_Sword
+Item 1931 : Sorcerer_Cane
+Item 1932 : Shaman_Spear
+Item 1933 : Ranger_Bow
+Item 1934 : Kalintsman_Claw
+Item 1935 : Frozen_Troll_Weapon
+Item 1936 : HP_10_Times_Item(Monster)
+Item 1937 : HP_20_Times_Item(Monster)
+Item 1938 : 
+Item 1939 : 
+Item 1940 : 
+Item 1941 : 
+Item 1942 : 
+Item 1943 : 
+Item 1944 : 
+Item 1945 : 
+Item 1946 : 
+Item 1947 : 
+Item 1948 : 
+Item 1949 : 
+Item 1950 : 
+Item 1951 : Light_Pelt_Helmet(Arcane)
+Item 1952 : Light_Pelt_Breastplate(Arcane)
+Item 1953 : Light_Pelt_Pants(Arcane)
+Item 1954 : Light_Pelt_Gloves(Arcane)
+Item 1955 : Light_Pelt_Boots(Arcane)
+Item 1956 : Wolf_Spirit_Pelt_Helmet(Arcane)
+Item 1957 : Wolf_Spirit_Pelt_Breastplate(Arcane)
+Item 1958 : Wolf_Spirit_Pelt_Pants(Arcane)
+Item 1959 : Wolf_Spirit_Pelt_Gloves(Arcane)
+Item 1960 : Wolf_Spirit_Pelt_Boots(Arcane)
+Item 1961 : Leo_Spirit_Pelt_Helmet(Arcane)
+Item 1962 : Leo_Spirit_Pelt_Breastplate(Arcane)
+Item 1963 : Leo_Spirit_Pelt_Pants(Arcane)
+Item 1964 : Leo_Spirit_Pelt_Gloves(Arcane)
+Item 1965 : Leo_Spirit_Pelt_Boots(Arcane)
+Item 1966 : Eagle_Spirit_Pelt_Helmet(Arcane)
+Item 1967 : Eagle_Spirit_Pelt_Breastplate(Arcane)
+Item 1968 : Eagle_Spirit_Pelt_Pants(Arcane)
+Item 1969 : Eagle_Spirit_Pelt_Gloves(Arcane)
+Item 1970 : Eagle_Spirit_Pelt_Boots(Arcane)
+Item 1971 : Bone_Spirit_Pelt_Helmet(Arcane)
+Item 1972 : Bone_Spirit_Pelt_Breastplate(Arcane)
+Item 1973 : Bone_Spirit_Pelt_Pants(Arcane)
+Item 1974 : Bone_Spirit_Pelt_Gloves(Arcane)
+Item 1975 : Bone_Spirit_Pelt_Boots(Arcane)
+Item 1976 : Iron_Helmet(Arcane)
+Item 1977 : Iron_Breastplate(Arcane)
+Item 1978 : Iron_Pants(Arcane)
+Item 1979 : Iron_Helmet(Arcane)
+Item 1980 : Iron_Boots(Arcane)
+Item 1981 : 
+Item 1982 : 
+Item 1983 : 
+Item 1984 : 
+Item 1985 : 
+Item 1986 : Leo_Spirit_Pelt_Helmet(Mystic)
+Item 1987 : Leo_Spirit_Pelt_Breastplate(Mystic)
+Item 1988 : Leo_Spirit_Pelt_Pants(Mystic)
+Item 1989 : Leo_Spirit_Pelt_Gloves(Mystic)
+Item 1990 : Leo_Spirit_Pelt_Boots(Mystic)
+Item 1991 : Eagle_Spirit_Pelt_Helmet(Mystic)
+Item 1992 : Eagle_Spirit_Pelt_Breastplate(Mystic)
+Item 1993 : Eagle_Spirit_Pelt_Pants(Mystic)
+Item 1994 : Eagle_Spirit_Pelt_Gloves(Mystic)
+Item 1995 : Eagle_Spirit_Pelt_Boots(Mystic)
+Item 1996 : Bone_Spirit_Pelt_Helmet(Mystic)
+Item 1997 : Bone_Spirit_Pelt_Breastplate(Mystic)
+Item 1998 : Bone_Spirit_Pelt_Pants(Mystic)
+Item 1999 : Bone_Spirit_Pelt_Gloves(Mystic)
+Item 2000 : Bone_Spirit_Pelt_Boots(Mystic)
+Item 2001 : Iron_Helmet(Mystic)
+Item 2002 : Iron_Breastplate(Mystic)
+Item 2003 : Iron_Pants(Mystic)
+Item 2004 : Iron_Gloves(Mystic)
+Item 2005 : Iron_Boots(Mystic)
+Item 2006 : 
+Item 2007 : 
+Item 2008 : 
+Item 2009 : 
+Item 2010 : 
+Item 2011 : 
+Item 2012 : 
+Item 2013 : 
+Item 2014 : 
+Item 2015 : 
+Item 2016 : 
+Item 2017 : 
+Item 2018 : 
+Item 2019 : 
+Item 2020 : 
+Item 2021 : Dwarfen_Plate_Helmet(Arcane)
+Item 2022 : Dwarfen_Plate_Breastplate(Arcane)
+Item 2023 : Dwarfen_Plate_Pants(Arcane)
+Item 2024 : Dwarfen_Plate_Gloves(Arcane)
+Item 2025 : Dwarfen_Plate_Boots(Arcane)
+Item 2026 : Dwarfen_Plate_Helmet(Mystic)
+Item 2027 : Dwarfen_Plate_Breastplate(Mystic)
+Item 2028 : Dwarfen_Plate_Pants(Mystic)
+Item 2029 : Dwarfen_Plate_Gloves(Mystic)
+Item 2030 : Dwarfen_Plate_Boots(Mystic)
+Item 2031 : 
+Item 2032 : 
+Item 2033 : 
+Item 2034 : 
+Item 2035 : 
+Item 2036 : 
+Item 2037 : 
+Item 2038 : 
+Item 2039 : 
+Item 2040 : 
+Item 2041 : Paded_Cap(Arcane)
+Item 2042 : Paded_Jacket(Arcane)
+Item 2043 : Paded_Pants(Arcane)
+Item 2044 : Paded_Brace(Arcane)
+Item 2045 : Paded_Boots(Arcane)
+Item 2046 : Splint_Cap(Arcane)
+Item 2047 : Splint_Cap(Arcane)
+Item 2048 : Splint_Pants(Arcane)
+Item 2049 : Splint_Brace(Arcane)
+Item 2050 : Splint_Boots(Arcane)
+Item 2051 : Bandge_Cap(Arcane)
+Item 2052 : Bandge_Breast(Arcane)
+Item 2053 : Bandge_Pants(Arcane)
+Item 2054 : Bandge_Brace(Arcane)
+Item 2055 : Bandge_Boots(Arcane)
+Item 2056 : Brigandine_Cap(Arcane)
+Item 2057 : Brigandine_Breast(Arcane)
+Item 2058 : Brigandine_Pants(Arcane)
+Item 2059 : Brigandine_Brace(Arcane)
+Item 2060 : Brigandine_Boots(Arcane)
+Item 2061 : 
+Item 2062 : 
+Item 2063 : 
+Item 2064 : 
+Item 2065 : 
+Item 2066 : 
+Item 2067 : 
+Item 2068 : 
+Item 2069 : 
+Item 2070 : 
+Item 2071 : 
+Item 2072 : 
+Item 2073 : 
+Item 2074 : 
+Item 2075 : 
+Item 2076 : Bandge_Cap(Mystic)
+Item 2077 : Bandge_Breast(Mystic)
+Item 2078 : Bandge_Pants(Mystic)
+Item 2079 : Bandge_Brace(Mystic)
+Item 2080 : Bandge_Boots(Mystic)
+Item 2081 : Brigandine_Cap(Mystic)
+Item 2082 : Brigandine_Breast(Mystic)
+Item 2083 : Brigandine_Pants(Mystic)
+Item 2084 : Brigandine_Brace(Mystic)
+Item 2085 : Brigandine_Boots(Mystic)
+Item 2086 : 
+Item 2087 : 
+Item 2088 : 
+Item 2089 : 
+Item 2090 : 
+Item 2091 : 
+Item 2092 : 
+Item 2093 : 
+Item 2094 : 
+Item 2095 : 
+Item 2096 : 
+Item 2097 : 
+Item 2098 : 
+Item 2099 : 
+Item 2100 : 
+Item 2101 : Soul_Blade
+Item 2102 : Gram
+Item 2103 : Bhopal_Sword
+Item 2104 : 
+Item 2105 : 
+Item 2106 : Kaladbolg
+Item 2107 : 
+Item 2108 : 
+Item 2109 : 
+Item 2110 : 
+Item 2111 : Mithril_Hammer
+Item 2112 : Dragon_Hammer
+Item 2113 : Slayer_Hammer
+Item 2114 : 
+Item 2115 : 
+Item 2116 : Mjollnir
+Item 2117 : 
+Item 2118 : 
+Item 2119 : 
+Item 2120 : 
+Item 2121 : Hydra_Bow
+Item 2122 : Elven_Bow
+Item 2123 : Heaven's_Bow
+Item 2124 : 
+Item 2125 : 
+Item 2126 : Wing_Rod
+Item 2127 : Eye_Of_Carbunkle
+Item 2128 : Kerykerion
+Item 2129 : Blue_Gem_Staff
+Item 2130 : Amber_Gem_Staff
+Item 2131 : Assassin_Knife
+Item 2132 : Behemoth_Tusk
+Item 2133 : Talon_Of_Dragon
+Item 2134 : 
+Item 2135 : 
+Item 2136 : Brionac
+Item 2137 : Gungnir
+Item 2138 : Victory's_Spear
+Item 2139 : 
+Item 2140 : 
+Item 2141 : Astaroth_Knife
+Item 2142 : Lightning_Spear
+Item 2143 : Holy_Cross
+Item 2144 : 
+Item 2145 : 
+Item 2146 : 
+Item 2147 : 
+Item 2148 : 
+Item 2149 : 
+Item 2150 : 
+Item 2151 : Sturdy_Leather_Helmet(Mystic)
+Item 2152 : Chain_Helmet(Mystic)
+Item 2153 : Sturdy_Leather_Breastplate(Mystic)
+Item 2154 : Chain_Breastplate(Mystic)
+Item 2155 : Sturdy_Leather_Pants(Mystic)
+Item 2156 : Chain_Pantst(Mystic)
+Item 2157 : Sturdy_Leather_Gloves(Mystic)
+Item 2158 : Chain_Gloves(Mystic)
+Item 2159 : Sturdy_Leather_Boots(Mystic)
+Item 2160 : Chain_Boots(Mystic)
+Item 2161 : Vampire_Robe_Helmet(Mystic)
+Item 2162 : Shadow_Robe_Helmet(Mystic)
+Item 2163 : Vampire_Robe_Tunic(Mystic)
+Item 2164 : Shadow_Robe_Tunic(Mystic)
+Item 2165 : Vampire_Robe_Skirt(Mystic)
+Item 2166 : Shadow_Robe_Skirt(Mystic)
+Item 2167 : Vampire_Robe_Gloves(Mystic)
+Item 2168 : Shadow_Robe_Gloves(Mystic)
+Item 2169 : Vampire_Robe_Boots(Mystic)
+Item 2170 : Shadow_Robe_Boots(Mystic)
+Item 2171 : Plate_Helmet(Legend)
+Item 2172 : Plate_Breastplate(Legend)
+Item 2173 : Plate_Pants(Legend)
+Item 2174 : Plate_Gloves(Legend)
+Item 2175 : Plate_Boots(Legend)
+Item 2176 : Golden_Plate_Helmet(Legend)
+Item 2177 : Golden_Plate_Breastplate(Legend)
+Item 2178 : Golden_Plate_Pants(Legend)
+Item 2179 : Golden_Plate_Gloves(Legend)
+Item 2180 : Golden_Plate_Boots(Legend)
+Item 2181 : Dwarfen_Plate_Helmet(Legend)
+Item 2182 : Dwarfen_Plate_Breastplate(Legend)
+Item 2183 : Dwarfen_Plate_Pants(Legend)
+Item 2184 : Dwarfen_Plate_Gloves(Legend)
+Item 2185 : Dwarfen_Plate_Boots(Legend)
+Item 2186 : Gold_Embossed_Helmet(Legend)
+Item 2187 : Gold_Embossed_Breastplate(Legend)
+Item 2188 : Gold_Embossed_Pants(Legend)
+Item 2189 : Gold_Embossed_Gloves(Legend)
+Item 2190 : Gold_Embossed_Boots(Legend)
+Item 2191 : Shadow_Robe_Helmet(Legend)
+Item 2192 : Shadow_Robe_Tunic(Legend)
+Item 2193 : Shadow_Robe_Skirt(Legend)
+Item 2194 : Shadow_Robe_Gloves(Legend)
+Item 2195 : Shadow_Robe_Boots(Legend)
+Item 2196 : Shell_Robe_Helmet(Legend)
+Item 2197 : Shell_Robe_Tunic(Legend)
+Item 2198 : Shell_Robe_Skirt(Legend)
+Item 2199 : Shell_Robe_Gloves(Legend)
+Item 2200 : Shell_Robe_Boots(Legend)
+Item 2201 : Casting_Robe_Helmet(Legend)
+Item 2202 : Casting_Robe_Tunic(Legend)
+Item 2203 : Casting_Robe_Pants(Legend)
+Item 2204 : Casting_Robe_Gloves(Legend)
+Item 2205 : Casting_Robe_Boots(Legend)
+Item 2206 : Mithril_Robe_Helmet(Legend)
+Item 2207 : Mithril_Robe_Tunic(Legend)
+Item 2208 : Mithril_Robe_Pants(Legend)
+Item 2209 : Mithril_Robe_Gloves(Legend)
+Item 2210 : Mithril_Robe_Boots(Legend)
+Item 2211 : Eagle_Spirit_Pelt_Helmet(Legend)
+Item 2212 : Eagle_Spirit_Pelt_Breastplate(Legend)
+Item 2213 : Eagle_Spirit_Pelt_Pants(Legend)
+Item 2214 : Eagle_Spirit_Pelt_Gloves(Legend)
+Item 2215 : Eagle_Spirit_Pelt_Bootst(Legend)
+Item 2216 : Bone_Spirit_Helmet(Legend)
+Item 2217 : Bone_Spirit_Breastplate(Legend)
+Item 2218 : Bone_Spirit_Pants(Legend)
+Item 2219 : Bone_Spirit_Gloves(Legend)
+Item 2220 : Bone_Spirit_Boots(Legend)
+Item 2221 : Iron_Helmet(Legend)
+Item 2222 : Iron_Breastplate(Legend)
+Item 2223 : Iron_Pants(Legend)
+Item 2224 : Iron_Gloves(Legend)
+Item 2225 : Iron_Boots(Legend)
+Item 2226 : Meta_Elemental_Helmet(Legend)
+Item 2227 : Meta_Elemental_Breastplate(Legend)
+Item 2228 : Meta_Elemental_Pants(Legend)
+Item 2229 : Meta_Elemental_Gloves(Legend)
+Item 2230 : Meta_Elemental_Boots(Legend)
+Item 2231 : Brigandine_Cap(Legend)
+Item 2232 : Brigandine_Breast(Legend)
+Item 2233 : Brigandine_Pants(Legend)
+Item 2234 : Brigandine_Brace(Legend)
+Item 2235 : Brigandine_Boots(Legend)
+Item 2236 : Field_Combat_Cap(Legend)
+Item 2237 : Field_Combat_Breast(Legend)
+Item 2238 : Field_Combat_Pants(Legend)
+Item 2239 : Field_Combat_Brace(Legend)
+Item 2240 : Field_Combat_Boots(Legend)
+Item 2241 : Nature_Cap(Legend)
+Item 2242 : Nature_Breast(Legend)
+Item 2243 : Nature_Pants(Legend)
+Item 2244 : Nature_Brace(Legend)
+Item 2245 : Nature_Boots(Legend)
+Item 2246 : Gold_Curve_Web_Cap(Legend)
+Item 2247 : Gold_Curve_Web_Breast(Legend)
+Item 2248 : Gold_Curve_Web_Pants(Legend)
+Item 2249 : Gold_Curve_Web_Brace(Legend)
+Item 2250 : Gold_Curve_Web_Boots(Legend)
+Item 2251 : 
+Item 2252 : 
+Item 2253 : 
+Item 2254 : 
+Item 2255 : 
+Item 2256 : 
+Item 2257 : 
+Item 2258 : 
+Item 2259 : 
+Item 2260 : 
+Item 2261 : 
+Item 2262 : 
+Item 2263 : 
+Item 2264 : 
+Item 2265 : 
+Item 2266 : 
+Item 2267 : 
+Item 2268 : 
+Item 2269 : 
+Item 2270 : 
+Item 2271 : 
+Item 2272 : 
+Item 2273 : 
+Item 2274 : 
+Item 2275 : 
+Item 2276 : 
+Item 2277 : 
+Item 2278 : 
+Item 2279 : 
+Item 2280 : 
+Item 2281 : 
+Item 2282 : 
+Item 2283 : 
+Item 2284 : 
+Item 2285 : 
+Item 2286 : 
+Item 2287 : 
+Item 2288 : 
+Item 2289 : 
+Item 2290 : 
+Item 2291 : 
+Item 2292 : 
+Item 2293 : 
+Item 2294 : 
+Item 2295 : 
+Item 2296 : 
+Item 2297 : 
+Item 2298 : 
+Item 2299 : 
+Item 2300 : Pig's_Egg
+Item 2301 : Tamed_Boar's_Egg
+Item 2302 : Tamed_Wolf's_Egg
+Item 2303 : Dragon_Puppy's_Egg
+Item 2304 : Tamed_Bear's_Egg
+Item 2305 : Smilodon's_Egg
+Item 2306 : Bareback_Horse's_Egg
+Item 2307 : Steed's_Egg
+Item 2308 : Swift_Horse's_Egg
+Item 2309 : Harnessed_Horse's_Egg
+Item 2310 : Parade_Horse's_Egg
+Item 2311 : Bareback_Horse_Egg
+Item 2312 : Steed's_Egg
+Item 2313 : Swift_Horse's_Egg
+Item 2314 : Harnessed_Horse's_Egg
+Item 2315 : Parade_Horse's_Egg
+Item 2316 : Fenrir's_Egg
+Item 2317 : Dragon's_Egg
+Item 2318 : Fauness's_Egg
+Item 2319 : Fire_Tiger's_Egg
+Item 2320 : Red_Dragon's_Egg
+Item 2321 : Unicorn's_Egg
+Item 2322 : Pegasus'_Egg
+Item 2323 : Unisus'_Egg
+Item 2324 : Griffin's_Egg
+Item 2325 : Hippogriff's_Egg
+Item 2326 : Booldy_Griffe's_Egg
+Item 2327 : Svadilfari's_Egg
+Item 2328 : Sleipnir's_Egg
+Item 2329 : Helriohdon's_Egg
+Item 2330 : Pig's_Baby
+Item 2331 : Tamed_Boar's_Baby
+Item 2332 : Tamed_Wolf's_Baby
+Item 2333 : Dragon_Puppy's_Baby
+Item 2334 : Tamed_Bear's_Baby
+Item 2335 : Smilodon's_Baby
+Item 2336 : Bareback_Horse's_Baby
+Item 2337 : Steed's_Baby
+Item 2338 : Swift_Horse's_Baby
+Item 2339 : Harnessed_Horse's_Baby
+Item 2340 : Parade_Horse's_Baby
+Item 2341 : Bareback_Horse's_Baby
+Item 2342 : Steed's_Baby
+Item 2343 : Swift_Horse's_Baby
+Item 2344 : Harnessed_Horse's_Baby
+Item 2345 : Parade_Horse's_Baby
+Item 2346 : Fenrir's_Baby
+Item 2347 : Dragon's_Baby
+Item 2348 : Fauness's_Baby
+Item 2349 : Fire_Tiger's_Baby
+Item 2350 : Red_Dragon's_Baby
+Item 2351 : Unicorn's_Baby
+Item 2352 : Pegasus'_Baby
+Item 2353 : Unisus_Baby
+Item 2354 : Griffin's_Baby
+Item 2355 : Hippogriff's_Baby
+Item 2356 : Bloody_Griffon's_Baby
+Item 2357 : Svadilfari's_Baby
+Item 2358 : Sleipnir's_Baby
+Item 2359 : Helriohdon's_Baby
+Item 2360 : Pig
+Item 2361 : Tamed_Boar
+Item 2362 : Tamed_Wolf
+Item 2363 : Dragon_Puppy
+Item 2364 : Tamed_Bear
+Item 2365 : Smilodon
+Item 2366 : Bareback_Horse
+Item 2367 : Steed
+Item 2368 : Swift_Horse
+Item 2369 : Harnessed_Horse
+Item 2370 : Parade_Horse
+Item 2371 : Bareback_Horse
+Item 2372 : Steed
+Item 2373 : Swift_Horse
+Item 2374 : Harnessed_Horse
+Item 2375 : Parade_Horse
+Item 2376 : Fenrir
+Item 2377 : Dragon
+Item 2378 : Fauness
+Item 2379 : Fire_Tiger
+Item 2380 : Red_Dragon
+Item 2381 : Unicorn
+Item 2382 : Pegasus
+Item 2383 : Unisus
+Item 2384 : Griffin
+Item 2385 : Hippogriff
+Item 2386 : Bloody_Griffon
+Item 2387 : Svadilfari
+Item 2388 : Sleipnir
+Item 2389 : Helriohdon
+Item 2390 : Pig's_Essence
+Item 2391 : Tamed_Boar's_Essence
+Item 2392 : Tamed_Wolf's_Essence
+Item 2393 : Dragon_Puppy's_Essence
+Item 2394 : Tamed_Bear's_Essence
+Item 2395 : Smilodon's_Essence
+Item 2396 : Bareback_Horse's_Essence
+Item 2397 : Steed's_Essence
+Item 2398 : Swift_Horse's_Essence
+Item 2399 : Harnessed_Horse's_Essence
+Item 2400 : Parade_Horse's_Essence
+Item 2401 : Bareback_Horse's_Essence
+Item 2402 : Steed's_Essence
+Item 2403 : Swift_Horse's_Essence
+Item 2404 : Harnessed_Horse's_Essence
+Item 2405 : Parade_Horse's_Essence
+Item 2406 : Fenrir's_Essence
+Item 2407 : Dragon's_Essence
+Item 2408 : Fauness's_Essence
+Item 2409 : Fire_Tiger's_Essence
+Item 2410 : Red_Dragon's_Essence
+Item 2411 : Unicorn's_Essence
+Item 2412 : Pegasus'_Essence
+Item 2413 : Nuisus'_Essence
+Item 2414 : Griffin's_Essence
+Item 2415 : Hippogriff's_Essence
+Item 2416 : Bloody_Griffe's_Essence
+Item 2417 : Svadilfari's_Essence
+Item 2418 : Sleipnir's_Essence
+Item 2419 : Helriohdon's_Essence
+Item 2420 : Pig's_Feed
+Item 2421 : Tamed_Boar's_Feed
+Item 2422 : Tamed_Wolf's_Feed
+Item 2423 : Dragon_Puppy's_Feed
+Item 2424 : Tamed_Bear's_Feed
+Item 2425 : Smilodon's_Feed
+Item 2426 : Horse's_Feed
+Item 2427 : Fire_Tiger's_Feed
+Item 2428 : Red_Dragon's_Feed
+Item 2429 : Unicorn's_Feed
+Item 2430 : Griffin's_Feed
+Item 2431 : N/A
+Item 2432 : N/A
+Item 2433 : N/A
+Item 2434 : N/A
+Item 2435 : N/A
+Item 2436 : Fenrir's_Feed
+Item 2437 : Dragon's_Feed
+Item 2438 : Fauness's_Feed
+Item 2439 : Helriohdon's_Feed
+Item 2440 : 
+Item 2441 : Diamond
+Item 2442 : Emerald
+Item 2443 : Coral
+Item 2444 : Garnet
+Item 2445 : 
+Item 2446 : 
+Item 2447 : 
+Item 2448 : 
+Item 2449 : 
+Item 2450 : 
+Item 2451 : Club_(Ancient)
+Item 2452 : Club_(Ancient)
+Item 2453 : Club_(Ancient)
+Item 2454 : Club_(Ancient)
+Item 2455 : Hand_Axe(Ancient)
+Item 2456 : Hand_Axe(Ancient)
+Item 2457 : Hand_Axe(Ancient)
+Item 2458 : Hand_Axe(Ancient)
+Item 2459 : Spike_Club(Ancient)
+Item 2460 : Spike_Club(Ancient)
+Item 2461 : Spike_Club(Ancient)
+Item 2462 : Spike_Club(Ancient)
+Item 2463 : Mace(Ancient)
+Item 2464 : Mace(Ancient)
+Item 2465 : Mace(Ancient)
+Item 2466 : Mace(Ancient)
+Item 2467 : Cracker(Ancient)
+Item 2468 : Cracker(Ancient)
+Item 2469 : Cracker(Ancient)
+Item 2470 : Cracker(Ancient)
+Item 2471 : Double_Axe(Ancient)
+Item 2472 : Double_Axe(Ancient)
+Item 2473 : Double_Axe(Ancient)
+Item 2474 : Double_Axe(Ancient)
+Item 2475 : Gothic_Mace(Ancient)
+Item 2476 : Gothic_Mace(Ancient)
+Item 2477 : Gothic_Mace(Ancient)
+Item 2478 : Gothic_Mace(Ancient)
+Item 2479 : Mithril_Hammer(Ancient)
+Item 2480 : Mithril_Hammer(Ancient)
+Item 2481 : Mithril_Hammer(Ancient)
+Item 2482 : Mithril_Hammer(Ancient)
+Item 2483 : Dragon_Hammer(Ancient)
+Item 2484 : Dragon_Hammer(Ancient)
+Item 2485 : Dragon_Hammer(Ancient)
+Item 2486 : Dragon_Hammer(Ancient)
+Item 2487 : Slayer_Hammer(Ancient)
+Item 2488 : Slayer_Hammer(Ancient)
+Item 2489 : Slayer_Hammer(Ancient)
+Item 2490 : Slayer_Hammer(Ancient)
+Item 2491 : Thron_Of_Axe(Ancient)
+Item 2492 : Thron_Of_Axe(Ancient)
+Item 2493 : Thron_Of_Axe(Ancient)
+Item 2494 : Thron_Of_Axe(Ancient)
+Item 2495 : 
+Item 2496 : 
+Item 2497 : 
+Item 2498 : 
+Item 2499 : 
+Item 2500 : 
+Item 2501 : 
+Item 2502 : 
+Item 2503 : 
+Item 2504 : 
+Item 2505 : 
+Item 2506 : 
+Item 2507 : 
+Item 2508 : 
+Item 2509 : 
+Item 2510 : 
+Item 2511 : Small_Bow(Ancient)
+Item 2512 : Small_Bow(Ancient)
+Item 2513 : Small_Bow(Ancient)
+Item 2514 : Small_Bow(Ancient)
+Item 2515 : Wooden_Bow(Ancient)
+Item 2516 : Wooden_Bow(Ancient)
+Item 2517 : Wooden_Bow(Ancient)
+Item 2518 : Wooden_Bow(Ancient)
+Item 2519 : Large_Bow(Ancient)
+Item 2520 : Large_Bow(Ancient)
+Item 2521 : Large_Bow(Ancient)
+Item 2522 : Large_Bow(Ancient)
+Item 2523 : Battle_Bow(Ancient)
+Item 2524 : Battle_Bow(Ancient)
+Item 2525 : Battle_Bow(Ancient)
+Item 2526 : Battle_Bow(Ancient)
+Item 2527 : Daising_Bow(Ancient)
+Item 2528 : Daising_Bow(Ancient)
+Item 2529 : Daising_Bow(Ancient)
+Item 2530 : Daising_Bow(Ancient)
+Item 2531 : Speed_Of_Light_Bow(Ancient)
+Item 2532 : Speed_Of_Light_Bow(Ancient)
+Item 2533 : Speed_Of_Light_Bow(Ancient)
+Item 2534 : Speed_Of_Light_Bow(Ancient)
+Item 2535 : Mithril_Bow(Ancient)
+Item 2536 : Mithril_Bow(Ancient)
+Item 2537 : Mithril_Bow(Ancient)
+Item 2538 : Mithril_Bow(Ancient)
+Item 2539 : Hydra_Bow(Ancient)
+Item 2540 : Hydra_Bow(Ancient)
+Item 2541 : Hydra_Bow(Ancient)
+Item 2542 : Hydra_Bow(Ancient)
+Item 2543 : Elven_Bow(Ancient)
+Item 2544 : Elven_Bow(Ancient)
+Item 2545 : Elven_Bow(Ancient)
+Item 2546 : Elven_Bow(Ancient)
+Item 2547 : Heaven's_Bow(Ancient)
+Item 2548 : Heaven's_Bow(Ancient)
+Item 2549 : Heaven's_Bow(Ancient)
+Item 2550 : Heaven's_Bow(Ancient)
+Item 2551 : Thron_Of_Isis(Ancient)
+Item 2552 : Thron_Of_Isis(Ancient)
+Item 2553 : Thron_Of_Isis(Ancient)
+Item 2554 : Thron_Of_Isis(Ancient)
+Item 2555 : 
+Item 2556 : 
+Item 2557 : 
+Item 2558 : 
+Item 2559 : 
+Item 2560 : 
+Item 2561 : 
+Item 2562 : 
+Item 2563 : 
+Item 2564 : 
+Item 2565 : 
+Item 2566 : 
+Item 2567 : 
+Item 2568 : 
+Item 2569 : 
+Item 2570 : 
+Item 2571 : Bagnow(Ancient)
+Item 2572 : Bagnow(Ancient)
+Item 2573 : Bagnow(Ancient)
+Item 2574 : Bagnow(Ancient)
+Item 2575 : Knuckle_Cutter(Ancient)
+Item 2576 : Knuckle_Cutter(Ancient)
+Item 2577 : Knuckle_Cutter(Ancient)
+Item 2578 : Knuckle_Cutter(Ancient)
+Item 2579 : Claw(Ancient)
+Item 2580 : Claw(Ancient)
+Item 2581 : Claw(Ancient)
+Item 2582 : Claw(Ancient)
+Item 2583 : Sharp_Claw(Ancient)
+Item 2584 : Sharp_Claw(Ancient)
+Item 2585 : Sharp_Claw(Ancient)
+Item 2586 : Sharp_Claw(Ancient)
+Item 2587 : Kamairah_Knife(Ancient)
+Item 2588 : Kamairah_Knife(Ancient)
+Item 2589 : Kamairah_Knife(Ancient)
+Item 2590 : Kamairah_Knife(Ancient)
+Item 2591 : Darkness_Claw(Ancient)
+Item 2592 : Darkness_Claw(Ancient)
+Item 2593 : Darkness_Claw(Ancient)
+Item 2594 : Darkness_Claw(Ancient)
+Item 2595 : Hidden_Spear(Ancient)
+Item 2596 : Hidden_Spear(Ancient)
+Item 2597 : Hidden_Spear(Ancient)
+Item 2598 : Hidden_Spear(Ancient)
+Item 2599 : Assassin_knife(Ancient)
+Item 2600 : Assassin_knife(Ancient)
+Item 2601 : Assassin_knife(Ancient)
+Item 2602 : Assassin_knife(Ancient)
+Item 2603 : Behemoth_Tusk(Ancient)
+Item 2604 : Behemoth_Tusk(Ancient)
+Item 2605 : Behemoth_Tusk(Ancient)
+Item 2606 : Behemoth_Tusk(Ancient)
+Item 2607 : Talon_Of_Dragon(Ancient)
+Item 2608 : Talon_Of_Dragon(Ancient)
+Item 2609 : Talon_Of_Dragon(Ancient)
+Item 2610 : Talon_Of_Dragon(Ancient)
+Item 2611 : Thron_Of_Kairas(Ancient)
+Item 2612 : Thron_Of_Kairas(Ancient)
+Item 2613 : Thron_Of_Kairas(Ancient)
+Item 2614 : Thron_Of_Kairas(Ancient)
+Item 2615 : 
+Item 2616 : 
+Item 2617 : 
+Item 2618 : 
+Item 2619 : 
+Item 2620 : 
+Item 2621 : 
+Item 2622 : 
+Item 2623 : 
+Item 2624 : 
+Item 2625 : 
+Item 2626 : 
+Item 2627 : 
+Item 2628 : 
+Item 2629 : 
+Item 2630 : 
+Item 2631 : Short_Spear(Ancient)
+Item 2632 : Short_Spear(Ancient)
+Item 2633 : Short_Spear(Ancient)
+Item 2634 : Short_Spear(Ancient)
+Item 2635 : Glaive(Ancient)
+Item 2636 : Glaive(Ancient)
+Item 2637 : Glaive(Ancient)
+Item 2638 : Glaive(Ancient)
+Item 2639 : Winged_Spear(Ancient)
+Item 2640 : Winged_Spear(Ancient)
+Item 2641 : Winged_Spear(Ancient)
+Item 2642 : Winged_Spear(Ancient)
+Item 2643 : Lance(Ancient)
+Item 2644 : Lance(Ancient)
+Item 2645 : Lance(Ancient)
+Item 2646 : Lance(Ancient)
+Item 2647 : Pochard(Ancient)
+Item 2648 : Pochard(Ancient)
+Item 2649 : Pochard(Ancient)
+Item 2650 : Pochard(Ancient)
+Item 2651 : Trident(Ancient)
+Item 2652 : Trident(Ancient)
+Item 2653 : Trident(Ancient)
+Item 2654 : Trident(Ancient)
+Item 2655 : Panaca(Ancient)
+Item 2656 : Panaca(Ancient)
+Item 2657 : Panaca(Ancient)
+Item 2658 : Panaca(Ancient)
+Item 2659 : Brionac(Ancient)
+Item 2660 : Brionac(Ancient)
+Item 2661 : Brionac(Ancient)
+Item 2662 : Brionac(Ancient)
+Item 2663 : Gungnir(Acinet)
+Item 2664 : Gungnir(Acinet)
+Item 2665 : Gungnir(Acinet)
+Item 2666 : Gungnir(Acinet)
+Item 2667 : Victory's_Spear(Ancient)
+Item 2668 : Victory's_Spear(Ancient)
+Item 2669 : Victory's_Spear(Ancient)
+Item 2670 : Victory's_Spear(Ancient)
+Item 2671 : Thron_Of_Garve(Ancient)
+Item 2672 : Thron_Of_Garve(Ancient)
+Item 2673 : Thron_Of_Garve(Ancient)
+Item 2674 : Thron_Of_Garve(Ancient)
+Item 2675 : 
+Item 2676 : 
+Item 2677 : 
+Item 2678 : 
+Item 2679 : 
+Item 2680 : 
+Item 2681 : 
+Item 2682 : 
+Item 2683 : 
+Item 2684 : 
+Item 2685 : 
+Item 2686 : 
+Item 2687 : 
+Item 2688 : 
+Item 2689 : 
+Item 2690 : 
+Item 2691 : Dagger(Ancient)
+Item 2692 : Dagger(Ancient)
+Item 2693 : Dagger(Ancient)
+Item 2694 : Dagger(Ancient)
+Item 2695 : Short_Sword(Ancient)
+Item 2696 : Short_Sword(Ancient)
+Item 2697 : Short_Sword(Ancient)
+Item 2698 : Short_Sword(Ancient)
+Item 2699 : Stiletto(Ancient)
+Item 2700 : Stiletto(Ancient)
+Item 2701 : Stiletto(Ancient)
+Item 2702 : Stiletto(Ancient)
+Item 2703 : Rapier(Ancient)
+Item 2704 : Rapier(Ancient)
+Item 2705 : Rapier(Ancient)
+Item 2706 : Rapier(Ancient)
+Item 2707 : Scimitar(Ancient)
+Item 2708 : Scimitar(Ancient)
+Item 2709 : Scimitar(Ancient)
+Item 2710 : Scimitar(Ancient)
+Item 2711 : Cross_Sword(Ancient)
+Item 2712 : Cross_Sword(Ancient)
+Item 2713 : Cross_Sword(Ancient)
+Item 2714 : Cross_Sword(Ancient)
+Item 2715 : Gladius(Ancient)
+Item 2716 : Gladius(Ancient)
+Item 2717 : Gladius(Ancient)
+Item 2718 : Gladius(Ancient)
+Item 2719 : Soul_Blade(Ancient)
+Item 2720 : Soul_Blade(Ancient)
+Item 2721 : Soul_Blade(Ancient)
+Item 2722 : Soul_Blade(Ancient)
+Item 2723 : Gram(Ancient)
+Item 2724 : Gram(Ancient)
+Item 2725 : Gram(Ancient)
+Item 2726 : Gram(Ancient)
+Item 2727 : Bhopal_Sword(Ancient)
+Item 2728 : Bhopal_Sword(Ancient)
+Item 2729 : Bhopal_Sword(Ancient)
+Item 2730 : Bhopal_Sword(Ancient)
+Item 2731 : Thron_Of_Shard(Ancient)
+Item 2732 : Thron_Of_Shard(Ancient)
+Item 2733 : Thron_Of_Shard(Ancient)
+Item 2734 : Thron_Of_Shard(Ancient)
+Item 2735 : 
+Item 2736 : 
+Item 2737 : 
+Item 2738 : 
+Item 2739 : 
+Item 2740 : 
+Item 2741 : 
+Item 2742 : 
+Item 2743 : 
+Item 2744 : 
+Item 2745 : 
+Item 2746 : 
+Item 2747 : 
+Item 2748 : 
+Item 2749 : 
+Item 2750 : 
+Item 2751 : Dart(Ancient)
+Item 2752 : Dart(Ancient)
+Item 2753 : Dart(Ancient)
+Item 2754 : Dart(Ancient)
+Item 2755 : Throwing_Axe(Ancient)
+Item 2756 : Throwing_Axe(Ancient)
+Item 2757 : Throwing_Axe(Ancient)
+Item 2758 : Throwing_Axe(Ancient)
+Item 2759 : Snake_Prickle(Ancient)
+Item 2760 : Snake_Prickle(Ancient)
+Item 2761 : Snake_Prickle(Ancient)
+Item 2762 : Snake_Prickle(Ancient)
+Item 2763 : Cutting_Boomerang(Ancient)
+Item 2764 : Cutting_Boomerang(Ancient)
+Item 2765 : Cutting_Boomerang(Ancient)
+Item 2766 : Cutting_Boomerang(Ancient)
+Item 2767 : Tomahawk(Ancient)
+Item 2768 : Tomahawk(Ancient)
+Item 2769 : Tomahawk(Ancient)
+Item 2770 : Tomahawk(Ancient)
+Item 2771 : Chakram(Ancient)
+Item 2772 : Chakram(Ancient)
+Item 2773 : Chakram(Ancient)
+Item 2774 : Chakram(Ancient)
+Item 2775 : Shamir(Ancient)
+Item 2776 : Shamir(Ancient)
+Item 2777 : Shamir(Ancient)
+Item 2778 : Shamir(Ancient)
+Item 2779 : Astaroth_Knife(Ancient)
+Item 2780 : Astaroth_Knife(Ancient)
+Item 2781 : Astaroth_Knife(Ancient)
+Item 2782 : Astaroth_Knife(Ancient)
+Item 2783 : Lightning_Spear(Ancient)
+Item 2784 : Lightning_Spear(Ancient)
+Item 2785 : Lightning_Spear(Ancient)
+Item 2786 : Lightning_Spear(Ancient)
+Item 2787 : Holy_Cross(Ancient)
+Item 2788 : Holy_Cross(Ancient)
+Item 2789 : Holy_Cross(Ancient)
+Item 2790 : Holy_Cross(Ancient)
+Item 2791 : Thron_Of_Deimos(Ancient)
+Item 2792 : Thron_Of_Deimos(Ancient)
+Item 2793 : Thron_Of_Deimos(Ancient)
+Item 2794 : Thron_Of_Deimos(Ancient)
+Item 2795 : 
+Item 2796 : 
+Item 2797 : 
+Item 2798 : 
+Item 2799 : 
+Item 2800 : 
+Item 2801 : 
+Item 2802 : 
+Item 2803 : 
+Item 2804 : 
+Item 2805 : 
+Item 2806 : 
+Item 2807 : 
+Item 2808 : 
+Item 2809 : 
+Item 2810 : 
+Item 2811 : Wooden_Cane(Ancient)
+Item 2812 : Wooden_Cane(Ancient)
+Item 2813 : Wooden_Cane(Ancient)
+Item 2814 : Wooden_Cane(Ancient)
+Item 2815 : War_Rod(Ancient)
+Item 2816 : War_Rod(Ancient)
+Item 2817 : War_Rod(Ancient)
+Item 2818 : War_Rod(Ancient)
+Item 2819 : Cutter_Staff(Ancient)
+Item 2820 : Cutter_Staff(Ancient)
+Item 2821 : Cutter_Staff(Ancient)
+Item 2822 : Cutter_Staff(Ancient)
+Item 2823 : Gem_Staff(Ancient)
+Item 2824 : Gem_Staff(Ancient)
+Item 2825 : Gem_Staff(Ancient)
+Item 2826 : Gem_Staff(Ancient)
+Item 2827 : Silent_Staff(Ancient)
+Item 2828 : Silent_Staff(Ancient)
+Item 2829 : Silent_Staff(Ancient)
+Item 2830 : Silent_Staff(Ancient)
+Item 2831 : Falcon_Rod(Ancient)
+Item 2832 : Falcon_Rod(Ancient)
+Item 2833 : Falcon_Rod(Ancient)
+Item 2834 : Falcon_Rod(Ancient)
+Item 2835 : Saint's_Cane(Ancient)
+Item 2836 : Saint's_Cane(Ancient)
+Item 2837 : Saint's_Cane(Ancient)
+Item 2838 : Saint's_Cane(Ancient)
+Item 2839 : Wing_Rod(Ancient)
+Item 2840 : Wing_Rod(Ancient)
+Item 2841 : Wing_Rod(Ancient)
+Item 2842 : Wing_Rod(Ancient)
+Item 2843 : Eye_Of_Carbunkle(Ancient)
+Item 2844 : Eye_Of_Carbunkle(Ancient)
+Item 2845 : Eye_Of_Carbunkle(Ancient)
+Item 2846 : Eye_Of_Carbunkle(Ancient)
+Item 2847 : Kerykeion(Ancient)
+Item 2848 : Kerykeion(Ancient)
+Item 2849 : Kerykeion(Ancient)
+Item 2850 : Kerykeion(Ancient)
+Item 2851 : Blue_Gem_Staff(Ancient)
+Item 2852 : Blue_Gem_Staff(Ancient)
+Item 2853 : Blue_Gem_Staff(Ancient)
+Item 2854 : Blue_Gem_Staff(Ancient)
+Item 2855 : Amber_Gem_Staff(Ancient)
+Item 2856 : Amber_Gem_Staff(Ancient)
+Item 2857 : Amber_Gem_Staff(Ancient)
+Item 2858 : Amber_Gem_Staff(Ancient)
+Item 2859 : Thron_Of_RuneStaff(Ancient)
+Item 2860 : Thron_Of_RuneStaff(Ancient)
+Item 2861 : Thron_Of_RuneStaff(Ancient)
+Item 2862 : Thron_Of_RuneStaff(Ancient)
+Item 2863 : Thron_Of_Zen_Staff(Ancient)
+Item 2864 : Thron_Of_Zen_Staff(Ancient)
+Item 2865 : Thron_Of_Zen_Staff(Ancient)
+Item 2866 : Thron_Of_Zen_Staff(Ancient)
+Item 2867 : 
+Item 2868 : 
+Item 2869 : 
+Item 2870 : 
+Item 2871 : Long_Sword(Ancient)
+Item 2872 : Long_Sword(Ancient)
+Item 2873 : Long_Sword(Ancient)
+Item 2874 : Long_Sword(Ancient)
+Item 2875 : Bastard_Sword(Ancient)
+Item 2876 : Bastard_Sword(Ancient)
+Item 2877 : Bastard_Sword(Ancient)
+Item 2878 : Bastard_Sword(Ancient)
+Item 2879 : Broad_Sword(Ancient)
+Item 2880 : Broad_Sword(Ancient)
+Item 2881 : Broad_Sword(Ancient)
+Item 2882 : Broad_Sword(Ancient)
+Item 2883 : Double_Blade(Ancient)
+Item 2884 : Double_Blade(Ancient)
+Item 2885 : Double_Blade(Ancient)
+Item 2886 : Double_Blade(Ancient)
+Item 2887 : Promynunce_Edge(Ancient)
+Item 2888 : Promynunce_Edge(Ancient)
+Item 2889 : Promynunce_Edge(Ancient)
+Item 2890 : Promynunce_Edge(Ancient)
+Item 2891 : Kaladbolg(Ancient)
+Item 2892 : Kaladbolg(Ancient)
+Item 2893 : Kaladbolg(Ancient)
+Item 2894 : Kaladbolg(Ancient)
+Item 2895 : Thron_Of_Breaker(Ancient)
+Item 2896 : Thron_Of_Breaker(Ancient)
+Item 2897 : Thron_Of_Breaker(Ancient)
+Item 2898 : Thron_Of_Breaker(Ancient)
+Item 2899 : 
+Item 2900 : 
+Item 2901 : 
+Item 2902 : 
+Item 2903 : 
+Item 2904 : 
+Item 2905 : 
+Item 2906 : 
+Item 2907 : 
+Item 2908 : 
+Item 2909 : 
+Item 2910 : 
+Item 2911 : Hammer(Ancient)
+Item 2912 : Hammer(Ancient)
+Item 2913 : Hammer(Ancient)
+Item 2914 : Hammer(Ancient)
+Item 2915 : War_Hammer(Ancient)
+Item 2916 : War_Hammer(Ancient)
+Item 2917 : War_Hammer(Ancient)
+Item 2918 : War_Hammer(Ancient)
+Item 2919 : Battle_Axe(Ancient)
+Item 2920 : Battle_Axe(Ancient)
+Item 2921 : Battle_Axe(Ancient)
+Item 2922 : Battle_Axe(Ancient)
+Item 2923 : Great_Axe(Ancient)
+Item 2924 : Great_Axe(Ancient)
+Item 2925 : Great_Axe(Ancient)
+Item 2926 : Great_Axe(Ancient)
+Item 2927 : Psychic_Hammer(Ancient)
+Item 2928 : Psychic_Hammer(Ancient)
+Item 2929 : Psychic_Hammer(Ancient)
+Item 2930 : Psychic_Hammer(Ancient)
+Item 2931 : Mjolnir(Ancient)
+Item 2932 : Mjolnir(Ancient)
+Item 2933 : Mjolnir(Ancient)
+Item 2934 : Mjolnir(Ancient)
+Item 2935 : Thron_Of_Hammer(Ancient)
+Item 2936 : Thron_Of_Hammer(Ancient)
+Item 2937 : Thron_Of_Hammer(Ancient)
+Item 2938 : Thron_Of_Hammer(Ancient)
+Item 2939 : 
+Item 2940 : 
+Item 2941 : 
+Item 2942 : 
+Item 2943 : 
+Item 2944 : 
+Item 2945 : 
+Item 2946 : 
+Item 2947 : 
+Item 2948 : 
+Item 2949 : 
+Item 2950 : 
+Item 2951 : 
+Item 2952 : 
+Item 2953 : 
+Item 2954 : 
+Item 2955 : 
+Item 2956 : 
+Item 2957 : 
+Item 2958 : 
+Item 2959 : 
+Item 2960 : Clydesdale_Horse
+Item 2961 : Gullfaxi_Horse
+Item 2962 : BearBear
+Item 2963 : Jackal
+Item 2964 : Jackal
+Item 2965 : 
+Item 2966 : 
+Item 2967 : 
+Item 2968 : 
+Item 2969 : 
+Item 2970 : 
+Item 2971 : 
+Item 2972 : 
+Item 2973 : 
+Item 2974 : 
+Item 2975 : 
+Item 2976 : 
+Item 2977 : 
+Item 2978 : 
+Item 2979 : 
+Item 2980 : 
+Item 2981 : 
+Item 2982 : 
+Item 2983 : 
+Item 2984 : 
+Item 2985 : 
+Item 2986 : 
+Item 2987 : 
+Item 2988 : 
+Item 2989 : 
+Item 2990 : 
+Item 2991 : 
+Item 2992 : 
+Item 2993 : 
+Item 2994 : 
+Item 2995 : 
+Item 2996 : 
+Item 2997 : 
+Item 2998 : 
+Item 2999 : 
+Item 3000 : Iron_Taron_Weapon
+Item 3001 : Berserker_One_Hand_Axe
+Item 3002 : Berserker_One_Hand_Shield
+Item 3003 : Sorcerer_Cane
+Item 3004 : Shaman_Spear
+Item 3005 : Ranger_Bow
+Item 3006 : Kalints_Man_Claw
+Item 3007 : Frozen_Troll_Weapon
+Item 3008 : 
+Item 3009 : 
+Item 3010 : 
+Item 3011 : 
+Item 3012 : 
+Item 3013 : 
+Item 3014 : 
+Item 3015 : 
+Item 3016 : NONAME
+Item 3017 : NONAME
+Item 3018 : NONAME
+Item 3019 : NONAME
+Item 3020 : Stone_Of_Fury
+Item 3021 : Extraction_Crystal(Helmet)
+Item 3022 : Extraction_Crystal(Jaket)
+Item 3023 : Extraction_Crystal(Pants)
+Item 3024 : Extraction_Crystal(Gloves)
+Item 3025 : Extraction_Crystal(Boots)
+Item 3026 : Extraction_Crystal(Weapon)
+Item 3027 : Mythril_Ore(Damege)
+Item 3028 : Mythril_Ore(Magic)
+Item 3029 : Mythril_Ore(Defence)
+Item 3030 : Mythril_Ore(Critical)
+Item 3031 : Mythril_Ore(Resist)
+Item 3032 : Mythril_Ore(HitBouns)
+Item 3033 : 
+Item 3034 : 
+Item 3035 : 
+Item 3036 : 
+Item 3037 : 
+Item 3038 : 
+Item 3039 : 
+Item 3040 : 
+Item 3041 : 
+Item 3042 : 
+Item 3043 : 
+Item 3044 : 
+Item 3045 : 
+Item 3046 : 
+Item 3047 : 
+Item 3048 : 
+Item 3049 : 
+Item 3050 : 
+Item 3051 : Mighty_Talos_Weapon
+Item 3052 : Lich_Side
+Item 3053 : Templer_Sword
+Item 3054 : 
+Item 3055 : 
+Item 3056 : 
+Item 3057 : 
+Item 3058 : 
+Item 3059 : 
+Item 3060 : 
+Item 3061 : 
+Item 3062 : 
+Item 3063 : 
+Item 3064 : 
+Item 3065 : 
+Item 3066 : 
+Item 3067 : 
+Item 3068 : 
+Item 3069 : 
+Item 3070 : 
+Item 3071 : 
+Item 3072 : 
+Item 3073 : 
+Item 3074 : 
+Item 3075 : 
+Item 3076 : 
+Item 3077 : 
+Item 3078 : 
+Item 3079 : 
+Item 3080 : 
+Item 3081 : 
+Item 3082 : 
+Item 3083 : 
+Item 3084 : 
+Item 3085 : 
+Item 3086 : 
+Item 3087 : 
+Item 3088 : 
+Item 3089 : 
+Item 3090 : ItemunLock
+Item 3091 : 
+Item 3092 : 
+Item 3093 : 
+Item 3094 : 
+Item 3095 : 
+Item 3096 : 
+Item 3097 : 
+Item 3098 : 
+Item 3099 : 
+Item 3100 : 
+Item 3101 : 
+Item 3102 : 
+Item 3103 : 
+Item 3104 : 
+Item 3105 : 
+Item 3106 : 
+Item 3107 : 
+Item 3108 : 
+Item 3109 : 
+Item 3110 : 
+Item 3111 : 
+Item 3112 : 
+Item 3113 : 
+Item 3114 : 
+Item 3115 : 
+Item 3116 : 
+Item 3117 : 
+Item 3118 : 
+Item 3119 : 
+Item 3120 : 
+Item 3121 : 
+Item 3122 : 
+Item 3123 : 
+Item 3124 : 
+Item 3125 : 
+Item 3126 : 
+Item 3127 : 
+Item 3128 : 
+Item 3129 : 
+Item 3130 : 
+Item 3131 : 
+Item 3132 : 
+Item 3133 : 
+Item 3134 : 
+Item 3135 : 
+Item 3136 : 
+Item 3137 : 
+Item 3138 : 
+Item 3139 : 
+Item 3140 : Glittering_Stone
+Item 3141 : 
+Item 3142 : 
+Item 3143 : 
+Item 3144 : Com_Shild
+Item 3145 : Victory's_Tower_1
+Item 3146 : Victory's_Tower_2
+Item 3147 : Victory's_Tower_3
+Item 3148 : Victory's_Tower_4
+Item 3149 : Victory's_Tower_5
+Item 3150 : Gremline_Transformation_Order
+Item 3151 : Archer_Orc_Transformation_Order
+Item 3152 : Troll_Transformation_Order
+Item 3153 : Carbunkle_Transformation_Order
+Item 3154 : Ghoul_Chief_Transformation_Order
+Item 3155 : 
+Item 3156 : 
+Item 3157 : 
+Item 3158 : 
+Item 3159 : 
+Item 3160 : Tras_A
+Item 3161 : Tras_C
+Item 3162 : Tras_D
+Item 3163 : 
+Item 3164 : 
+Item 3165 : 
+Item 3166 : 
+Item 3167 : 
+Item 3168 : 
+Item 3169 : 
+Item 3170 : Elixir_Notice
+Item 3171 : Duel_Letter(Mystic)
+Item 3172 : Duel_Letter(Normal)
+Item 3173 : Water_Scroll(Normal)LV1
+Item 3174 : Water_Scroll(Normal)LV2
+Item 3175 : Water_Scroll(Normal)LV3
+Item 3176 : Water_Scroll(Normal)LV4
+Item 3177 : Water_Scroll(Normal)LV5
+Item 3178 : Water_Scroll(Normal)LV6
+Item 3179 : Water_Scroll(Normal)LV7
+Item 3180 : Water_Scroll(NormalLV8
+Item 3181 : Nessus_Scroll(Nomal)
+Item 3182 : Water_Scroll(Arcane)LV1
+Item 3183 : Water_Scroll(Arcane)LV2
+Item 3184 : Water_Scroll(Arcane)LV3
+Item 3185 : Water_Scroll(Arcane)LV4
+Item 3186 : Water_Scroll(Arcane)LV5
+Item 3187 : Water_Scroll(Arcane)LV6
+Item 3188 : Water_Scroll(Arcane)LV7
+Item 3189 : Water_Scroll(Arcane)LV8
+Item 3190 : Nessus_Scroll(Arcane)
+Item 3191 : Elite_Of_Hekalotia
+Item 3192 : Elite_Of_Akeronia
+Item 3193 : Elite_Of_Adventurer
+Item 3194 : Hero_Hekalotia_Cape
+Item 3195 : Hero_Akelonia_Cape
+Item 3196 : Hero_Adventurer_Cape
+Item 3197 : Master_Of_Hekalotia
+Item 3198 : Master_Of_Akeronia
+Item 3199 : Master_Of_Adventurer
+Item 3200 : Dilpunch_Jewel
+Item 3201 : Moonlight_Jewel
+Item 3202 : Jewel_eye
+Item 3203 : ReCondition_Jewel
+Item 3204 : Blood_Jewel
+Item 3205 : Shield_Jewel
+Item 3206 : Power_Jewel
+Item 3207 : Jewel_bag
+Item 3208 : Point_Jewel
+Item 3209 : Mana_Jewel
+Item 3210 : Critical_Jewel
+Item 3211 : Point_Jewel
+Item 3212 : WYD_Lottery
+Item 3213 : WYD_Lottery
+Item 3214 : WYD_Lottery
+Item 3215 : WYD_Lottery
+Item 3216 : WYD_Lottery
+Item 3217 : WYD_Lottery
+Item 3218 : WYD_Lottery
+Item 3219 : WYD_Lottery
+Item 3220 : WYD_Lottery
+Item 3221 : WYD_Lottery
+Item 3222 : WYD_Lottery
+Item 3223 : WYD_Lottery
+Item 3224 : WYD_Lottery
+Item 3225 : WYD_Lottery
+Item 3226 : WYD_Lottery
+Item 3227 : WYD_Lottery
+Item 3228 : WYD_Lottery
+Item 3229 : WYD_Lottery
+Item 3230 : WYD_Lottery
+Item 3231 : WYD_Lottery
+Item 3232 : WYD_Lottery
+Item 3233 : WYD_Lottery
+Item 3234 : WYD_Lottery
+Item 3235 : WYD_Lottery
+Item 3236 : WYD_Lottery
+Item 3237 : WYD_Lottery
+Item 3238 : WYD_Lottery
+Item 3239 : WYD_Lottery
+Item 3240 : WYD_Lottery
+Item 3241 : WYD_Lottery
+Item 3242 : WYD_Lottery
+Item 3243 : WYD_Lottery
+Item 3244 : WYD_Lottery
+Item 3245 : WYD_Lottery
+Item 3246 : WYD_Lottery
+Item 3247 : WYD_Lottery
+Item 3248 : WYD_Lottery
+Item 3249 : WYD_Lottery
+Item 3250 : WYD_Lottery
+Item 3251 : WYD_Lottery
+Item 3252 : WYD_Lottery
+Item 3253 : WYD_Lottery
+Item 3254 : WYD_Lottery
+Item 3255 : WYD_Lottery
+Item 3256 : WYD_Lottery
+Item 3257 : WYD_Lottery
+Item 3258 : WYD_Lottery
+Item 3259 : WYD_Lottery
+Item 3260 : WYD_Lottery
+Item 3261 : WYD_Lottery
+Item 3262 : WYD_Lottery
+Item 3263 : WYD_Lottery
+Item 3264 : WYD_Lottery
+Item 3265 : WYD_Lottery
+Item 3266 : WYD_Lottery
+Item 3267 : WYD_Lottery
+Item 3268 : WYD_Lottery
+Item 3269 : WYD_Lottery
+Item 3270 : WYD_Lottery
+Item 3271 : WYD_Lottery
+Item 3272 : WYD_Lottery
+Item 3273 : WYD_Lottery
+Item 3274 : WYD_Lottery
+Item 3275 : WYD_Lottery
+Item 3276 : WYD_Lottery
+Item 3277 : WYD_Lottery
+Item 3278 : WYD_Lottery
+Item 3279 : WYD_Lottery
+Item 3280 : WYD_Lottery
+Item 3281 : WYD_Lottery
+Item 3282 : WYD_Lottery
+Item 3283 : WYD_Lottery
+Item 3284 : WYD_Lottery
+Item 3285 : Event_Key6
+Item 3286 : Event_Key7
+Item 3287 : Event_Key8
+Item 3288 : Event_Key9
+Item 3289 : Event_Key10
+Item 3290 : Event_Key11
+Item 3291 : Event_Key12
+Item 3292 : Event_Key13
+Item 3293 : Event_Key14
+Item 3294 : Event_Key15
+Item 3295 : Event_Key1
+Item 3296 : Event_Key2
+Item 3297 : Event_Key3
+Item 3298 : Event_Key4
+Item 3299 : Event_Key5
+Item 3300 : Gather
+Item 3301 : DragonSoul
+Item 3302 : Mark_of_the_Archangel
+Item 3303 : God's_Crown
+Item 3304 : 
+Item 3305 : 
+Item 3306 : 
+Item 3307 : 
+Item 3308 : 
+Item 3309 : 
+Item 3310 : Kappa_Potion(P)
+Item 3311 : Competent_Potion(P)
+Item 3312 : Mental_Potion(P)
+Item 3313 : Bigger_Potion
+Item 3314 : Roasted_Chicken
+Item 3315 : Mount_Recovery_Potion
+Item 3316 : Mount_Recovery_Potion
+Item 3317 : Mount_Recovery_Potion
+Item 3318 : Roasted_Chicken(Package)
+Item 3319 : (S)Kappa_Potion(P)
+Item 3320 : (S)Competent_Potion(P)
+Item 3321 : (S)Mental_Potion(P)
+Item 3322 : (S)Healing_Potion_Box(P)
+Item 3323 : Mana_Potion_Box(P)
+Item 3324 : Nightmare(Normal/party)
+Item 3325 : Nightmare(Mystic/party)
+Item 3326 : Nightmare(Arcane/party)
+Item 3327 : Nightmare(Scrap)
+Item 3328 : Hell_Gate_Ancient_Paper(Personal)
+Item 3329 : Hell_Gate_Ancient_Paper(Party)
+Item 3330 : Shout
+Item 3331 : Delights_Of_The_City_Entrance_Ticket
+Item 3332 : Wild_Boar_Transformation_Letter
+Item 3333 : Wolf_Transformation_Letter
+Item 3334 : Fire_Golem_Transformation_Letter
+Item 3335 : Transformation_Release_Letter
+Item 3336 : Return_Of_Ability
+Item 3337 : not
+Item 3338 : Bless_Refining
+Item 3339 : not
+Item 3340 : Firecracker1
+Item 3341 : Firecracker2
+Item 3342 : Firecracker3
+Item 3343 : Cao_Remission_Letter
+Item 3344 : Kapel_Growth_Potion
+Item 3345 : Acuban_Growth_Potion
+Item 3346 : Menkar_Growth_Potion
+Item 3347 : Birago_Growth_Potion
+Item 3348 : Usu_Growth_Potion
+Item 3349 : Makave_Growth_Potion
+Item 3350 : Alperats_Growth_Potion
+Item 3351 : Kapel_Length_Of_Life_Recovery_Potion
+Item 3352 : Acuban_Length_Of_Life_Recovery_Potion
+Item 3353 : Menkar_Length_Of_Life_Recovery_Potion
+Item 3354 : Birago_Length_Of_Life_Recovery_Potion
+Item 3355 : Usu_Length_Of_Life_Recovery_Potion
+Item 3356 : Makave_Length_Of_Life_Recovery_Potion
+Item 3357 : Alperats_Length_Of_Life_Recovery_Potion
+Item 3358 : Pancake(7days)
+Item 3359 : Pancake(15days)
+Item 3360 : Pancake(30days)
+Item 3361 : Sephira_Potion(7days)
+Item 3362 : Sephira_Potion(15days)
+Item 3363 : Sephira_Potion(30days)
+Item 3364 : Health_Potion(7days)
+Item 3365 : Health_Potion(15days)
+Item 3366 : Health_Potion(30days)
+Item 3367 : Fairy_Bless_Water
+Item 3368 : Tamed_Boar's_Feed(P)
+Item 3369 : Tamed_Wolf's_Feed(P)
+Item 3370 : Dragon_Puppy's_Feed(P)
+Item 3371 : Tamed_Bear's_Feed(P)
+Item 3372 : Smilodon's_Feed(P)
+Item 3373 : Horse's_Feed(P)
+Item 3374 : Fire_Tiger's_Feed(P)
+Item 3375 : Red_Dragon's_Feed(P)
+Item 3376 : Unicorn's_Feed(P)
+Item 3377 : Griffin's_Feed(P)
+Item 3378 : Wonder_Drug_Of_Courage(7Days)
+Item 3379 : Mega_Potion(7days)
+Item 3380 : Mega_Potion(15days)
+Item 3381 : Mega_Potion(30days)
+Item 3382 : Master_Jewel
+Item 3383 : Fenrir's_Feed(P)
+Item 3384 : Dragon's_Feed(P)
+Item 3385 : not_used
+Item 3386 : Diamond_Gem
+Item 3387 : Emerald_Gem
+Item 3388 : Coral_Gem
+Item 3389 : Granet_Gem
+Item 3390 : Nightmare(Normal/Personal)
+Item 3391 : Nightmare(Mystic/Personal)
+Item 3392 : Nightmare(Arcane/Personal)
+Item 3393 : Coin_Wyden(200b/c)
+Item 3394 : Gold_Wyden(1000b/c)
+Item 3395 : Gold_Wyden(3000b/c)
+Item 3396 : Gold_Wyden(5000b/c)
+Item 3397 : Blue_Firal
+Item 3398 : Red_Firal
+Item 3399 : Green_Firal
+Item 3400 : Silver_Firal
+Item 3401 : Black_Firal
+Item 3402 : Purple_Firal
+Item 3403 : Brown_Firal
+Item 3404 : Violet_Firal
+Item 3405 : Yellowish_Firal
+Item 3406 : Indigo_Firal
+Item 3407 : Blue_Enamel
+Item 3408 : Red_Enamel
+Item 3409 : Green_Enamel
+Item 3410 : Silver_Enamel
+Item 3411 : Black_Enamel
+Item 3412 : Purple_Enamel
+Item 3413 : Brown_Enamel
+Item 3414 : Violet_Enamel
+Item 3415 : Yellowish_Enamel
+Item 3416 : Indigo_Enamel
+Item 3417 : Remover_Enamel
+Item 3418 : Wild_Boar_Transformation_Letter
+Item 3419 : Wolf_Transformation_Letter
+Item 3420 : Fire_Golem_Transformation_Letter
+Item 3421 : Gremlin_Transformation_Letter
+Item 3422 : Archer_Orc_Transformation_Letter
+Item 3423 : Troll_Transformation_Letter
+Item 3424 : Carbunkle_Transformation_Letter
+Item 3425 : Ghoule_Chief_Transformation_Letter
+Item 3426 : 
+Item 3427 : 
+Item 3428 : 
+Item 3429 : Recall_Scroll(P)
+Item 3430 : Warp_Scroll(P)
+Item 3431 : Great_Potion(P)
+Item 3432 : Hunting_Scroll(Armia)
+Item 3433 : Hunting_Scroll(Dark_Dungeon)
+Item 3434 : Hunting_Scroll(under_world)
+Item 3435 : Hunting_Scroll(kalt_desert)
+Item 3436 : Hunting_Scroll(Kephra)
+Item 3437 : Hunting_Scroll(Niflehime)
+Item 3438 : Hatch_accelerator
+Item 3439 : Service_Ticket(24hours)
+Item 3440 : Service_Ticket(7days)
+Item 3441 : Gold_Wyden(10000b/c)
+Item 3442 : Premium_Firecracker
+Item 3443 : Spirit's_Seal
+Item 3444 : Contract's_Seal
+Item 3445 : Oriharukon_Alchemy
+Item 3446 : Laktorerium_Alchemy
+Item 3447 : Oriharukon
+Item 3448 : Laktorerium
+Item 3449 : 
+Item 3450 : 
+Item 3451 : Silver_Flash
+Item 3452 : Gold_Flash
+Item 3453 : Revival_Horse
+Item 3454 : Revival_Horse(P)
+Item 3455 : Extraction_of_Magical_Power
+Item 3456 : Call_Of_King
+Item 3457 : Commander_a_Seal
+Item 3458 : Fury_Knight_a_Seal
+Item 3459 : Intellect_Wizard_a_Seal
+Item 3460 : Courage_Knight_a_Seal
+Item 3461 : Mount_Growth_Stabilizer
+Item 3462 : Zealot_a_Seal
+Item 3463 : Revival_Scroll
+Item 3464 : Amunla_Stone
+Item 3465 : Fauness's_Feed(P)
+Item 3466 : Helriohdon's_Feed(P)
+Item 3467 : Traveling_Bag
+Item 3468 : Blessing_of_the_haden_Step_1
+Item 3469 : Blessing_of_the_haden_Step_2
+Item 3470 : Blessing_of_the_haden_Step_3
+Item 3471 : Blessing_of_the_haden_Step_4
+Item 3472 : Mana_Potion_Box(P)
+Item 3473 : Kefra_Scroll
+Item 3474 : Soul_Scroll
+Item 3475 : Honor_Pledge
+Item 3476 : Back_Ho
+Item 3477 : Restoration_Potion(P)
+Item 3478 : The_Devil_Whisper
+Item 3479 : Peerage_Lift
+Item 3480 : War_Opening_Act
+Item 3481 : 
+Item 3482 : 
+Item 3483 : 
+Item 3484 : 
+Item 3485 : 
+Item 3486 : 
+Item 3487 : 
+Item 3488 : 
+Item 3489 : 
+Item 3490 : 
+Item 3491 : 
+Item 3492 : 
+Item 3493 : 
+Item 3494 : 
+Item 3495 : 
+Item 3496 : 
+Item 3497 : 
+Item 3498 : 
+Item 3499 : 
+Item 3500 : Silver_Circlet
+Item 3501 : Gold_Circlet
+Item 3502 : Mystic_Circlet
+Item 3503 : DragonArmer
+Item 3504 : DemonArmer
+Item 3505 : BlastArmer
+Item 3506 : griffinArmer
+Item 3507 : Arcane_Circlet
+Item 3508 : Quest_Scroll
+Item 3509 : Bahamut_Circlet(P)
+Item 3510 : Anubis_Circlet(M)
+Item 3511 : Bahamut_Circlet
+Item 3512 : Amunra_Circlet
+Item 3513 : 
+Item 3514 : 
+Item 3515 : 
+Item 3516 : 
+Item 3517 : 
+Item 3518 : 
+Item 3519 : 
+Item 3520 : 
+Item 3521 : 
+Item 3522 : 
+Item 3523 : 
+Item 3524 : 
+Item 3525 : 
+Item 3526 : 
+Item 3527 : 
+Item 3528 : 
+Item 3529 : 
+Item 3530 : 
+Item 3531 : 
+Item 3532 : 
+Item 3533 : 
+Item 3534 : 
+Item 3535 : 
+Item 3536 : 
+Item 3537 : 
+Item 3538 : 
+Item 3539 : 
+Item 3540 : 
+Item 3541 : 
+Item 3542 : 
+Item 3543 : 
+Item 3544 : 
+Item 3545 : 
+Item 3546 : 
+Item 3547 : 
+Item 3548 : 
+Item 3549 : 
+Item 3550 : 
+Item 3551 : Dragon_Wing_Axe
+Item 3552 : 
+Item 3553 : 
+Item 3554 : 
+Item 3555 : 
+Item 3556 : Guardian_Bow
+Item 3557 : 
+Item 3558 : 
+Item 3559 : 
+Item 3560 : 
+Item 3561 : Cronus_Saver
+Item 3562 : 
+Item 3563 : 
+Item 3564 : 
+Item 3565 : 
+Item 3566 : Platinum_Shade
+Item 3567 : 
+Item 3568 : 
+Item 3569 : 
+Item 3570 : 
+Item 3571 : Radian_Blade
+Item 3572 : 
+Item 3573 : 
+Item 3574 : 
+Item 3575 : 
+Item 3576 : Karicass
+Item 3577 : 
+Item 3578 : 
+Item 3579 : 
+Item 3580 : 
+Item 3581 : Eternal_Force
+Item 3582 : Chaos_Jereca
+Item 3583 : 
+Item 3584 : 
+Item 3585 : 
+Item 3586 : 
+Item 3587 : 
+Item 3588 : 
+Item 3589 : 
+Item 3590 : 
+Item 3591 : Genesis_Shade
+Item 3592 : 
+Item 3593 : 
+Item 3594 : 
+Item 3595 : 
+Item 3596 : Gigantic_Crasher
+Item 3597 : 
+Item 3598 : 
+Item 3599 : 
+Item 3600 : 
+Item 3601 : Dragon_Wing_Axe(Ancient)
+Item 3602 : Dragon_Wing_Axe(Ancient)
+Item 3603 : Dragon_Wing_Axe(Ancient)
+Item 3604 : Dragon_Wing_Axe(Ancient)
+Item 3605 : Baldr_Of_Axe(Ancient)
+Item 3606 : Baldr_Of_Axe(Ancient)
+Item 3607 : Baldr_Of_Axe(Ancient)
+Item 3608 : Baldr_Of_Axe(Ancient)
+Item 3609 : Bahamut_Of_Axe(Ancient)
+Item 3610 : Bahamut_Of_Axe(Ancient)
+Item 3611 : Bahamut_Of_Axe(Ancient)
+Item 3612 : Bahamut_Of_Axe(Ancient)
+Item 3613 : Dragonic_Axe(Ancient)
+Item 3614 : Dragonic_Axe(Ancient)
+Item 3615 : Dragonic_Axe(Ancient)
+Item 3616 : Dragonic_Axe(Ancient)
+Item 3617 : Heavenly_Axe(Ancient)
+Item 3618 : Heavenly_Axe(Ancient)
+Item 3619 : Heavenly_Axe(Ancient)
+Item 3620 : Heavenly_Axe(Ancient)
+Item 3621 : Guardian_Bow(Ancient)
+Item 3622 : Guardian_Bow(Ancient)
+Item 3623 : Guardian_Bow(Ancient)
+Item 3624 : Guardian_Bow(Ancient)
+Item 3625 : Baldr_Of_Bow(Ancient)
+Item 3626 : Baldr_Of_Bow(Ancient)
+Item 3627 : Baldr_Of_Bow(Ancient)
+Item 3628 : Baldr_Of_Bow(Ancient)
+Item 3629 : Bahamut_Of_Bow(Ancient)
+Item 3630 : Bahamut_Of_Bow(Ancient)
+Item 3631 : Bahamut_Of_Bow(Ancient)
+Item 3632 : Bahamut_Of_Bow(Ancient)
+Item 3633 : Dragonic_Bow(Ancient)
+Item 3634 : Dragonic_Bow(Ancient)
+Item 3635 : Dragonic_Bow(Ancient)
+Item 3636 : Dragonic_Bow(Ancient)
+Item 3637 : Heavenly_Bow(Ancient)
+Item 3638 : Heavenly_Bow(Ancient)
+Item 3639 : Heavenly_Bow(Ancient)
+Item 3640 : Heavenly_Bow(Ancient)
+Item 3641 : Cronus_Saver(Ancient)
+Item 3642 : Cronus_Saver(Ancient)
+Item 3643 : Cronus_Saver(Ancient)
+Item 3644 : Cronus_Saver(Ancient)
+Item 3645 : Baldr_Of_Claw(Ancient)
+Item 3646 : Baldr_Of_Claw(Ancient)
+Item 3647 : Baldr_Of_Claw(Ancient)
+Item 3648 : Baldr_Of_Claw(Ancient)
+Item 3649 : Bahamut_Of_Claw(Ancient)
+Item 3650 : Bahamut_Of_Claw(Ancient)
+Item 3651 : Bahamut_Of_Claw(Ancient)
+Item 3652 : Bahamut_Of_Claw(Ancient)
+Item 3653 : Dragonic_Saver(Ancient)
+Item 3654 : Dragonic_Saver(Ancient)
+Item 3655 : Dragonic_Saver(Ancient)
+Item 3656 : Dragonic_Saver(Ancient)
+Item 3657 : Heavenly_Saver(Ancient)
+Item 3658 : Heavenly_Saver(Ancient)
+Item 3659 : Heavenly_Saver(Ancient)
+Item 3660 : Heavenly_Saver(Ancient)
+Item 3661 : Platinum_Shade(Ancient)
+Item 3662 : Platinum_Shade(Ancient)
+Item 3663 : Platinum_Shade(Ancient)
+Item 3664 : Platinum_Shade(Ancient)
+Item 3665 : Baldr_Of_Spear(Ancient)
+Item 3666 : Baldr_Of_Spear(Ancient)
+Item 3667 : Baldr_Of_Spear(Ancient)
+Item 3668 : Baldr_Of_Spear(Ancient)
+Item 3669 : Bahamut_Of_Spear(Ancient)
+Item 3670 : Bahamut_Of_Spear(Ancient)
+Item 3671 : Bahamut_Of_Spear(Ancient)
+Item 3672 : Bahamut_Of_Spear(Ancient)
+Item 3673 : Dragonic_Shade(Ancient)
+Item 3674 : Dragonic_Shade(Ancient)
+Item 3675 : Dragonic_Shade(Ancient)
+Item 3676 : Dragonic_Shade(Ancient)
+Item 3677 : Heavenly_Shade(Ancient)
+Item 3678 : Heavenly_Shade(Ancient)
+Item 3679 : Heavenly_Shade(Ancient)
+Item 3680 : Heavenly_Shade(Ancient)
+Item 3681 : Radian_Blade(Ancient)
+Item 3682 : Radian_Blade(Ancient)
+Item 3683 : Radian_Blade(Ancient)
+Item 3684 : Radian_Blade(Ancient)
+Item 3685 : Baldr_Of_Shard(Ancient)
+Item 3686 : Baldr_Of_Shard(Ancient)
+Item 3687 : Baldr_Of_Shard(Ancient)
+Item 3688 : Baldr_Of_Shard(Ancient)
+Item 3689 : Bahamut_Of_Shard(Ancient)
+Item 3690 : Bahamut_Of_Shard(Ancient)
+Item 3691 : Bahamut_Of_Shard(Ancient)
+Item 3692 : Bahamut_Of_Shard(Ancient)
+Item 3693 : Dragonic_Blade(Ancient)
+Item 3694 : Dragonic_Blade(Ancient)
+Item 3695 : Dragonic_Blade(Ancient)
+Item 3696 : Dragonic_Blade(Ancient)
+Item 3697 : Heavenly_Blade(Ancient)
+Item 3698 : Heavenly_Blade(Ancient)
+Item 3699 : Heavenly_Blade(Ancient)
+Item 3700 : Heavenly_Blade(Ancient)
+Item 3701 : Karicass(Ancient)
+Item 3702 : Karicass(Ancient)
+Item 3703 : Karicass(Ancient)
+Item 3704 : Karicass(Ancient)
+Item 3705 : Baldr_Of_Cross(Ancient)
+Item 3706 : Baldr_Of_Cross(Ancient)
+Item 3707 : Baldr_Of_Cross(Ancient)
+Item 3708 : Baldr_Of_Cross(Ancient)
+Item 3709 : Bahamut_Of_Cross(Ancient)
+Item 3710 : Bahamut_Of_Cross(Ancient)
+Item 3711 : Bahamut_Of_Cross(Ancient)
+Item 3712 : Bahamut_Of_Cross(Ancient)
+Item 3713 : Dragonic_Karicass(Ancient)
+Item 3714 : Dragonic_Karicass(Ancient)
+Item 3715 : Dragonic_Karicass(Ancient)
+Item 3716 : Dragonic_Karicass(Ancient)
+Item 3717 : Heavenly_Karicass(Ancient)
+Item 3718 : Heavenly_Karicass(Ancient)
+Item 3719 : Heavenly_Karicass(Ancient)
+Item 3720 : Heavenly_Karicass(Ancient)
+Item 3721 : Eternal_Force(Ancient)
+Item 3722 : Eternal_Force(Ancient)
+Item 3723 : Eternal_Force(Ancient)
+Item 3724 : Eternal_Force(Ancient)
+Item 3725 : Chaos_Jereca(Ancient)
+Item 3726 : Chaos_Jereca(Ancient)
+Item 3727 : Chaos_Jereca(Ancient)
+Item 3728 : Chaos_Jereca(Ancient)
+Item 3729 : Baldr_Of_Rune_Rod(Ancient)
+Item 3730 : Baldr_Of_Rune_Rod(Ancient)
+Item 3731 : Baldr_Of_Rune_Rod(Ancient)
+Item 3732 : Baldr_Of_Rune_Rod(Ancient)
+Item 3733 : Baldr_Of_Zen_Rod(Ancient)
+Item 3734 : Baldr_Of_Zen_Rod(Ancient)
+Item 3735 : Baldr_Of_Zen_Rod(Ancient)
+Item 3736 : Baldr_Of_Zen_Rod(Ancient)
+Item 3737 : Bahamut_Of_Rune_Rod(Ancient)
+Item 3738 : Bahamut_Of_Rune_Rod(Ancient)
+Item 3739 : Bahamut_Of_Rune_Rod(Ancient)
+Item 3740 : Bahamut_Of_Rune_Rod(Ancient)
+Item 3741 : Bahamut_Of_Zen_Rod(Ancient)
+Item 3742 : Bahamut_Of_Zen_Rod(Ancient)
+Item 3743 : Bahamut_Of_Zen_Rod(Ancient)
+Item 3744 : Bahamut_Of_Zen_Rod(Ancient)
+Item 3745 : Dragonic_Rune_Rod(Ancient)
+Item 3746 : Dragonic_Rune_Rod(Ancient)
+Item 3747 : Dragonic_Rune_Rod(Ancient)
+Item 3748 : Dragonic_Rune_Rod(Ancient)
+Item 3749 : Dragonic_Zen_Rod(Ancient)
+Item 3750 : Dragonic_Zen_Rod(Ancient)
+Item 3751 : Dragonic_Zen_Rod(Ancient)
+Item 3752 : Dragonic_Zen_Rod(Ancient)
+Item 3753 : Heavenly_Rune_Rod(Ancient)
+Item 3754 : Heavenly_Rune_Rod(Ancient)
+Item 3755 : Heavenly_Rune_Rod(Ancient)
+Item 3756 : Heavenly_Rune_Rod(Ancient)
+Item 3757 : Heavenly_Zen_Rod(Ancient)
+Item 3758 : Heavenly_Zen_Rod(Ancient)
+Item 3759 : Heavenly_Zen_Rod(Ancient)
+Item 3760 : Heavenly_Zen_Rod(Ancient)
+Item 3761 : Genesis_Shade(Ancient)
+Item 3762 : Genesis_Shade(Ancient)
+Item 3763 : Genesis_Shade(Ancient)
+Item 3764 : Genesis_Shade(Ancient)
+Item 3765 : Baldr_Of_Breaker(Ancient)
+Item 3766 : Baldr_Of_Breaker(Ancient)
+Item 3767 : Baldr_Of_Breaker(Ancient)
+Item 3768 : Baldr_Of_Breaker(Ancient)
+Item 3769 : Bahamut_Of_Breaker(Ancient)
+Item 3770 : Bahamut_Of_Breaker(Ancient)
+Item 3771 : Bahamut_Of_Breaker(Ancient)
+Item 3772 : Bahamut_Of_Breaker(Ancient)
+Item 3773 : Dragonic_Shade(Ancient)
+Item 3774 : Dragonic_Shade(Ancient)
+Item 3775 : Dragonic_Shade(Ancient)
+Item 3776 : Dragonic_Shade(Ancient)
+Item 3777 : Heavenly_Shade(Ancient)
+Item 3778 : Heavenly_Shade(Ancient)
+Item 3779 : Heavenly_Shade(Ancient)
+Item 3780 : Heavenly_Shade(Ancient)
+Item 3781 : Gigantic_Crasher(Ancient)
+Item 3782 : Gigantic_Crasher(Ancient)
+Item 3783 : Gigantic_Crasher(Ancient)
+Item 3784 : Gigantic_Crasher(Ancient)
+Item 3785 : Baldr_Of_Hammer(Ancient)
+Item 3786 : Baldr_Of_Hammer(Ancient)
+Item 3787 : Baldr_Of_Hammer(Ancient)
+Item 3788 : Baldr_Of_Hammer(Ancient)
+Item 3789 : Bahamut_Of_Hammer(Ancient)
+Item 3790 : Bahamut_Of_Hammer(Ancient)
+Item 3791 : Bahamut_Of_Hammer(Ancient)
+Item 3792 : Bahamut_Of_Hammer(Ancient)
+Item 3793 : Dragonic_Crasher(Ancient)
+Item 3794 : Dragonic_Crasher(Ancient)
+Item 3795 : Dragonic_Crasher(Ancient)
+Item 3796 : Dragonic_Crasher(Ancient)
+Item 3797 : Heavenly_Crasher(Ancient)
+Item 3798 : Heavenly_Crasher(Ancient)
+Item 3799 : Heavenly_Crasher(Ancient)
+Item 3800 : Heavenly_Crasher(Ancient)
+Item 3801 : Slayer_Helmet(Legend)
+Item 3802 : Slayer_Breastplate(Legend)
+Item 3803 : Slayer_Pants(Legend)
+Item 3804 : Slayer_Gloves(Legend)
+Item 3805 : Slayer_Boots(Legend)
+Item 3806 : DragonicSlayer_Helmet(Legend)
+Item 3807 : DragonicSlayer_Breastplate(Legend)
+Item 3808 : DragonicSlayer_Pants(Legend)
+Item 3809 : DragonicSlayer_Gloves(Legend)
+Item 3810 : DragonicSlayer_Boots(Legend)
+Item 3811 : 
+Item 3812 : 
+Item 3813 : 
+Item 3814 : 
+Item 3815 : 
+Item 3816 : 
+Item 3817 : 
+Item 3818 : 
+Item 3819 : 
+Item 3820 : 
+Item 3821 : Templess_Helmet(Legend)
+Item 3822 : Templess_Tunic(Legend)
+Item 3823 : Templess_Skirt(Legend)
+Item 3824 : Templess_Glovest(Legend)
+Item 3825 : Templess_Boots(Legend)
+Item 3826 : DragonicTempless_Helmet(Legend)
+Item 3827 : DragonicTempless_Tunic(Legend)
+Item 3828 : DragonicTempless_Skirt(Legend)
+Item 3829 : DragonicTempless_Glovest(Legend)
+Item 3830 : DragonicTempless_Boots(Legend)
+Item 3831 : 
+Item 3832 : 
+Item 3833 : 
+Item 3834 : 
+Item 3835 : 
+Item 3836 : 
+Item 3837 : 
+Item 3838 : 
+Item 3839 : 
+Item 3840 : 
+Item 3841 : Raven_Helemt(Legend)
+Item 3842 : Raven_Breastplate(Legend)
+Item 3843 : Raven_Pants(Legend)
+Item 3844 : Raven_Glovest(Legend)
+Item 3845 : Raven_Boots(Legend)
+Item 3846 : DragonicRaven_Helemt(Legend)
+Item 3847 : DragonicRaven_Breastplate(Legend)
+Item 3848 : DragonicRaven_Pants(Legend)
+Item 3849 : DragonicRaven_Glovest(Legend)
+Item 3850 : DragonicRaven_Boots(Legend)
+Item 3851 : 
+Item 3852 : 
+Item 3853 : 
+Item 3854 : 
+Item 3855 : 
+Item 3856 : 
+Item 3857 : 
+Item 3858 : 
+Item 3859 : 
+Item 3860 : 
+Item 3861 : Ragion_Cap(Legend)
+Item 3862 : Ragion_Breast(Legend)
+Item 3863 : Ragion_Pants(Legend)
+Item 3864 : Ragion_Brace(Legend)
+Item 3865 : Ragion_Boots(Legend)
+Item 3866 : DragonicRagion_Cap
+Item 3867 : DragonicRagion_Breast
+Item 3868 : DragonicRagion_Pants
+Item 3869 : DragonicRagion_Brace
+Item 3870 : DragonicRagion_Boots
+Item 3871 : 
+Item 3872 : 
+Item 3873 : 
+Item 3874 : 
+Item 3875 : 
+Item 3876 : 
+Item 3877 : 
+Item 3878 : 
+Item 3879 : 
+Item 3880 : 
+Item 3881 : 
+Item 3882 : 
+Item 3883 : 
+Item 3884 : 
+Item 3885 : 
+Item 3886 : 
+Item 3887 : 
+Item 3888 : 
+Item 3889 : 
+Item 3890 : 
+Item 3891 : 
+Item 3892 : 
+Item 3893 : 
+Item 3894 : 
+Item 3895 : 
+Item 3896 : 
+Item 3897 : 
+Item 3898 : 
+Item 3899 : 
+Item 3900 : Green_Angel(3days)
+Item 3901 : Blue_Angel(3days)
+Item 3902 : Red_Angel(3days)
+Item 3903 : Green_Angel(5days)
+Item 3904 : Blue_Angel(5days)
+Item 3905 : Red_Angel(5days)
+Item 3906 : Green_Angel(7days)
+Item 3907 : Blue_Angel(7days)
+Item 3908 : Red_Angel(7days)
+Item 3909 : Hidden_Ruins_Map(24hours)
+Item 3910 : Hidden_Ruins_Map(24hours)
+Item 3911 : Green_Angel(7days)
+Item 3912 : Green_Angel(15days)
+Item 3913 : Green_Angel(30days)
+Item 3914 : Silver_Angel
+Item 3915 : Gold_Andgel
+Item 3916 : Hidden_Ruins_Angel(7Days)
+Item 3917 : Fate_Angel
+Item 3918 : Fate_Angel
+Item 3919 : Dragon_Guardian
+Item 3920 : Dragon_Guardian
+Item 3921 : Master_Jewel(30days)
+Item 3922 : Costume_extension_ticket(30days)
+Item 3923 : 
+Item 3924 : 
+Item 3925 : 
+Item 3926 : 
+Item 3927 : 
+Item 3928 : 
+Item 3929 : 
+Item 3930 : 
+Item 3931 : 
+Item 3932 : 
+Item 3933 : 
+Item 3934 : 
+Item 3935 : 
+Item 3936 : 
+Item 3937 : 
+Item 3938 : 
+Item 3939 : 
+Item 3940 : 
+Item 3941 : 
+Item 3942 : 
+Item 3943 : 
+Item 3944 : 
+Item 3945 : 
+Item 3946 : 
+Item 3947 : 
+Item 3948 : 
+Item 3949 : 
+Item 3950 : 
+Item 3951 : 
+Item 3952 : 
+Item 3953 : 
+Item 3954 : 
+Item 3955 : 
+Item 3956 : 
+Item 3957 : 
+Item 3958 : 
+Item 3959 : 
+Item 3960 : 
+Item 3961 : 
+Item 3962 : 
+Item 3963 : 
+Item 3964 : 
+Item 3965 : 
+Item 3966 : 
+Item 3967 : 
+Item 3968 : 
+Item 3969 : 
+Item 3970 : 
+Item 3971 : 
+Item 3972 : Guard_Summon_Letter(Esther)
+Item 3973 : Guard_Summon_Letter(Sophia)
+Item 3974 : Hidden_Ruins_Map(8hours)
+Item 3975 : 
+Item 3976 : 
+Item 3977 : 
+Item 3978 : 20th_Horse(30days
+Item 3979 : Loki(30days)
+Item 3980 : Shire_Horse(3days)
+Item 3981 : Thoroughbred_Horse(3days)
+Item 3982 : Clydesdale_Horse(3days)
+Item 3983 : Shire_Horse(15days)
+Item 3984 : Thoroughbred_Horse(15days)
+Item 3985 : Clydesdale_Horse(15days)
+Item 3986 : Shire_Horse(30days)
+Item 3987 : Thoroughbred_Horse(30days)
+Item 3988 : Clydesdale_Horse(30days)
+Item 3989 : Grew_Parks_Horse(30days)
+Item 3990 : Fire_Tiger
+Item 3991 : Red_Dragon
+Item 3992 : Dragon_Puppy
+Item 3993 : Dragon_Red
+Item 3994 : Dragon_Blue
+Item 3995 : Spider
+Item 3996 : IcelandWolf
+Item 3997 : Dragon_Lich
+Item 3998 : Blood_Spider
+Item 3999 : Deer
+Item 4000 : Cube_Invitation_Card(Mystic)
+Item 4001 : Cube_Invitation_Card(Arcane)
+Item 4002 : 
+Item 4003 : Mount_Box(Normal)
+Item 4004 : Mount_Box(Mystic)
+Item 4005 : Mount_Box(Arcane)
+Item 4006 : Cape_Of_Apprentice
+Item 4007 : Bonus_Box
+Item 4008 : Master_Of_Commander
+Item 4009 : Master_Of_Commander
+Item 4010 : Silver_Wyden(100_million_gold)
+Item 4011 : Silver_Wyden(1_billion_gold)
+Item 4012 : Ticket
+Item 4013 : Kephra's_mark
+Item 4014 : Bonus_Coupon
+Item 4015 : Bersec_Cape
+Item 4016 : Grade_A(Repliction)
+Item 4017 : Grade_B(Repliction)
+Item 4018 : Grade_C(Repliction)
+Item 4019 : Grade_D(Repliction)
+Item 4020 : Grade_E(Repliction)
+Item 4021 : Grade_A(P.Repliction)
+Item 4022 : Grade_B(P.Repliction)
+Item 4023 : Grade_C(P.Repliction)
+Item 4024 : Grade_D(P.Repliction)
+Item 4025 : Grade_E(P.Repliction)
+Item 4026 : Silver_Coin(1_million_Gold)
+Item 4027 : Silver_Coin(5_million_Gold)
+Item 4028 : Silver_Coin(10_million_Gold)
+Item 4029 : Silver_Coin(50_million_Gold)
+Item 4030 : Declaration_of_War_Letter
+Item 4031 : War_Rejection_Letter
+Item 4032 : Crystal_Form
+Item 4033 : NONAME
+Item 4034 : NONAME
+Item 4035 : NONAME
+Item 4036 : NONAME
+Item 4037 : NONAME
+Item 4038 : Grave_Keeper's_Candle
+Item 4039 : A_Gardner's_Crops
+Item 4040 : A_Scout's_Healing_Potion
+Item 4041 : A_Scout's_Mana_Potion
+Item 4042 : A_Guard's_Emblem
+Item 4043 : Protection_Emblem
+Item 4044 : Honorable_Emblem
+Item 4045 : NONAME
+Item 4046 : Wonder_Drug_Of_Courage
+Item 4047 : Bonus_Coupon
+Item 4048 : Bonus_Coupon2
+Item 4049 : WP_Coupon
+Item 4050 : Shaiya_Blessing
+Item 4051 : Gold_Medal
+Item 4052 : Purple_Medal
+Item 4053 : Red_Medal
+Item 4054 : Blue_Medal
+Item 4055 : Green_Medal
+Item 4056 : tteok_gomul
+Item 4057 : Drinks
+Item 4058 : 
+Item 4059 : 
+Item 4060 : Immaturity_Angel
+Item 4061 : Easter_Egg5
+Item 4062 : Easter_Egg6
+Item 4063 : 
+Item 4064 : 
+Item 4065 : 
+Item 4066 : 
+Item 4067 : 
+Item 4068 : 
+Item 4069 : 
+Item 4070 : 
+Item 4071 : 
+Item 4072 : 
+Item 4073 : 
+Item 4074 : 
+Item 4075 : 
+Item 4076 : 
+Item 4077 : 
+Item 4078 : Gold_Key_Event
+Item 4079 : Gold_Key_Event
+Item 4080 : Apprentice_Emblem
+Item 4081 : Kingdom_Emblem
+Item 4082 : HalloweenCandy
+Item 4083 : Christmas_Socks
+Item 4084 : 
+Item 4085 : 
+Item 4086 : 
+Item 4087 : 
+Item 4088 : 
+Item 4089 : 
+Item 4090 : Great_Potion
+Item 4091 : Guild_Potion
+Item 4092 : 
+Item 4093 : 
+Item 4094 : 
+Item 4095 : 
+Item 4096 : 
+Item 4097 : 
+Item 4098 : 
+Item 4099 : 
+Item 4100 : 
+Item 4101 : Gate_Of_Time
+Item 4102 : WYD_Slot_Machine
+Item 4103 : Gambling_Machine
+Item 4104 : Lucky_Pocket
+Item 4105 : Money_Envelop
+Item 4106 : Elime_Crystal
+Item 4107 : Sylphid_Crystal
+Item 4108 : Salion_Crystal
+Item 4109 : Nohas_Crystal
+Item 4110 : Game_Room_Ball
+Item 4111 : A_Territory_Ticket(N)
+Item 4112 : A_Territory_Ticket(M)
+Item 4113 : A_Territory_Ticket(A)
+Item 4114 : Game_Room(Gold_medal)
+Item 4115 : Game_Room(Red_medal)
+Item 4116 : Game_Room(Blue_medal)
+Item 4117 : Box_Of_Wisdom
+Item 4118 : Tears_Of_Angell
+Item 4119 : Heart_Of_Kaizen
+Item 4120 : Boold_Eye
+Item 4121 : Elf's_Spirit_Stone
+Item 4122 : Gargoyle's_Molar
+Item 4123 : Opportunity's_Piece
+Item 4124 : Opportunity's_Compound
+Item 4125 : Balance's_Piece
+Item 4126 : Balance's_Compound
+Item 4127 : Locked_Seal
+Item 4128 : Game_Room_Bead(Normal)
+Item 4129 : Game_Room_Bead(Mystic)
+Item 4130 : Game_Room_Bead(Arcane)
+Item 4131 : Bundles_Sapphire(10)
+Item 4132 : Mythril_Upgrade_Weapon_1
+Item 4133 : Mythril_Upgrade_Weapon_2
+Item 4134 : Lottery(Japan)
+Item 4135 : Lottery(America)
+Item 4136 : Lottery(Cuba)
+Item 4137 : Lottery(Venezuela)
+Item 4138 : Lottery(Puerto
+Item 4139 : Experience_Box
+Item 4140 : Experience_Box
+Item 4141 : Laktorerium_Powder
+Item 4142 : Fairy_Dust
+Item 4143 : First_Gate
+Item 4144 : Experience_Box
+Item 4145 : Love_Candy
+Item 4146 : Warrior's_Seal
+Item 4147 : WYD_TOTO
+Item 4148 : Mystery_Stone
+Item 4149 : tteokguk_pocket
+Item 4150 : Dosa_Set
+Item 4151 : Brocken_Set
+Item 4152 : Uniform_Set(30days)
+Item 4153 : Skeleton_Set(30days)
+Item 4154 : Summer_Costume(Female)
+Item 4155 : CatMan_Set(30days)
+Item 4156 : CatWoman_Set(30days)
+Item 4157 : Female_Wizard_Set(30days)
+Item 4158 : A_son_of_dragon_Set(30days)
+Item 4159 : RedSanta_Set
+Item 4160 : WhiteSanta_Set
+Item 4161 : PurpleRudolph_Set
+Item 4162 : BlueRudolph_Set
+Item 4163 : WhiteUniform_Set(30days)
+Item 4164 : BlackUniform_Set(30days)
+Item 4165 : Blindness_Set(30days)
+Item 4166 : Deafness_Set(30days)
+Item 4167 : SangA_Set(30days)
+Item 4168 : Hanbok_Set(30days)
+Item 4169 : WoodMan_Set(30days)
+Item 4170 : ST_Set(30days)
+Item 4171 : KingDom_Armor
+Item 4172 : KingDom_Armor
+Item 4173 : Gandi
+Item 4174 : Odin
+Item 4175 : Dancing_Girl
+Item 4176 : Rabbit_Set(30days)
+Item 4177 : Dark_Maid
+Item 4178 : Samurai_Set
+Item 4179 : CS
+Item 4180 : Plant_Set
+Item 4181 : Succubus_Set
+Item 4182 : Suit_Set
+Item 4183 : Student_Set
+Item 4184 : Dosa_Set2
+Item 4185 : Odin_Set2
+Item 4186 : Gandi_Set2
+Item 4187 : PurpleRudolph_Set2
+Item 4188 : RedSanta_Set2
+Item 4189 : Carnival_Set
+Item 4190 : Back_Ho_set
+Item 4191 : Death_Shadow
+Item 4192 : Death_Shadow
+Item 4193 : Poison_Spider
+Item 4194 : Kongkongi
+Item 4195 : Kongkongi
+Item 4196 : KingDom_Mount
+Item 4197 : KingDom_Mount
+Item 4198 : Wooden_horse
+Item 4199 : Kongkongi
+Item 4200 : cat
+Item 4201 : Spider
+Item 4202 : Deer
+Item 4203 : Red_Dragon
+Item 4204 : Blue_Dragon
+Item 4205 : Red_Rudolph
+Item 4206 : Blue_Rudolph
+Item 4207 : NewYearCat
+Item 4208 : Gargoyle_Golden
+Item 4209 : Gargoyle_Rock
+Item 4210 : Ladybug
+Item 4211 : Arvak
+Item 4212 : PacBall
+Item 4213 : Halloween_PumpkinBat
+Item 4214 : Dark_Gargoyle
+Item 4215 : Dark_Cat
+Item 4216 : FirePogball
+Item 4217 : Dark_Dragon
+Item 4218 : Xmas_Wooden_horse
+Item 4219 : NewYearCow
+Item 4220 : CarnivalMount
+Item 4221 : CB_kongkongi
+Item 4222 : Maximus
+Item 4223 : Magma_Spider
+Item 4224 : Marine_kongkongi
+Item 4225 : royalarena_mount
+Item 4226 : Noname
+Item 4227 : Loki
+Item 4228 : snow_kongkong
+Item 4229 : Rudol_kongkong
+Item 4230 : 2022_Tiger
+Item 4231 : FlowerRabbit
+Item 4232 : EggChick
+Item 4233 : Barbarian_horse
+Item 4234 : Barbarian_Boar
+Item 4235 : Blazing_Rabbit
+Item 4236 : 
+Item 4237 : 
+Item 4238 : 
+Item 4239 : 
+Item 4240 : 
+Item 4241 : 
+Item 4242 : 
+Item 4243 : 
+Item 4244 : 
+Item 4245 : 
+Item 4246 : 
+Item 4247 : 
+Item 4248 : 
+Item 4249 : Loki_Dragon_Costume
+Item 4250 : Tigre_de_gelo
+Item 4251 : Tigre_negro
+Item 4252 : Twilight_BearBear
+Item 4253 : 
+Item 4254 : 
+Item 4255 : 
+Item 4256 : 
+Item 4257 : 
+Item 4258 : 
+Item 4259 : 
+Item 4260 : 
+Item 4261 : 
+Item 4262 : 
+Item 4263 : 
+Item 4264 : 
+Item 4265 : 
+Item 4266 : 
+Item 4267 : 
+Item 4268 : 
+Item 4269 : 
+Item 4270 : Blue_Griffin
+Item 4271 : Green_Griffin
+Item 4272 : Black_Griffin
+Item 4273 : Twilight_Unicorn
+Item 4274 : Mystical_Unicorn
+Item 4275 : Lava_Horse
+Item 4276 : Zombie_Horse
+Item 4277 : Electric_Smilodon
+Item 4278 : Ice_Smilodon
+Item 4279 : Rock_Fenrir
+Item 4280 : Ice_Fenrir
+Item 4281 : Water_Tiger
+Item 4282 : Crystal_Tiger
+Item 4283 : Red_Dragon
+Item 4284 : Blue_Dragon
+Item 4285 : Gold_Horse
+Item 4286 : Crystal_Horse
+Item 4287 : Ice_Dragon
+Item 4288 : Flame_Dragon
+Item 4289 : Bone_RedDragon
+Item 4290 : Flame_RedDragon
+Item 4291 : White_Tamed_Bear
+Item 4292 : Bluefire_Dragon_Puppy
+Item 4293 : Griffin_b1
+Item 4294 : Griffin_b2
+Item 4295 : Griffin_b3
+Item 4296 : Unicorn_b1
+Item 4297 : Mech_Unicorn
+Item 4298 : Jackal_machine
+Item 4299 : Jackal_mermaid
+Item 4300 : ST_Set(30days)_1_1
+Item 4301 : ST_Set(30days)_HAN_M
+Item 4302 : ST_Set(30days)_1_2
+Item 4303 : ST_Set(30days)_1_3
+Item 4304 : School_Costume_White(30days)
+Item 4305 : School_Costume_Blue(30days)
+Item 4306 : School_Costume_Red(30days)
+Item 4307 : ST_Set(30days)_HAN_F1
+Item 4308 : ST_Set(30days)_HAN_F2
+Item 4309 : Aegir
+Item 4310 : Cavaleiro_Negro(30dias)
+Item 4311 : Cavaleiro_Dourado(30dias)
+Item 4312 : Skeleton_King_Costume
+Item 4313 : Guardian_Height
+Item 4314 : Anubis_Costume
+Item 4315 : Traje_carnavalesca
+Item 4316 : traje_criatura_de_gelo
+Item 4317 : traje_dourado_red
+Item 4318 : traje_dourado_blue
+Item 4319 : traje_elfo_negro
+Item 4320 : Traje_Esqueleto_Negro
+Item 4321 : Traje_galaxy
+Item 4322 : Traje_Guerreio_Natalino
+Item 4323 : Traje_Guerreira_Nordica
+Item 4324 : Traje_Guerreiro_de_Niffeheim
+Item 4325 : traje_halloween
+Item 4326 : Freya_Costume
+Item 4327 : Surkur_Costume
+Item 4328 : Traje_Guerreiro_Nordico
+Item 4329 : GoldenValkyrie
+Item 4330 : Halloween_Costume(BM)
+Item 4331 : Halloween_Costume(TK)
+Item 4332 : Halloween_Costume(FM)
+Item 4333 : Halloween_Costume(HT)
+Item 4334 : JudgeCostume_TK
+Item 4335 : JudgeCostume_BM
+Item 4336 : JudgeCostume_FM
+Item 4337 : JudgeCostume_HT
+Item 4338 : ChristmasCostume
+Item 4339 : ChristmasCostume
+Item 4340 : 2020CostumeF
+Item 4341 : 2020CostumeM
+Item 4342 : Easter_Costume(Blue)
+Item 4343 : Easter_Costume(Red)
+Item 4344 : Easter_Costume(Warrior)
+Item 4345 : Spring_Costume(M)
+Item 4346 : Spring_Costume(F)
+Item 4347 : Nesses
+Item 4348 : Haden
+Item 4349 : Night_Hunter_Costume
+Item 4350 : Lady_Blade_Costume
+Item 4351 : Bone_Demon_Costume
+Item 4352 : Kapma
+Item 4353 : Marine_Costurme
+Item 4354 : Marine_Costurme
+Item 4355 : 19th_Anniv
+Item 4356 : 19th_Anniv
+Item 4357 : Fire_Demon
+Item 4358 : Golden_Knight
+Item 4359 : Imperial_Knight
+Item 4360 : Lady_knight
+Item 4361 : Surkur_Female
+Item 4362 : Dark_Candle
+Item 4363 : Halloween_Dracula
+Item 4364 : Anubis
+Item 4365 : Bruja_Negra
+Item 4366 : King_Costume
+Item 4367 : King_Blue
+Item 4368 : Dark_Archangel
+Item 4369 : I_Am_X-mas_Tree
+Item 4370 : Surkur_Gelido
+Item 4371 : Mad_Warrior
+Item 4372 : Golden_Archangel
+Item 4373 : 2021CostumeF
+Item 4374 : 2021CostumeM
+Item 4375 : CarnivalCostume
+Item 4376 : Party_Costume
+Item 4377 : Party_Costume
+Item 4378 : Wreath
+Item 4379 : Men_Khalintz
+Item 4380 : Women_Khalintz
+Item 4381 : Bahamut
+Item 4382 : GoldMedalCostume
+Item 4383 : Dark_Succubus
+Item 4384 : Mortal_Succubus
+Item 4385 : Moonlight_Hanbok
+Item 4386 : Moonlight_Hanbok
+Item 4387 : Lady_Wolf
+Item 4388 : Bloody_Witch
+Item 4389 : Bloody_Vampire
+Item 4390 : Black_Games_Costume_(Blue)
+Item 4391 : Black_Games_Costume_(Red)
+Item 4392 : Black_Games_Costume_(Green)
+Item 4393 : Rudolph_christmas
+Item 4394 : Rudolph_christmas
+Item 4395 : Christmas_Elf
+Item 4396 : Wild_Christmas
+Item 4397 : Normal_Hunter_Costume
+Item 4398 : Mystic_Hunter_Costume
+Item 4399 : Arcane_Hunter_Costume
+Item 4400 : 2022CostumeF
+Item 4401 : 2022CostumeM
+Item 4402 : Lady_Warrior_Costume
+Item 4403 : Carnival_Lady
+Item 4404 : Festival_Freya(F)
+Item 4405 : Festival_Freya(M)
+Item 4406 : sweatsuit
+Item 4407 : sweatsuit
+Item 4408 : barbarian
+Item 4409 : barbarian
+Item 4410 : Blazing_Rabbit(F)
+Item 4411 : Blazing_Rabbit(M)
+Item 4412 : Bahamut's_Soldier
+Item 4413 : 
+Item 4414 : 
+Item 4415 : 
+Item 4416 : 
+Item 4417 : 
+Item 4418 : 
+Item 4419 : 
+Item 4420 : 
+Item 4421 : 
+Item 4422 : 
+Item 4423 : 
+Item 4424 : 
+Item 4425 : 
+Item 4426 : 
+Item 4427 : 
+Item 4428 : 
+Item 4429 : 
+Item 4430 : 
+Item 4431 : 
+Item 4432 : 
+Item 4433 : 
+Item 4434 : 
+Item 4435 : 
+Item 4436 : 
+Item 4437 : 
+Item 4438 : 
+Item 4439 : 
+Item 4440 : 
+Item 4441 : 
+Item 4442 : 
+Item 4443 : 
+Item 4444 : 
+Item 4445 : 
+Item 4446 : 
+Item 4447 : 
+Item 4448 : 
+Item 4449 : 
+Item 4450 : 
+Item 4451 : 
+Item 4452 : 
+Item 4453 : 
+Item 4454 : 
+Item 4455 : 
+Item 4456 : 
+Item 4457 : 
+Item 4458 : 
+Item 4459 : 
+Item 4460 : 
+Item 4461 : 
+Item 4462 : 
+Item 4463 : 
+Item 4464 : 
+Item 4465 : 
+Item 4466 : 
+Item 4467 : 
+Item 4468 : 
+Item 4469 : 
+Item 4470 : 
+Item 4471 : 
+Item 4472 : 
+Item 4473 : 
+Item 4474 : 
+Item 4475 : 
+Item 4476 : 
+Item 4477 : 
+Item 4478 : 
+Item 4479 : 
+Item 4480 : 
+Item 4481 : 
+Item 4482 : 
+Item 4483 : 
+Item 4484 : 
+Item 4485 : 
+Item 4486 : 
+Item 4487 : 
+Item 4488 : 
+Item 4489 : 
+Item 4490 : 
+Item 4491 : 
+Item 4492 : 
+Item 4493 : 
+Item 4494 : 
+Item 4495 : 
+Item 4496 : 
+Item 4497 : 
+Item 4498 : 
+Item 4499 : 
+Item 4500 : 
+Item 4501 : 
+Item 4502 : 
+Item 4503 : 
+Item 4504 : 
+Item 4505 : 
+Item 4506 : 
+Item 4507 : 
+Item 4508 : 
+Item 4509 : 
+Item 4510 : 
+Item 4511 : 
+Item 4512 : 
+Item 4513 : 
+Item 4514 : 
+Item 4515 : 
+Item 4516 : 
+Item 4517 : 
+Item 4518 : 
+Item 4519 : 
+Item 4520 : 
+Item 4521 : 
+Item 4522 : 
+Item 4523 : 
+Item 4524 : 
+Item 4525 : 
+Item 4526 : 
+Item 4527 : 
+Item 4528 : 
+Item 4529 : 
+Item 4530 : 
+Item 4531 : 
+Item 4532 : 
+Item 4533 : 
+Item 4534 : 
+Item 4535 : 
+Item 4536 : 
+Item 4537 : 
+Item 4538 : 
+Item 4539 : 
+Item 4540 : 
+Item 4541 : 
+Item 4542 : 
+Item 4543 : 
+Item 4544 : 
+Item 4545 : 
+Item 4546 : 
+Item 4547 : 
+Item 4548 : 
+Item 4549 : 
+Item 4550 : 
+Item 4551 : 
+Item 4552 : 
+Item 4553 : 
+Item 4554 : 
+Item 4555 : 
+Item 4556 : 
+Item 4557 : 
+Item 4558 : 
+Item 4559 : 
+Item 4560 : 
+Item 4561 : 
+Item 4562 : 
+Item 4563 : 
+Item 4564 : 
+Item 4565 : 
+Item 4566 : 
+Item 4567 : 
+Item 4568 : 
+Item 4569 : 
+Item 4570 : 
+Item 4571 : 
+Item 4572 : 
+Item 4573 : 
+Item 4574 : 
+Item 4575 : 
+Item 4576 : 
+Item 4577 : 
+Item 4578 : 
+Item 4579 : 
+Item 4580 : 
+Item 4581 : 
+Item 4582 : 
+Item 4583 : 
+Item 4584 : 
+Item 4585 : 
+Item 4586 : 
+Item 4587 : 
+Item 4588 : 
+Item 4589 : 
+Item 4590 : 
+Item 4591 : 
+Item 4592 : 
+Item 4593 : 
+Item 4594 : 
+Item 4595 : 
+Item 4596 : 
+Item 4597 : 
+Item 4598 : 
+Item 4599 : 
+Item 4600 : 
+Item 4601 : 
+Item 4602 : 
+Item 4603 : 
+Item 4604 : 
+Item 4605 : 
+Item 4606 : 
+Item 4607 : 
+Item 4608 : 
+Item 4609 : 
+Item 4610 : 
+Item 4611 : 
+Item 4612 : 
+Item 4613 : 
+Item 4614 : 
+Item 4615 : 
+Item 4616 : 
+Item 4617 : 
+Item 4618 : 
+Item 4619 : 
+Item 4620 : 
+Item 4621 : 
+Item 4622 : 
+Item 4623 : 
+Item 4624 : 
+Item 4625 : 
+Item 4626 : 
+Item 4627 : 
+Item 4628 : 
+Item 4629 : 
+Item 4630 : 
+Item 4631 : 
+Item 4632 : 
+Item 4633 : 
+Item 4634 : 
+Item 4635 : 
+Item 4636 : 
+Item 4637 : 
+Item 4638 : 
+Item 4639 : 
+Item 4640 : 
+Item 4641 : 
+Item 4642 : 
+Item 4643 : 
+Item 4644 : 
+Item 4645 : 
+Item 4646 : 
+Item 4647 : 
+Item 4648 : 
+Item 4649 : 
+Item 4650 : 
+Item 4651 : 
+Item 4652 : 
+Item 4653 : 
+Item 4654 : 
+Item 4655 : 
+Item 4656 : 
+Item 4657 : 
+Item 4658 : 
+Item 4659 : 
+Item 4660 : 
+Item 4661 : 
+Item 4662 : 
+Item 4663 : 
+Item 4664 : 
+Item 4665 : 
+Item 4666 : 
+Item 4667 : 
+Item 4668 : 
+Item 4669 : 
+Item 4670 : 
+Item 4671 : 
+Item 4672 : 
+Item 4673 : 
+Item 4674 : 
+Item 4675 : 
+Item 4676 : 
+Item 4677 : 
+Item 4678 : 
+Item 4679 : 
+Item 4680 : 
+Item 4681 : 
+Item 4682 : 
+Item 4683 : 
+Item 4684 : 
+Item 4685 : 
+Item 4686 : 
+Item 4687 : 
+Item 4688 : 
+Item 4689 : 
+Item 4690 : 
+Item 4691 : 
+Item 4692 : 
+Item 4693 : 
+Item 4694 : 
+Item 4695 : 
+Item 4696 : 
+Item 4697 : 
+Item 4698 : 
+Item 4699 : 
+Item 4700 : 
+Item 4701 : 
+Item 4702 : 
+Item 4703 : 
+Item 4704 : 
+Item 4705 : 
+Item 4706 : 
+Item 4707 : 
+Item 4708 : 
+Item 4709 : 
+Item 4710 : 
+Item 4711 : 
+Item 4712 : 
+Item 4713 : 
+Item 4714 : 
+Item 4715 : 
+Item 4716 : 
+Item 4717 : 
+Item 4718 : 
+Item 4719 : 
+Item 4720 : 
+Item 4721 : 
+Item 4722 : 
+Item 4723 : 
+Item 4724 : 
+Item 4725 : 
+Item 4726 : 
+Item 4727 : 
+Item 4728 : 
+Item 4729 : 
+Item 4730 : 
+Item 4731 : 
+Item 4732 : 
+Item 4733 : 
+Item 4734 : 
+Item 4735 : 
+Item 4736 : 
+Item 4737 : 
+Item 4738 : 
+Item 4739 : 
+Item 4740 : 
+Item 4741 : 
+Item 4742 : 
+Item 4743 : 
+Item 4744 : 
+Item 4745 : 
+Item 4746 : 
+Item 4747 : 
+Item 4748 : 
+Item 4749 : 
+Item 4750 : 
+Item 4751 : 
+Item 4752 : 
+Item 4753 : 
+Item 4754 : 
+Item 4755 : 
+Item 4756 : 
+Item 4757 : 
+Item 4758 : 
+Item 4759 : 
+Item 4760 : 
+Item 4761 : 
+Item 4762 : 
+Item 4763 : 
+Item 4764 : 
+Item 4765 : 
+Item 4766 : 
+Item 4767 : 
+Item 4768 : 
+Item 4769 : 
+Item 4770 : 
+Item 4771 : 
+Item 4772 : 
+Item 4773 : 
+Item 4774 : 
+Item 4775 : 
+Item 4776 : 
+Item 4777 : 
+Item 4778 : 
+Item 4779 : 
+Item 4780 : 
+Item 4781 : 
+Item 4782 : 
+Item 4783 : 
+Item 4784 : 
+Item 4785 : 
+Item 4786 : 
+Item 4787 : 
+Item 4788 : 
+Item 4789 : 
+Item 4790 : 
+Item 4791 : 
+Item 4792 : 
+Item 4793 : 
+Item 4794 : 
+Item 4795 : 
+Item 4796 : 
+Item 4797 : 
+Item 4798 : 
+Item 4799 : 
+Item 4800 : 
+Item 4801 : 
+Item 4802 : 
+Item 4803 : 
+Item 4804 : 
+Item 4805 : 
+Item 4806 : 
+Item 4807 : 
+Item 4808 : 
+Item 4809 : 
+Item 4810 : 
+Item 4811 : 
+Item 4812 : 
+Item 4813 : 
+Item 4814 : 
+Item 4815 : 
+Item 4816 : 
+Item 4817 : 
+Item 4818 : 
+Item 4819 : 
+Item 4820 : 
+Item 4821 : 
+Item 4822 : 
+Item 4823 : 
+Item 4824 : 
+Item 4825 : 
+Item 4826 : 
+Item 4827 : 
+Item 4828 : 
+Item 4829 : 
+Item 4830 : 
+Item 4831 : 
+Item 4832 : 
+Item 4833 : 
+Item 4834 : 
+Item 4835 : 
+Item 4836 : 
+Item 4837 : 
+Item 4838 : 
+Item 4839 : 
+Item 4840 : 
+Item 4841 : 
+Item 4842 : 
+Item 4843 : 
+Item 4844 : 
+Item 4845 : 
+Item 4846 : 
+Item 4847 : 
+Item 4848 : 
+Item 4849 : 
+Item 4850 : 
+Item 4851 : 
+Item 4852 : 
+Item 4853 : 
+Item 4854 : 
+Item 4855 : 
+Item 4856 : 
+Item 4857 : 
+Item 4858 : 
+Item 4859 : 
+Item 4860 : 
+Item 4861 : 
+Item 4862 : 
+Item 4863 : 
+Item 4864 : 
+Item 4865 : 
+Item 4866 : 
+Item 4867 : 
+Item 4868 : 
+Item 4869 : 
+Item 4870 : 
+Item 4871 : 
+Item 4872 : 
+Item 4873 : 
+Item 4874 : 
+Item 4875 : 
+Item 4876 : 
+Item 4877 : 
+Item 4878 : 
+Item 4879 : 
+Item 4880 : 
+Item 4881 : 
+Item 4882 : 
+Item 4883 : 
+Item 4884 : 
+Item 4885 : 
+Item 4886 : 
+Item 4887 : 
+Item 4888 : 
+Item 4889 : 
+Item 4890 : 
+Item 4891 : 
+Item 4892 : 
+Item 4893 : 
+Item 4894 : 
+Item 4895 : 
+Item 4896 : 
+Item 4897 : 
+Item 4898 : 
+Item 4899 : Restore
+Item 4900 : Treasure_box_1
+Item 4901 : Treasure_box_2
+Item 4902 : Treasure_box_3
+Item 4903 : Treasure_box_4
+Item 4904 : Treasure_box_5
+Item 4905 : Money_Cube
+Item 4906 : Victory_Coupon
+Item 4907 : SRP_Coupon
+Item 4908 : Auction_Coupon
+Item 4909 : Raid_Box
+Item 4910 : Skill_Box
+Item 4911 : Mythril_Box(Damage)
+Item 4912 : Mythril_Box(Magic)
+Item 4913 : Mythril_Box(Defence)
+Item 4914 : Mythril_Box(Critical)
+Item 4915 : Mythril_Box(Resist)
+Item 4916 : Costume_Box
+Item 4917 : Costume_Change
+Item 4918 : 
+Item 4919 : 
+Item 4920 : 
+Item 4921 : 
+Item 4922 : 
+Item 4923 : 
+Item 4924 : 
+Item 4925 : 
+Item 4926 : 
+Item 4927 : 
+Item 4928 : 
+Item 4929 : 
+Item 4930 : 
+Item 4931 : 
+Item 4932 : 
+Item 4933 : 
+Item 4934 : 
+Item 4935 : 
+Item 4936 : 
+Item 4937 : 
+Item 4938 : 
+Item 4939 : 
+Item 4940 : 
+Item 4941 : 
+Item 4942 : 
+Item 4943 : 
+Item 4944 : 
+Item 4945 : 
+Item 4946 : 
+Item 4947 : 
+Item 4948 : 
+Item 4949 : 
+Item 4950 : 
+Item 4951 : 
+Item 4952 : 
+Item 4953 : 
+Item 4954 : 
+Item 4955 : 
+Item 4956 : 
+Item 4957 : 
+Item 4958 : 
+Item 4959 : 
+Item 4960 : 
+Item 4961 : 
+Item 4962 : 
+Item 4963 : 
+Item 4964 : 
+Item 4965 : 
+Item 4966 : 
+Item 4967 : 
+Item 4968 : 
+Item 4969 : 
+Item 4970 : 
+Item 4971 : 
+Item 4972 : 
+Item 4973 : 
+Item 4974 : 
+Item 4975 : 
+Item 4976 : 
+Item 4977 : 
+Item 4978 : 
+Item 4979 : 
+Item 4980 : 
+Item 4981 : 
+Item 4982 : 
+Item 4983 : 
+Item 4984 : 
+Item 4985 : 
+Item 4986 : 
+Item 4987 : 
+Item 4988 : 
+Item 4989 : 
+Item 4990 : 
+Item 4991 : 
+Item 4992 : 
+Item 4993 : 
+Item 4994 : 
+Item 4995 : 
+Item 4996 : 
+Item 4997 : 
+Item 4998 : 
+Item 4999 : 
+Item 5000 : Heaven's_Dust
+Item 5001 : Holy_Touch
+Item 5002 : Slow_Slash
+Item 5003 : Growth
+Item 5004 : Luster_Furnish
+Item 5005 : Aura_Of_Life
+Item 5006 : Attract
+Item 5007 : Destiny
+Item 5008 : Charge
+Item 5009 : Two_Hand_Master
+Item 5010 : Deadly_Stroke
+Item 5011 : Assault
+Item 5012 : Rapid_Piercing
+Item 5013 : Rescue
+Item 5014 : Combat_Sensibility
+Item 5015 : Critical_Armor
+Item 5016 : Double_Swing
+Item 5017 : Fire_Attack
+Item 5018 : Counter
+Item 5019 : Freeze_Blade
+Item 5020 : Soul_Strike
+Item 5021 : Poison_Stab
+Item 5022 : Explosion_Bash
+Item 5023 : Freeze_Spiral
+Item 5024 : Magic_Arrow
+Item 5025 : Cure
+Item 5026 : Flash
+Item 5027 : Heal
+Item 5028 : Holy_Shock
+Item 5029 : Recovery
+Item 5030 : Holy_Judgement
+Item 5031 : Bless_Revival
+Item 5032 : Fire
+Item 5033 : Thunderbolt
+Item 5034 : Ice_Spear
+Item 5035 : Meteor_Storm
+Item 5036 : Rock_Of_Blizzard
+Item 5037 : Lightning_Storm
+Item 5038 : Flare_Phoenix
+Item 5039 : Meteor_Strike
+Item 5040 : Poison
+Item 5041 : Haste
+Item 5042 : Party_Summon
+Item 5043 : Magic_Shield
+Item 5044 : Magic_Weapon
+Item 5045 : Skill_Amplify
+Item 5046 : Mana_Control
+Item 5047 : Cancellation
+Item 5048 : Kiss_Of_Salamander
+Item 5049 : Mana_Barn
+Item 5050 : Voice_Of_Shylph
+Item 5051 : Waste
+Item 5052 : Anger_Of_Gnome
+Item 5053 : Elemental_Protector
+Item 5054 : Elemental_Power
+Item 5055 : Fury_Of_Undine
+Item 5056 : Condor_Summon
+Item 5057 : Wild_Boar_Summon
+Item 5058 : Rage_Wolf_Summon
+Item 5059 : Savage_Bear_Summon
+Item 5060 : Trample_Tiger_Summon
+Item 5061 : Stunning_Gorilla_Summon
+Item 5062 : Black_Dragon_Summon
+Item 5063 : Succubus_Summon
+Item 5064 : Werewolf
+Item 5065 : Elemental_amor
+Item 5066 : Werebear
+Item 5067 : the_shield_of_thorns
+Item 5068 : Astaroth
+Item 5069 : Master_of_transformation
+Item 5070 : Titan
+Item 5071 : Evilator
+Item 5072 : Fatal_Attack
+Item 5073 : iIlusion
+Item 5074 : Two_Weapon_Fighting
+Item 5075 : Enchant_Frost
+Item 5076 : Immunity
+Item 5077 : Transfer_Armor_Class
+Item 5078 : Piercing_Attack
+Item 5079 : Rapid_Hit
+Item 5080 : Power_Clip
+Item 5081 : Another_Soul
+Item 5082 : Weapon_Mastery
+Item 5083 : Craft_Armor_Abillty
+Item 5084 : handiwork
+Item 5085 : Coin_Armor
+Item 5086 : Throwing_Knife
+Item 5087 : Spirit_Change
+Item 5088 : Snick_Attack
+Item 5089 : Dodge
+Item 5090 : Hunter's_Vision
+Item 5091 : Improved_Range
+Item 5092 : Venom
+Item 5093 : Flanking_Chance
+Item 5094 : Weapon_Block
+Item 5095 : Hide_In_Shadow
+Item 5096 : Power_Up
+Item 5097 : Conjure_Cannon
+Item 5098 : Thorn_Wall
+Item 5099 : Resurrect
+Item 5100 : Concentration
+Item 5101 : Spectral_Force
+Item 5102 : Soul_Of_Limits
+Item 5103 : 
+Item 5104 : 
+Item 5105 : 
+Item 5106 : 
+Item 5107 : 
+Item 5108 : 
+Item 5109 : 
+Item 5110 : Ansuz
+Item 5111 : Uraz
+Item 5112 : Thurisaz
+Item 5113 : Fehu
+Item 5114 : Raidho
+Item 5115 : Kenaz
+Item 5116 : Naudhiz
+Item 5117 : Gebo
+Item 5118 : Wunjo
+Item 5119 : Hagalaz
+Item 5120 : Isa
+Item 5121 : Jara
+Item 5122 : Elhwaz
+Item 5123 : Perthro
+Item 5124 : Elhaz
+Item 5125 : sowilo
+Item 5126 : Berkano
+Item 5127 : Ehwaz
+Item 5128 : Tiwaz
+Item 5129 : Mannaz
+Item 5130 : Laguz
+Item 5131 : Dagaz
+Item 5132 : Ing
+Item 5133 : Othel
+Item 5134 : Clue_Of_Runes
+Item 5135 : Magic's_Seal
+Item 5136 : Magic's_Letter
+Item 5137 : Nightmare's_Letter
+Item 5138 : 
+Item 5139 : 
+Item 5140 : 
+Item 5141 : 
+Item 5142 : 
+Item 5143 : 
+Item 5144 : 
+Item 5145 : 
+Item 5146 : 
+Item 5147 : 
+Item 5148 : 
+Item 5149 : 
+Item 5150 : Mystery_Box_1
+Item 5151 : Mystery_Box_2
+Item 5152 : Mystery_Box_3
+Item 5153 : Mystery_Box_4
+Item 5154 : Mystery_Box_5
+Item 5155 : Mystery_Box_6
+Item 5156 : Red_Gift
+Item 5157 : Purple_Gift
+Item 5158 : Golden_Gift
+Item 5159 : Cursed_Pumpkin
+Item 5160 : Cursed_Gift
+Item 5161 : Cursed_Hat(Black)
+Item 5162 : Cursed_Hat(Blue)
+Item 5163 : Cursed_Hat(Yellow)
+Item 5164 : Cursed_Hat(Green)
+Item 5165 : Cursed_Hat(Red)
+Item 5166 : Black_Coin
+Item 5167 : Black_Box
+Item 5168 : Black_Friday_Gift
+Item 5169 : Blue_socks
+Item 5170 : Golden_socks
+Item 5171 : Red_Bag
+Item 5172 : Blue_Bag
+Item 5173 : Yellow_Bag
+Item 5174 : Green_Bag
+Item 5175 : Green_Mask
+Item 5176 : Blue_Mask
+Item 5177 : Pink_Mask
+Item 5178 : Yellow_Mask
+Item 5179 : Red_Mask
+Item 5180 : Blue_Vuvuzela
+Item 5181 : Red_Vuvuzela
+Item 5182 : Green_Vuvuzela
+Item 5183 : Yellow_Vuvuzela
+Item 5184 : White_Vuvuzela
+Item 5185 : Top_Hat
+Item 5186 : CherryBlossoms
+Item 5187 : Bronze_Medal
+Item 5188 : Silver_Medal
+Item 5189 : Golden_Medal
+Item 5190 : Silicon_Coin
+Item 5191 : EasterBasket
+Item 5192 : CherryBlossom_Petal
+Item 5193 : Loki_Coin
+Item 5194 : Event_Coin
+Item 5195 : bet_coin
+Item 5196 : dragon_scale
+Item 5197 : gold_feather
+Item 5198 : prize_coin
+Item 5199 : ice_essence
+Item 5200 : ice_cubes
+Item 5201 : Ancestral_Artifact
+Item 5202 : WelComeBack
+Item 5203 : Commemorative_Coin
+Item 5204 : Green_Ring
+Item 5205 : Blue_Ring
+Item 5206 : Red_Ring
+Item 5207 : Yellow_Ring
+Item 5208 : Black_Ring
+Item 5209 : Olympic_Torch
+Item 5210 : Olympic_Ticket
+Item 5211 : Songpyeon
+Item 5212 : Orange_Medal
+Item 5213 : Pink_Medal
+Item 5214 : Evil_Pumpkin
+Item 5215 : Christmaswreath
+Item 5216 : Hunting_Authorization
+Item 5217 : Hunting_Loot
+Item 5218 : Lost_Treasure(Arcane)
+Item 5219 : Lost_Treasure(Mystic)
+Item 5220 : Lost_Treasure(Normal)
+Item 5221 : Mercenary_Coupon
+Item 5222 : Ruby
+Item 5223 : gotgam
+Item 5224 : 3_leaf_clover
+Item 5225 : Essence_of_Loki_I
+Item 5226 : Essence_of_Loki_II
+Item 5227 : Loki_Crystal(Amunra)
+Item 5228 : Bahamut's_Treasure
+Item 5229 : Bahamut's_Blood
+Item 5230 : 
+Item 5231 : 
+Item 5232 : 
+Item 5233 : 
+Item 5234 : 
+Item 5235 : 
+Item 5236 : 
+Item 5237 : 
+Item 5238 : 
+Item 5239 : 
+Item 5240 : 
+Item 5241 : 
+Item 5242 : 
+Item 5243 : 
+Item 5244 : 
+Item 5245 : 
+Item 5246 : 
+Item 5247 : 
+Item 5248 : 
+Item 5249 : 
+Item 5250 : 
+Item 5251 : 
+Item 5252 : 
+Item 5253 : 
+Item 5254 : 
+Item 5255 : 
+Item 5256 : 
+Item 5257 : 
+Item 5258 : 
+Item 5259 : 
+Item 5260 : 
+Item 5261 : 
+Item 5262 : 
+Item 5263 : 
+Item 5264 : 
+Item 5265 : 
+Item 5266 : 
+Item 5267 : 
+Item 5268 : 
+Item 5269 : 
+Item 5270 : 
+Item 5271 : 
+Item 5272 : 
+Item 5273 : 
+Item 5274 : 
+Item 5275 : 
+Item 5276 : 
+Item 5277 : 
+Item 5278 : 
+Item 5279 : 
+Item 5280 : 
+Item 5281 : 
+Item 5282 : 
+Item 5283 : 
+Item 5284 : 
+Item 5285 : 
+Item 5286 : 
+Item 5287 : 
+Item 5288 : 
+Item 5289 : 
+Item 5290 : 
+Item 5291 : 
+Item 5292 : 
+Item 5293 : 
+Item 5294 : 
+Item 5295 : 
+Item 5296 : 
+Item 5297 : 
+Item 5298 : 
+Item 5299 : 
+Item 5300 : 
+Item 5301 : 
+Item 5302 : 
+Item 5303 : 
+Item 5304 : 
+Item 5305 : 
+Item 5306 : 
+Item 5307 : 
+Item 5308 : 
+Item 5309 : 
+Item 5310 : 
+Item 5311 : 
+Item 5312 : 
+Item 5313 : 
+Item 5314 : 
+Item 5315 : 
+Item 5316 : 
+Item 5317 : 
+Item 5318 : 
+Item 5319 : 
+Item 5320 : 
+Item 5321 : 
+Item 5322 : 
+Item 5323 : 
+Item 5324 : 
+Item 5325 : 
+Item 5326 : 
+Item 5327 : 
+Item 5328 : 
+Item 5329 : 
+Item 5330 : Enter_Hellheim
+Item 5331 : Enter_Hellheim(Event)
+Item 5332 : Ticket_Real_Battle
+Item 5333 : Ticket_Real_Arena
+Item 5334 : Water_Secret_Stone
+Item 5335 : Land_Secret_Stone
+Item 5336 : Sun_Secret_Stone
+Item 5337 : Wind_Secret_Stone
+Item 5338 : Ideal_Stone
+Item 5339 : item_5339
+Item 5340 : 
+Item 5341 : 
+Item 5342 : 
+Item 5343 : 
+Item 5344 : 
+Item 5345 : 
+Item 5346 : 
+Item 5347 : 
+Item 5348 : 
+Item 5349 : 
+Item 5350 : 
+Item 5351 : 
+Item 5352 : 
+Item 5353 : 
+Item 5354 : 
+Item 5355 : 
+Item 5356 : 
+Item 5357 : 
+Item 5358 : 
+Item 5359 : 
+Item 5360 : 
+Item 5361 : 
+Item 5362 : 
+Item 5363 : 
+Item 5364 : 
+Item 5365 : 
+Item 5366 : 
+Item 5367 : 
+Item 5368 : 
+Item 5369 : 
+Item 5370 : 
+Item 5371 : 
+Item 5372 : 
+Item 5373 : 
+Item 5374 : 
+Item 5375 : 
+Item 5376 : 
+Item 5377 : 
+Item 5378 : 
+Item 5379 : 
+Item 5380 : 
+Item 5381 : 
+Item 5382 : 
+Item 5383 : 
+Item 5384 : 
+Item 5385 : 
+Item 5386 : item_5386
+Item 5387 : item_5387
+Item 5388 : 
+Item 5389 : 
+Item 5390 : 
+Item 5391 : 
+Item 5392 : 
+Item 5393 : 
+Item 5394 : 
+Item 5395 : 
+Item 5396 : 
+Item 5397 : 
+Item 5398 : 
+Item 5399 : 
+Item 5400 : Divine_Protection
+Item 5401 : Divine_Blessing
+Item 5402 : Blaze_Luncher
+Item 5403 : Clod_Attack
+Item 5404 : Blood
+Item 5405 : Weapon_Master
+Item 5406 : Fencing_Master
+Item 5407 : WindStorm
+Item 5408 : Mirror_Magic
+Item 5409 : Ice_Binding
+Item 5410 : Freezing_Counter
+Item 5411 : Seal_Master
+Item 5412 : Cenote
+Item 5413 : Absolute_Protection
+Item 5414 : Life_Wave
+Item 5415 : Holy_Power
+Item 5416 : Mystery_Magic
+Item 5417 : Freezing_Skillful
+Item 5418 : Thunder_Force
+Item 5419 : Thunder_Lising
+Item 5420 : Remove_Memory
+Item 5421 : Incapacitate
+Item 5422 : Special_Master
+Item 5423 : Another_Change
+Item 5424 : Anti_Magic_Shield
+Item 5425 : Resistance_Flame
+Item 5426 : Resi_Decrease
+Item 5427 : Manaburn_Master
+Item 5428 : Mind_Unity
+Item 5429 : Final_Summon
+Item 5430 : Poworful_Summon
+Item 5431 : Ice_Armor
+Item 5432 : Hard_Shell
+Item 5433 : Intention_Thorns
+Item 5434 : Weapon_Power
+Item 5435 : Last_Resistance
+Item 5436 : Counter_Attack
+Item 5437 : RapidHit_Skillful
+Item 5438 : Skill_Master
+Item 5439 : Freezing
+Item 5440 : Point_Master
+Item 5441 : Rob_Money
+Item 5442 : Plunder
+Item 5443 : Reinforce_Soul
+Item 5444 : Direct_Shoot
+Item 5445 : Claw_Skillful
+Item 5446 : Bleeding
+Item 5447 : Ambush
+Item 5448 : 
+Item 5449 : 
+Item 5450 : 
+Item 5451 : item_5451
+Item 5452 : item_5452
+Item 5453 : item_5453
+Item 5454 : item_5454
+Item 5455 : item_5455
+Item 5456 : item_5456
+Item 5457 : item_5457
+Item 5458 : item_5458
+Item 5459 : item_5459
+Item 5460 : 
+Item 5461 : 
+Item 5462 : 
+Item 5463 : 
+Item 5464 : 
+Item 5465 : 
+Item 5466 : 
+Item 5467 : 
+Item 5468 : 
+Item 5469 : 
+Item 5470 : 
+Item 5471 : 
+Item 5472 : 
+Item 5473 : 
+Item 5474 : 
+Item 5475 : 
+Item 5476 : 
+Item 5477 : 
+Item 5478 : 
+Item 5479 : 
+Item 5480 : 
+Item 5481 : 
+Item 5482 : 
+Item 5483 : 
+Item 5484 : 
+Item 5485 : 
+Item 5486 : 
+Item 5487 : 
+Item 5488 : 
+Item 5489 : 
+Item 5490 : 
+Item 5491 : 
+Item 5492 : 
+Item 5493 : 
+Item 5494 : 
+Item 5495 : 
+Item 5496 : 
+Item 5497 : 
+Item 5498 : 
+Item 5499 : 
+Item 5500 : Divine_Protection_Book
+Item 5501 : Divine_Blessing_Book
+Item 5502 : Blaze_Luncher_Book
+Item 5503 : Clod_Attack_Book
+Item 5504 : Blood_Book
+Item 5505 : Weapon_Master_Book
+Item 5506 : Fencing_Master_Book
+Item 5507 : WindStorm_Book
+Item 5508 : Mirror_Magic_Book
+Item 5509 : Ice_Binding_Book
+Item 5510 : Freezing_Counter_Book
+Item 5511 : Seal_Master_Book
+Item 5512 : Cenote_Book
+Item 5513 : Absolute_Protection_Book
+Item 5514 : Life_Wave_Book
+Item 5515 : Holy_Power_Book
+Item 5516 : Mystery_Magic_Book
+Item 5517 : Freezing_Skillful_Book
+Item 5518 : Thunder_Force_Book
+Item 5519 : Thunder_Lising_Book
+Item 5520 : Remove_Memory_Book
+Item 5521 : Incapacitate_Book
+Item 5522 : Special_Master_Book
+Item 5523 : Another_Change_Book
+Item 5524 : Anti_Magic_Shield_Book
+Item 5525 : Resistance_Flame_Book
+Item 5526 : Resi_Decrease_Book
+Item 5527 : Manaburn_Master_Book
+Item 5528 : Mind_Unity_Book
+Item 5529 : Final_Summon_Book
+Item 5530 : Poworful_Summon_Book
+Item 5531 : Ice_Armor_Book
+Item 5532 : Hard_Shell_Book
+Item 5533 : Intention_Thorns_Book
+Item 5534 : Weapon_Power_Book
+Item 5535 : Last_Resistance_Book
+Item 5536 : Counter_Attack_Book
+Item 5537 : RapidHit_Skillful_Book
+Item 5538 : Skill_Master_Book
+Item 5539 : Freezing_Book
+Item 5540 : Point_Master_Book
+Item 5541 : Rob_Money_Book
+Item 5542 : Plunder_Book
+Item 5543 : Reinforce_Soul_Book
+Item 5544 : Direct_Shoot_Book
+Item 5545 : Claw_Skillful_Book
+Item 5546 : Bleeding_Book
+Item 5547 : Ambush_Book
+Item 5548 : 
+Item 5549 : 
+Item 5550 : 
+Item 5551 : 
+Item 5552 : 
+Item 5553 : 
+Item 5554 : 
+Item 5555 : 
+Item 5556 : 
+Item 5557 : 
+Item 5558 : 
+Item 5559 : 
+Item 5560 : 
+Item 5561 : 
+Item 5562 : 
+Item 5563 : 
+Item 5564 : 
+Item 5565 : 
+Item 5566 : 
+Item 5567 : 
+Item 5568 : 
+Item 5569 : 
+Item 5570 : 
+Item 5571 : 
+Item 5572 : 
+Item 5573 : 
+Item 5574 : 
+Item 5575 : 
+Item 5576 : 
+Item 5577 : 
+Item 5578 : 
+Item 5579 : 
+Item 5580 : 
+Item 5581 : 
+Item 5582 : 
+Item 5583 : 
+Item 5584 : 
+Item 5585 : 
+Item 5586 : 
+Item 5587 : 
+Item 5588 : 
+Item 5589 : 
+Item 5590 : 
+Item 5591 : 
+Item 5592 : 
+Item 5593 : 
+Item 5594 : 
+Item 5595 : 
+Item 5596 : 
+Item 5597 : 
+Item 5598 : 
+Item 5599 : 
+Item 5600 : Fairy_Dust
+Item 5601 : Bag_letter
+Item 5602 : Peerage_Lift2
+Item 5603 : Mark_of_Bahamut
+Item 5604 : Shiny_Laktorerium_pieces
+Item 5605 : Dragon_Blood
+Item 5606 : 
+Item 5607 : 
+Item 5608 : 
+Item 5609 : 
+Item 5610 : 
+Item 5611 : 
+Item 5612 : 
+Item 5613 : 
+Item 5614 : 
+Item 5615 : 
+Item 5616 : 
+Item 5617 : 
+Item 5618 : 
+Item 5619 : 
+Item 5620 : 
+Item 5621 : 
+Item 5622 : 
+Item 5623 : 
+Item 5624 : 
+Item 5625 : 
+Item 5626 : 
+Item 5627 : 
+Item 5628 : 
+Item 5629 : 
+Item 5630 : 
+Item 5631 : 
+Item 5632 : 
+Item 5633 : 
+Item 5634 : 
+Item 5635 : 
+Item 5636 : 
+Item 5637 : 
+Item 5638 : 
+Item 5639 : 
+Item 5640 : 
+Item 5641 : 
+Item 5642 : 
+Item 5643 : 
+Item 5644 : 
+Item 5645 : 
+Item 5646 : 
+Item 5647 : 
+Item 5648 : 
+Item 5649 : 
+Item 5650 : 
+Item 5651 : item_5651
+Item 5652 : item_5652
+Item 5653 : item_5653
+Item 5654 : item_5654
+Item 5655 : 
+Item 5656 : 
+Item 5657 : 
+Item 5658 : 
+Item 5659 : 
+Item 5660 : 
+Item 5661 : 
+Item 5662 : 
+Item 5663 : 
+Item 5664 : 
+Item 5665 : item_5655
+Item 5666 : item_5656
+Item 5667 : item_5657
+Item 5668 : item_5658
+Item 5669 : 
+Item 5670 : item_5659
+Item 5671 : item_5660
+Item 5672 : 
+Item 5673 : 
+Item 5674 : 
+Item 5675 : 
+Item 5676 : 
+Item 5677 : 
+Item 5678 : 
+Item 5679 : 
+Item 5680 : 
+Item 5681 : 
+Item 5682 : 
+Item 5683 : 
+Item 5684 : 
+Item 5685 : 
+Item 5686 : 
+Item 5687 : 
+Item 5688 : 
+Item 5689 : 
+Item 5690 : 
+Item 5691 : 
+Item 5692 : 
+Item 5693 : 
+Item 5694 : 
+Item 5695 : 
+Item 5696 : 
+Item 5697 : 
+Item 5698 : 
+Item 5699 : 
+Item 5700 : Mana's_belt
+Item 5701 : Physical_Strength_belt
+Item 5702 : Dexterity_belt
+Item 5703 : Magical_belt
+Item 5704 : Power_belt
+Item 5705 : Madness_belt
+Item 5706 : Guardian_belt
+Item 5707 : Bahamut_Mana's_belt
+Item 5708 : Bahamut_Physical_Strength_belt
+Item 5709 : Bahamut_Dexterity_belt
+Item 5710 : Bahamut_Magical_belt
+Item 5711 : Bahamut_Power_belt
+Item 5712 : Bahamut_Madness_belt
+Item 5713 : Bahamut_Guardian_belt
+Item 5714 : Mana's_belt(Arcane)
+Item 5715 : Physical_Strength_belt(Arcane)
+Item 5716 : Dexterity_belt(Arcane)
+Item 5717 : Magical_belt(Arcane)
+Item 5718 : Power_belt(Arcane)
+Item 5719 : Madness_belt(Arcane)
+Item 5720 : Guardian_belt(Arcane)
+Item 5721 : Old_Mana's_belt
+Item 5722 : Old_Physical_Strength_belt
+Item 5723 : Old_Resistance_belt
+Item 5724 : Old_Magical_belt
+Item 5725 : Old_Power_belt
+Item 5726 : Old_Madness_belt
+Item 5727 : 
+Item 5728 : 
+Item 5729 : 
+Item 5730 : 
+Item 5731 : 
+Item 5732 : 
+Item 5733 : 
+Item 5734 : 
+Item 5735 : 
+Item 5736 : 
+Item 5737 : 
+Item 5738 : 
+Item 5739 : 
+Item 5740 : 
+Item 5741 : 
+Item 5742 : 
+Item 5743 : 
+Item 5744 : 
+Item 5745 : 
+Item 5746 : 
+Item 5747 : 
+Item 5748 : 
+Item 5749 : 
+Item 5750 : Mana_necklace
+Item 5751 : Physical_Strength_necklace
+Item 5752 : Dexterity_necklace
+Item 5753 : Magical_necklace
+Item 5754 : Power_necklace
+Item 5755 : Madness_necklace
+Item 5756 : Guardian_necklace
+Item 5757 : Bahamut_Mana's_necklace
+Item 5758 : Bahamut_Physical_Strength_necklace
+Item 5759 : Bahamut_Dexterity_necklace
+Item 5760 : Bahamut_Magical_necklace
+Item 5761 : Bahamut_Power_necklace
+Item 5762 : Bahamut_Madness_necklace
+Item 5763 : Bahamut_Guardian_necklace
+Item 5764 : Mana's_necklace(Arcane)
+Item 5765 : Physical_Strength_necklace(Arcane)
+Item 5766 : Dexterity_necklace(Arcane)
+Item 5767 : Magical_necklace(Arcane)
+Item 5768 : Power_necklace(Arcane)
+Item 5769 : Madness_necklace(Arcane)
+Item 5770 : Guardian_necklace(Arcane)
+Item 5771 : Old_Mana_necklace
+Item 5772 : Old_Physical_Strength_necklace
+Item 5773 : Old_Resistance_necklace
+Item 5774 : Old_Magical_necklace
+Item 5775 : Old_Power_necklace
+Item 5776 : Old_Madness_necklace
+Item 5777 : 
+Item 5778 : 
+Item 5779 : 
+Item 5780 : 
+Item 5781 : 
+Item 5782 : 
+Item 5783 : 
+Item 5784 : 
+Item 5785 : 
+Item 5786 : 
+Item 5787 : 
+Item 5788 : 
+Item 5789 : 
+Item 5790 : 
+Item 5791 : 
+Item 5792 : 
+Item 5793 : 
+Item 5794 : 
+Item 5795 : 
+Item 5796 : 
+Item 5797 : 
+Item 5798 : 
+Item 5799 : 
+Item 5800 : item_5800
+Item 5801 : item_5801
+Item 5802 : item_5802
+Item 5803 : item_5803
+Item 5804 : item_5804
+Item 5805 : item_5805
+Item 5806 : Dragonic_Mana's_earing
+Item 5807 : Dragonic_Physical_Strength_earing
+Item 5808 : Dragonic_Dexterity_earing
+Item 5809 : Dragonic_Magical_earing
+Item 5810 : Dragonic_Power_earing
+Item 5811 : 
+Item 5812 : 
+Item 5813 : 
+Item 5814 : 
+Item 5815 : 
+Item 5816 : 
+Item 5817 : 
+Item 5818 : 
+Item 5819 : 
+Item 5820 : 
+Item 5821 : 
+Item 5822 : 
+Item 5823 : 
+Item 5824 : 
+Item 5825 : 
+Item 5826 : 
+Item 5827 : 
+Item 5828 : 
+Item 5829 : 
+Item 5830 : 
+Item 5831 : 
+Item 5832 : 
+Item 5833 : 
+Item 5834 : 
+Item 5835 : 
+Item 5836 : 
+Item 5837 : 
+Item 5838 : 
+Item 5839 : 
+Item 5840 : 
+Item 5841 : 
+Item 5842 : 
+Item 5843 : 
+Item 5844 : 
+Item 5845 : 
+Item 5846 : 
+Item 5847 : 
+Item 5848 : 
+Item 5849 : 
+Item 5850 : 
+Item 5851 : 
+Item 5852 : 
+Item 5853 : 
+Item 5854 : 
+Item 5855 : 
+Item 5856 : 
+Item 5857 : 
+Item 5858 : 
+Item 5859 : 
+Item 5860 : 
+Item 5861 : 
+Item 5862 : 
+Item 5863 : 
+Item 5864 : 
+Item 5865 : 
+Item 5866 : 
+Item 5867 : 
+Item 5868 : 
+Item 5869 : 
+Item 5870 : 
+Item 5871 : 
+Item 5872 : 
+Item 5873 : 
+Item 5874 : 
+Item 5875 : 
+Item 5876 : 
+Item 5877 : 
+Item 5878 : 
+Item 5879 : 
+Item 5880 : 
+Item 5881 : 
+Item 5882 : 
+Item 5883 : 
+Item 5884 : 
+Item 5885 : 
+Item 5886 : 
+Item 5887 : 
+Item 5888 : 
+Item 5889 : 
+Item 5890 : 
+Item 5891 : 
+Item 5892 : 
+Item 5893 : 
+Item 5894 : 
+Item 5895 : 
+Item 5896 : 
+Item 5897 : 
+Item 5898 : 
+Item 5899 : 
+Item 5900 : Founder_Package_Gift
+Item 5901 : Starter_Package_Gift
+Item 5902 : Soul_Fragment
+Item 5903 : Royal_Arena_Coupon
+Item 5904 : Royal_Arena_Ticket
+Item 5905 : Sephirot_Blessing
+Item 5906 : RedDragon_scale
+Item 5907 : BlueDragon_scale
+Item 5908 : Sephirot_Protection
+Item 5909 : Bless_Stabilizer
+Item 5910 : Dragonic_Stone
+Item 5911 : Essence_of_the_gods
+Item 5912 : Valkyrie_Emblem
+Item 5913 : Amunra_Crystal
+Item 5914 : GuildCoin
+Item 5915 : GuildInfluence
+Item 5916 : Guild_Amulet
+Item 5917 : Red_Flag
+Item 5918 : Blue_Flag
+Item 5919 : Royal_Arena_Ticket(Channel3)
+Item 5920 : Royal_Arena_Ticket(Channel4)
+Item 5921 : Bahamut_Crystal
+Item 5922 : 
+Item 5923 : 
+Item 5924 : 
+Item 5925 : 
+Item 5926 : 
+Item 5927 : 
+Item 5928 : 
+Item 5929 : 
+Item 5930 : 
+Item 5931 : 
+Item 5932 : 
+Item 5933 : 
+Item 5934 : 
+Item 5935 : 
+Item 5936 : 
+Item 5937 : 
+Item 5938 : 
+Item 5939 : 
+Item 5940 : 
+Item 5941 : 
+Item 5942 : 
+Item 5943 : 
+Item 5944 : 
+Item 5945 : 
+Item 5946 : 
+Item 5947 : 
+Item 5948 : 
+Item 5949 : 
+Item 5950 : Jackal's_Essence
+Item 5951 : Jackal's_Feed
+Item 5952 : Jackal's_Feed(P)
+Item 5953 : 
+Item 5954 : 
+Item 5955 : 
+Item 5956 : 
+Item 5957 : 
+Item 5958 : 
+Item 5959 : 
+Item 5960 : 
+Item 5961 : 
+Item 5962 : 
+Item 5963 : 
+Item 5964 : 
+Item 5965 : 
+Item 5966 : 
+Item 5967 : 
+Item 5968 : 
+Item 5969 : 
+Item 5970 : 
+Item 5971 : 
+Item 5972 : 
+Item 5973 : 
+Item 5974 : 
+Item 5975 : 
+Item 5976 : 
+Item 5977 : 
+Item 5978 : 
+Item 5979 : 
+Item 5980 : 
+Item 5981 : 
+Item 5982 : 
+Item 5983 : 
+Item 5984 : 
+Item 5985 : 
+Item 5986 : 
+Item 5987 : 
+Item 5988 : 
+Item 5989 : 
+Item 5990 : 
+Item 5991 : 
+Item 5992 : 
+Item 5993 : 
+Item 5994 : 
+Item 5995 : 
+Item 5996 : 
+Item 5997 : 
+Item 5998 : 
+Item 5999 : 
+Item 6000 : 
+Item 6001 : 
+Item 6002 : 
+Item 6003 : 
+Item 6004 : 
+Item 6005 : 
+Item 6006 : 
+Item 6007 : 
+Item 6008 : 
+Item 6009 : 
+Item 6010 : 
+Item 6011 : 
+Item 6012 : 
+Item 6013 : 
+Item 6014 : 
+Item 6015 : 
+Item 6016 : 
+Item 6017 : 
+Item 6018 : 
+Item 6019 : 
+Item 6020 : 
+Item 6021 : 
+Item 6022 : 
+Item 6023 : 
+Item 6024 : 
+Item 6025 : 
+Item 6026 : 
+Item 6027 : 
+Item 6028 : 
+Item 6029 : 
+Item 6030 : 
+Item 6031 : 
+Item 6032 : 
+Item 6033 : 
+Item 6034 : 
+Item 6035 : 
+Item 6036 : 
+Item 6037 : 
+Item 6038 : 
+Item 6039 : 
+Item 6040 : 
+Item 6041 : 
+Item 6042 : 
+Item 6043 : 
+Item 6044 : 
+Item 6045 : 
+Item 6046 : 
+Item 6047 : 
+Item 6048 : 
+Item 6049 : 
+Item 6050 : 
+Item 6051 : 
+Item 6052 : 
+Item 6053 : 
+Item 6054 : 
+Item 6055 : 
+Item 6056 : 
+Item 6057 : 
+Item 6058 : 
+Item 6059 : 
+Item 6060 : 
+Item 6061 : item_6061
+Item 6062 : item_6062
+Item 6063 : item_6063
+Item 6064 : item_6064
+Item 6065 : Dragonic_Shield
+Item 6066 : Dragonic_Axe(Ancient)
+Item 6067 : Dragonic_Bow(Ancient)
+Item 6068 : Dragonic_Saver(Ancient)
+Item 6069 : Dragonic_Shade(Ancient)
+Item 6070 : Dragonic_Blade(Ancient)
+Item 6071 : Dragonic_Karicass(Ancient)
+Item 6072 : Dragonic_Rune_Rod(Ancient)
+Item 6073 : Dragonic_Zen_Rod(Ancient)
+Item 6074 : Dragonic_Shade(Ancient)
+Item 6075 : Dragonic_Crasher(Ancient)
+Item 6076 : 
+Item 6077 : 
+Item 6078 : 
+Item 6079 : 
+Item 6080 : 
+Item 6081 : 
+Item 6082 : 
+Item 6083 : 
+Item 6084 : 
+Item 6085 : 
+Item 6086 : 
+Item 6087 : 
+Item 6088 : 
+Item 6089 : 
+Item 6090 : 
+Item 6091 : 
+Item 6092 : 
+Item 6093 : 
+Item 6094 : 
+Item 6095 : 
+Item 6096 : 
+Item 6097 : 
+Item 6098 : 
+Item 6099 : 
+Item 6100 : 
+Item 6101 : 
+Item 6102 : 
+Item 6103 : 
+Item 6104 : 
+Item 6105 : 
+Item 6106 : 
+Item 6107 : 
+Item 6108 : 
+Item 6109 : 
+Item 6110 : 
+Item 6111 : 
+Item 6112 : 
+Item 6113 : 
+Item 6114 : 
+Item 6115 : 
+Item 6116 : 
+Item 6117 : 
+Item 6118 : 
+Item 6119 : 
+Item 6120 : 
+Item 6121 : 
+Item 6122 : 
+Item 6123 : 
+Item 6124 : 
+Item 6125 : 
+Item 6126 : 
+Item 6127 : 
+Item 6128 : 
+Item 6129 : 
+Item 6130 : 
+Item 6131 : 
+Item 6132 : 
+Item 6133 : 
+Item 6134 : 
+Item 6135 : 
+Item 6136 : 
+Item 6137 : 
+Item 6138 : 
+Item 6139 : 
+Item 6140 : 
+Item 6141 : 
+Item 6142 : 
+Item 6143 : 
+Item 6144 : 
+Item 6145 : 
+Item 6146 : 
+Item 6147 : 
+Item 6148 : 
+Item 6149 : 
+Item 6150 : 
+Item 6151 : 
+Item 6152 : 
+Item 6153 : 
+Item 6154 : 
+Item 6155 : 
+Item 6156 : 
+Item 6157 : 
+Item 6158 : 
+Item 6159 : 
+Item 6160 : 
+Item 6161 : 
+Item 6162 : 
+Item 6163 : 
+Item 6164 : 
+Item 6165 : 
+Item 6166 : 
+Item 6167 : 
+Item 6168 : 
+Item 6169 : 
+Item 6170 : 
+Item 6171 : 
+Item 6172 : 
+Item 6173 : 
+Item 6174 : 
+Item 6175 : 
+Item 6176 : 
+Item 6177 : 
+Item 6178 : 
+Item 6179 : 
+Item 6180 : 
+Item 6181 : 
+Item 6182 : 
+Item 6183 : 
+Item 6184 : 
+Item 6185 : 
+Item 6186 : 
+Item 6187 : 
+Item 6188 : 
+Item 6189 : 
+Item 6190 : 
+Item 6191 : 
+Item 6192 : 
+Item 6193 : 
+Item 6194 : 
+Item 6195 : 
+Item 6196 : 
+Item 6197 : 
+Item 6198 : 
+Item 6199 : 
+Item 6200 : 
+Item 6201 : 
+Item 6202 : 
+Item 6203 : 
+Item 6204 : 
+Item 6205 : 
+Item 6206 : 
+Item 6207 : 
+Item 6208 : 
+Item 6209 : 
+Item 6210 : 
+Item 6211 : 
+Item 6212 : 
+Item 6213 : 
+Item 6214 : 
+Item 6215 : 
+Item 6216 : 
+Item 6217 : 
+Item 6218 : 
+Item 6219 : 
+Item 6220 : 
+Item 6221 : 
+Item 6222 : 
+Item 6223 : 
+Item 6224 : 
+Item 6225 : 
+Item 6226 : 
+Item 6227 : 
+Item 6228 : 
+Item 6229 : 
+Item 6230 : 
+Item 6231 : 
+Item 6232 : 
+Item 6233 : 
+Item 6234 : 
+Item 6235 : 
+Item 6236 : 
+Item 6237 : 
+Item 6238 : 
+Item 6239 : 
+Item 6240 : 
+Item 6241 : 
+Item 6242 : 
+Item 6243 : 
+Item 6244 : 
+Item 6245 : 
+Item 6246 : 
+Item 6247 : 
+Item 6248 : 
+Item 6249 : 
+Item 6250 : 
+Item 6251 : 
+Item 6252 : 
+Item 6253 : 
+Item 6254 : 
+Item 6255 : 
+Item 6256 : 
+Item 6257 : 
+Item 6258 : 
+Item 6259 : 
+Item 6260 : 
+Item 6261 : 
+Item 6262 : 
+Item 6263 : 
+Item 6264 : 
+Item 6265 : 
+Item 6266 : 
+Item 6267 : 
+Item 6268 : 
+Item 6269 : 
+Item 6270 : 
+Item 6271 : 
+Item 6272 : 
+Item 6273 : 
+Item 6274 : 
+Item 6275 : 
+Item 6276 : 
+Item 6277 : 
+Item 6278 : 
+Item 6279 : 
+Item 6280 : 
+Item 6281 : 
+Item 6282 : 
+Item 6283 : 
+Item 6284 : 
+Item 6285 : 
+Item 6286 : 
+Item 6287 : 
+Item 6288 : 
+Item 6289 : 
+Item 6290 : 
+Item 6291 : 
+Item 6292 : 
+Item 6293 : 
+Item 6294 : 
+Item 6295 : 
+Item 6296 : 
+Item 6297 : 
+Item 6298 : 
+Item 6299 : 
+Item 6300 : 
+Item 6301 : 
+Item 6302 : item_6065
+Item 6303 : 
+Item 6304 : 
+Item 6305 : 
+Item 6306 : 
+Item 6307 : 
+Item 6308 : 
+Item 6309 : 
+Item 6310 : 
+Item 6311 : 
+Item 6312 : 
+Item 6313 : 
+Item 6314 : 
+Item 6315 : 
+Item 6316 : 
+Item 6317 : 
+Item 6318 : 
+Item 6319 : 
+Item 6320 : 
+Item 6321 : 
+Item 6322 : 
+Item 6323 : 
+Item 6324 : 
+Item 6325 : 
+Item 6326 : 
+Item 6327 : 
+Item 6328 : 
+Item 6329 : 
+Item 6330 : 
+Item 6331 : 
+Item 6332 : 
+Item 6333 : 
+Item 6334 : 
+Item 6335 : 
+Item 6336 : 
+Item 6337 : 
+Item 6338 : 
+Item 6339 : 
+Item 6340 : 
+Item 6341 : 
+Item 6342 : 
+Item 6343 : 
+Item 6344 : 
+Item 6345 : 
+Item 6346 : 
+Item 6347 : 
+Item 6348 : 
+Item 6349 : 
+Item 6350 : 
+Item 6351 : 
+Item 6352 : 
+Item 6353 : 
+Item 6354 : 
+Item 6355 : 
+Item 6356 : 
+Item 6357 : 
+Item 6358 : 
+Item 6359 : 
+Item 6360 : 
+Item 6361 : 
+Item 6362 : 
+Item 6363 : 
+Item 6364 : 
+Item 6365 : 
+Item 6366 : 
+Item 6367 : 
+Item 6368 : 
+Item 6369 : 
+Item 6370 : 
+Item 6371 : 
+Item 6372 : 
+Item 6373 : 
+Item 6374 : 
+Item 6375 : 
+Item 6376 : 
+Item 6377 : 
+Item 6378 : 
+Item 6379 : 
+Item 6380 : 
+Item 6381 : 
+Item 6382 : 
+Item 6383 : 
+Item 6384 : 
+Item 6385 : 
+Item 6386 : 
+Item 6387 : 
+Item 6388 : 
+Item 6389 : 
+Item 6390 : 
+Item 6391 : 
+Item 6392 : 
+Item 6393 : 
+Item 6394 : 
+Item 6395 : 
+Item 6396 : 
+Item 6397 : 
+Item 6398 : Bahamut
+Item 6399 : CB_Trant
+Item 6400 : Sand_Lich
+Item 6401 : Ice_Lich
+Item 6402 : Coin_of_Life
+Item 6403 : Ancient_Ore(Damege)
+Item 6404 : Ancient_Ore(Magic)
+Item 6405 : Ancient_Ore(Defence)
+Item 6406 : Ancient_Ore(Critical)
+Item 6407 : Ancient_Ore(Resist)
+Item 6408 : Ancient_Ore(HitRate)
+Item 6409 : Eye_of_Anubis
+Item 6410 : Essence_of_Ancient
+Item 6411 : Key_of_Chaos
+Item 6412 : Ore_of_Chaos
+Item 6413 : 
+Item 6414 : 
+Item 6415 : 
+Item 6416 : 
+Item 6417 : 
+Item 6418 : 
+Item 6419 : 
+Item 6420 : 
+Item 6421 : 
+Item 6422 : 
+Item 6423 : 
+Item 6424 : 
+Item 6425 : 
+Item 6426 : 
+Item 6427 : 
+Item 6428 : 
+Item 6429 : 
+Item 6430 : 
+Item 6431 : 
+Item 6432 : 
+Item 6433 : 
+Item 6434 : 
+Item 6435 : 
+Item 6436 : 
+Item 6437 : 
+Item 6438 : 
+Item 6439 : 
+Item 6440 : 
+Item 6441 : 
+Item 6442 : 
+Item 6443 : 
+Item 6444 : 
+Item 6445 : 
+Item 6446 : 
+Item 6447 : 
+Item 6448 : 
+Item 6449 : 
+Item 6450 : Heaven_Of_Pheonix_Breastplate
+Item 6451 : Heaven_Of_Pheonix_Pants
+Item 6452 : Heaven_Of_Pheonix_Gloves
+Item 6453 : Heaven_Of_Pheonix_Boots
+Item 6454 : Heaven_Of_Naiad_Breastplate
+Item 6455 : Heaven_Of_Naiad_Pants
+Item 6456 : Heaven_Of_Naiad_Gloves
+Item 6457 : Heaven_Of_Naiad_Boots
+Item 6458 : Heaven_Of_Oread_Breastplate
+Item 6459 : Heaven_Of_Oread_Pants
+Item 6460 : Heaven_Of_Oread_Gloves
+Item 6461 : Heaven_Of_Oread_Boots
+Item 6462 : Heaven_Of_Ariel_Breastplate
+Item 6463 : Heaven_Of_Ariel_Pants
+Item 6464 : Heaven_Of_Ariel_Gloves
+Item 6465 : Heaven_Of_Ariel_Boots
+Item 6466 : 
+Item 6467 : 
+Item 6468 : 
+Item 6469 : 
+Item 6470 : 
+Item 6471 : 
+Item 6472 : 
+Item 6473 : 
+Item 6474 : 
+Item 6475 : 
+Item 6476 : 
+Item 6477 : 
+Item 6478 : 
+Item 6479 : 
+Item 6480 : 
+Item 6481 : 
+Item 6482 : 
+Item 6483 : 
+Item 6484 : 
+Item 6485 : 
+Item 6486 : 
+Item 6487 : 
+Item 6488 : 
+Item 6489 : 
+Item 6490 : 
+Item 6491 : 
+Item 6492 : 
+Item 6493 : 
+Item 6494 : 
+Item 6495 : 
+Item 6496 : 
+Item 6497 : 
+Item 6498 : 
+Item 6499 : 

@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Bot">
+      <UniqueIdentifier>{1989ddf8-0295-4cf7-aa42-8cce4f2d70f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wyd_Rupture">
+      <UniqueIdentifier>{e95f0247-6ef3-4a0f-a28e-2a1fc66d7816}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{a2456cc4-39b2-4af9-9b1d-fd30d54df273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Console">
+      <UniqueIdentifier>{4f85204c-82ea-494d-bac6-7b4f79359360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI">
+      <UniqueIdentifier>{abb57502-4061-4a80-8e58-9e225b8c06ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{1d36ef27-9825-486e-94b1-42ccb1cd731d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Functions">
+      <UniqueIdentifier>{4a6f4e3b-b78d-42e8-80c3-a47fe51b3c3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\D3DMenu">
+      <UniqueIdentifier>{d81ff6ed-ae42-431b-9ae8-6c7599b35d9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\EasyWindow">
+      <UniqueIdentifier>{d3c072a8-1ce5-4a5e-8ce8-689da81a2207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowDX11">
+      <UniqueIdentifier>{5a93e9d4-cf5d-4873-a66b-af0924ced502}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowEasyWindow">
+      <UniqueIdentifier>{27dd23dd-91b5-49a8-aa04-397e6c880479}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\imWindow">
+      <UniqueIdentifier>{7a73b422-f361-4bf9-9489-25f4381093b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImGui v1.82">
+      <UniqueIdentifier>{983b797d-8b0e-4cc8-bf59-9e9a611aed55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bot\Header">
+      <UniqueIdentifier>{a8446928-09db-49b4-a51b-6bdbdb78e58f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bot\Source">
+      <UniqueIdentifier>{7e97cfa5-2cb6-4b58-8b98-45932725e38f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Header">
+      <UniqueIdentifier>{bbe7d142-3732-42a0-9c8e-32bb9c6cc65f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Source">
+      <UniqueIdentifier>{629a2619-62ad-46c1-a2d2-375aace163c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Functions\Header">
+      <UniqueIdentifier>{f5844491-ffb9-423e-985c-08b94a1825ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Functions\Source">
+      <UniqueIdentifier>{71e8239a-f613-41dd-ba1a-dec26e1307bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Header">
+      <UniqueIdentifier>{af7c06f3-c4ba-4fa6-89b7-322a52403ea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Source">
+      <UniqueIdentifier>{5d807286-2fdd-4e63-8048-62ece9e5ee6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Misc">
+      <UniqueIdentifier>{c9f35ef0-0314-4b46-9baf-4d4d7a3e6918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Console\Header">
+      <UniqueIdentifier>{19ff6fb0-8ea8-471f-a78b-3dba042716f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Console\Source">
+      <UniqueIdentifier>{d2549703-fffe-4416-92a8-153a382c65e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\EasyWindow\Header">
+      <UniqueIdentifier>{4bd3d89a-9731-4a33-8039-f311aa3331a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\EasyWindow\Source">
+      <UniqueIdentifier>{f6b2391e-b524-4ebe-a4e9-4e3600216156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImGui v1.82\Header">
+      <UniqueIdentifier>{12e48819-bdf8-45da-a961-68e3ee041da7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImGui v1.82\Source">
+      <UniqueIdentifier>{4961d432-44ff-42d2-a602-60683c1a6b8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\imWindow\Header">
+      <UniqueIdentifier>{828529a5-26a9-4edf-a52d-1c9b721cc057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\imWindow\Source">
+      <UniqueIdentifier>{71793849-ed9e-45b2-aab5-20e2def13db7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowDX11\Header">
+      <UniqueIdentifier>{b7bcaab7-de7d-4410-badd-e60625770e01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowDX11\Source">
+      <UniqueIdentifier>{a1e79460-031e-468e-bfc7-9cb3dbb9825e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowEasyWindow\Header">
+      <UniqueIdentifier>{b37f4335-16c0-4334-a7b6-6b06a3967b01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\GUI\ImWindowEasyWindow\Source">
+      <UniqueIdentifier>{45e95b2b-d887-400f-84af-7fd70bdb2172}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wyd_Rupture\Header">
+      <UniqueIdentifier>{6765d6d7-6896-4de4-8d1a-214f3deb0077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wyd_Rupture\Source">
+      <UniqueIdentifier>{0b8948df-e415-4c84-8d74-c30695c26a58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AStar.h">
+      <Filter>Bot\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Bot.h">
+      <Filter>Bot\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Bot\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Bot\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="signal.hpp">
+      <Filter>Bot\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sigscan.h">
+      <Filter>Core\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Core\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Functions\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>Resource Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\D3DMenu\D3D9Menu\Directories\MinHook\Include\MinHook.h">
+      <Filter>Resource Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Resource Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ConsoleMenu\Button.h">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ConsoleMenu\Color.h">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="color.hpp">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="logging.h">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ConsoleMenu\Menu.h">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ConsoleMenu\ProgressBar.h">
+      <Filter>UI\Console\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\EasyWindow.h">
+      <Filter>UI\GUI\EasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imconfig.h">
+      <Filter>UI\GUI\ImGui v1.82\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui.h">
+      <Filter>UI\GUI\ImGui v1.82\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_internal.h">
+      <Filter>UI\GUI\ImGui v1.82\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwContainer.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwMenu.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwPlatformWindow.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwStatusBar.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwToolBar.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindow.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindowManager.h">
+      <Filter>UI\GUI\imWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwPlatformWindowDX11.h">
+      <Filter>UI\GUI\ImWindowDX11\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwWindowManagerDX11.h">
+      <Filter>UI\GUI\ImWindowDX11\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\Win32MessageHelper.h">
+      <Filter>UI\GUI\ImWindowDX11\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwPlatformWindowEasyWindow.h">
+      <Filter>UI\GUI\ImWindowEasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwWindowManagerEasyWindow.h">
+      <Filter>UI\GUI\ImWindowEasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImwConfig.h">
+      <Filter>UI\GUI\ImWindowEasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\ImWindow.h">
+      <Filter>UI\GUI\ImWindowEasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\GUI\ImWindow\ImWindow\sample.h">
+      <Filter>UI\GUI\ImWindowEasyWindow\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wyd_Rupture\wyd_Rupture.h">
+      <Filter>Wyd_Rupture\Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AStar.cpp">
+      <Filter>Bot\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Bot.cpp">
+      <Filter>Bot\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Bot\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Bot\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Core\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>Core\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>Functions\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Functions\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Resource Files\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ConsoleMenu\Button.cpp">
+      <Filter>UI\Console\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ConsoleMenu\Menu.cpp">
+      <Filter>UI\Console\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ConsoleMenu\ProgressBar.cpp">
+      <Filter>UI\Console\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\EasyWindow.cpp">
+      <Filter>UI\GUI\EasyWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\EasyWindowWin32.cpp">
+      <Filter>UI\GUI\EasyWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui.cpp">
+      <Filter>UI\GUI\ImGui v1.82\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_demo.cpp">
+      <Filter>UI\GUI\ImGui v1.82\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_draw.cpp">
+      <Filter>UI\GUI\ImGui v1.82\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_tables.cpp">
+      <Filter>UI\GUI\ImGui v1.82\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\Externals\imgui\imgui_widgets.cpp">
+      <Filter>UI\GUI\ImGui v1.82\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwContainer.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwMenu.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwPlatformWindow.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwStatusBar.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwToolBar.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindow.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow\ImwWindowManager.cpp">
+      <Filter>UI\GUI\imWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwPlatformWindowDX11.cpp">
+      <Filter>UI\GUI\ImWindowDX11\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\ImwWindowManagerDX11.cpp">
+      <Filter>UI\GUI\ImWindowDX11\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\main.cpp">
+      <Filter>UI\GUI\ImWindowDX11\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowDX11\Win32MessageHelper.cpp">
+      <Filter>UI\GUI\ImWindowDX11\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwPlatformWindowEasyWindow.cpp">
+      <Filter>UI\GUI\ImWindowEasyWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindowEasyWindow\ImwWindowManagerEasyWindow.cpp">
+      <Filter>UI\GUI\ImWindowEasyWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\GUI\ImWindow\ImWindow\ImWindow.cpp">
+      <Filter>UI\GUI\ImWindowEasyWindow\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Wyd_Rupture\wyd_Rupture.cpp">
+      <Filter>Wyd_Rupture\Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="detours.lib">
+      <Filter>Resource Files\Misc</Filter>
+    </Library>
+    <Library Include="src\Wyd_Rupture\Wyd_Rupture.lib">
+      <Filter>Resource Files\Misc</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Efficient_Stat_Distribution.txt">
+      <Filter>Resource Files\Misc</Filter>
+    </Text>
+    <Text Include="..\itemlist_EN.txt">
+      <Filter>Resource Files\Misc</Filter>
+    </Text>
+    <Text Include="packetLog.txt">
+      <Filter>Resource Files\Misc</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\Wyd_Rupture\Wyd_Rupture.node">
+      <Filter>Resource Files\Misc</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WYDLan.rc">
+      <Filter>Resource Files\Misc</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

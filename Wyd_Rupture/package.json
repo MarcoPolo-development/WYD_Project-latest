@@ -1,0 +1,20 @@
+{
+  "name": "Wyd_Rupture",
+  "version": "0.0.1",
+  "description": "Packet encoding and decoding",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "author": "Marco' Polo",
+  "license": "MIT",
+  "devDependencies": {
+    "node-gyp": "5.0.7"
+  },
+  "dependencies": {
+    "bindings": "1.5.0",
+    "node-addon-api": "2.0.0"
+  }
+}

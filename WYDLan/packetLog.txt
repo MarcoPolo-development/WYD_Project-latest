@@ -1,0 +1,99 @@
+
+Stat Distribution Packets. Too late to implement atm. We should probably think about rewriting some code to make it less complicated. 
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//STR
+Struct: 00 00 00 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//DEX
+Struct: 00 00 01 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//INT
+Struct: 00 00 02 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//CON
+Struct: 00 00 03 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//WM
+Struct: 01 00 00 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//SM1
+Struct: 01 00 01 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//SM2
+Struct: 01 00 02 00 00 00 00 00
+
+Size: 14 OP code:0x277
+Client:
+Header: 00 00 00 00 77 02 72 00 00 00 00 00		//SM3
+Struct: 01 00 03 00 00 00 00 00
+--------------------------------------------
+13.08.2022 - 09:09:52
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680078702
+
+--------------------------------------------
+13.08.2022 - 09:09:55
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680081852
+
+--------------------------------------------
+13.08.2022 - 09:09:57
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680083502
+
+--------------------------------------------
+13.08.2022 - 09:10:00
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680086569
+
+--------------------------------------------
+13.08.2022 - 09:10:19
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680105769
+
+--------------------------------------------
+13.08.2022 - 09:10:32
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680118919
+
+--------------------------------------------
+13.08.2022 - 09:10:35
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680121103
+
+--------------------------------------------
+13.08.2022 - 09:10:36
+ - Packet: Direction Outgoing
+From 192.168.0.117:1331  To 51.81.0.91:8281
+
+Header: Size 20 PacketId 0x277 ClientId 114 TimeStamp 680122819
+
+--------------------------------------------
